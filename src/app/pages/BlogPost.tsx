@@ -1,76 +1,12 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
-import { useState, useEffect } from "react";
 import { useParams, Link } from "react-router";
-import ReactMarkdown from "react-markdown";
 import { Calendar, ArrowLeft, Tag } from "lucide-react";
-
-interface BlogPostData {
-  title: string;
-  date: string;
-  excerpt?: string;
-  featuredImage?: string;
-  tags?: string[];
-  content: string;
-}
+import { getPostBySlug } from "../data/blog-posts";
 
 export default function BlogPost() {
   const { slug } = useParams();
-  const [post, setPost] = useState<BlogPostData | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(false);
-
-  useEffect(() => {
-    const fetchPost = async () => {
-      try {
-        // Fetch the markdown file from the public/blog directory
-        const response = await fetch(`/blog/${slug}.md`);
-        
-        if (!response.ok) {
-          throw new Error("Post not found");
-        }
-
-        const text = await response.text();
-        
-        // Parse frontmatter manually (simple implementation)
-        const frontmatterRegex = /^---\n([\s\S]*?)\n---\n([\s\S]*)$/;
-        const match = text.match(frontmatterRegex);
-        
-        if (match) {
-          const frontmatter = match[1];
-          const content = match[2];
-          
-          // Parse frontmatter fields
-          const titleMatch = frontmatter.match(/title: ["'](.+)["']/);
-          const dateMatch = frontmatter.match(/date: (.+)/);
-          const excerptMatch = frontmatter.match(/excerpt: ["'](.+)["']/);
-          const featuredImageMatch = frontmatter.match(/featuredImage: ["'](.+)["']/);
-          const tagsMatch = frontmatter.match(/tags: \[(.*)\]/);
-          
-          const postData: BlogPostData = {
-            title: titleMatch ? titleMatch[1] : "Untitled",
-            date: dateMatch ? dateMatch[1] : "",
-            excerpt: excerptMatch ? excerptMatch[1] : undefined,
-            featuredImage: featuredImageMatch && featuredImageMatch[1] ? featuredImageMatch[1] : undefined,
-            tags: tagsMatch ? tagsMatch[1].split(',').map(t => t.trim().replace(/["']/g, '')) : [],
-            content: content.trim()
-          };
-          
-          setPost(postData);
-        }
-        
-        setLoading(false);
-      } catch (error) {
-        console.error("Error fetching post:", error);
-        setError(true);
-        setLoading(false);
-      }
-    };
-
-    if (slug) {
-      fetchPost();
-    }
-  }, [slug]);
+  const post = slug ? getPostBySlug(slug) : undefined;
 
   const formatDate = (dateString: string) => {
     const date = new Date(dateString);
@@ -81,21 +17,7 @@ export default function BlogPost() {
     });
   };
 
-  if (loading) {
-    return (
-      <div className="min-h-screen flex flex-col">
-        <Header />
-        <main className="flex-1 bg-gray-50 py-16 px-4 sm:px-6 lg:px-8">
-          <div className="max-w-3xl mx-auto text-center">
-            <p className="text-gray-500">Loading post...</p>
-          </div>
-        </main>
-        <Footer />
-      </div>
-    );
-  }
-
-  if (error || !post) {
+  if (!post) {
     return (
       <div className="min-h-screen flex flex-col">
         <Header />
@@ -138,12 +60,7 @@ export default function BlogPost() {
                   src={post.featuredImage}
                   alt={post.title}
                   className="w-full h-full object-cover"
-                  onError={(e) => {
-                    console.error('Image failed to load:', post.featuredImage);
-                    e.currentTarget.style.display = 'none';
-                  }}
                 />
-                <p className="text-xs text-gray-500 mt-2">Image path: {post.featuredImage}</p>
               </div>
             )}
 
@@ -174,9 +91,10 @@ export default function BlogPost() {
               )}
             </header>
 
-            <div className="prose prose-lg max-w-none">
-              <ReactMarkdown>{post.content}</ReactMarkdown>
-            </div>
+            <div 
+              className="prose prose-lg max-w-none"
+              dangerouslySetInnerHTML={{ __html: post.content }}
+            />
           </div>
 
           <div className="mt-8 text-center">

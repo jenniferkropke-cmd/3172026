@@ -1,47 +1,11 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
-import { useState, useEffect } from "react";
 import { Link } from "react-router";
 import { Calendar, Clock, Tag } from "lucide-react";
-
-interface BlogPost {
-  slug: string;
-  title: string;
-  date: string;
-  excerpt: string;
-  featuredImage?: string;
-  tags?: string[];
-}
+import { getAllPosts } from "../data/blog-posts";
 
 export default function Blog() {
-  const [posts, setPosts] = useState<BlogPost[]>([]);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    // Fetch blog posts from the public/blog directory
-    const fetchPosts = async () => {
-      try {
-        // Fetch the posts index
-        const response = await fetch('/posts.json');
-        
-        if (response.ok) {
-          const postsData = await response.json();
-          setPosts(postsData);
-        } else {
-          // Fallback to empty array if index doesn't exist yet
-          setPosts([]);
-        }
-        
-        setLoading(false);
-      } catch (error) {
-        console.error("Error fetching posts:", error);
-        setPosts([]);
-        setLoading(false);
-      }
-    };
-
-    fetchPosts();
-  }, []);
+  const posts = getAllPosts();
 
   const formatDate = (dateString: string) => {
     const date = new Date(dateString);
@@ -67,11 +31,7 @@ export default function Blog() {
             </p>
           </div>
 
-          {loading ? (
-            <div className="text-center py-12">
-              <p className="text-gray-500">Loading posts...</p>
-            </div>
-          ) : posts.length === 0 ? (
+          {posts.length === 0 ? (
             <div className="text-center py-12">
               <p className="text-gray-500">No blog posts yet. Check back soon!</p>
             </div>
