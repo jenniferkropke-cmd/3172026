@@ -72,7 +72,6 @@ export interface BlogPost {
 
     <p>If you are preparing for preschool and have questions, we are always here to help.</p>
   `
-},
 }
 
 export const blogPosts: BlogPost[] = [
