@@ -9,12 +9,12 @@ export interface Song {
 
 export const songs: Song[] = [
   {
-    id: "here-i-am-until",
-    title: "Here I Am Until",
+    id: "here-i-am-untrue",
+    title: "Here I Am Untrue",
     theme: "The emotional impact of growing up in a dysfunctional home where pain is hidden behind forced normalcy",
     genre: "alternative rock",
     duration: "3:22",
-    audioFile: "/audio/here-i-am-until-preview.mp3"
+    audioFile: "/audio/here-i-am-untrue-preview.mp3"
   },
   {
     id: "in-8-counts",
@@ -121,20 +121,20 @@ export const songs: Song[] = [
     audioFile: "/audio/and-stayed-preview.mp3"
   },
   {
-    id: "how-the-cycle-breaking",
-    title: "How The Cycle Breaking",
+    id: "how-the-cycle-ends",
+    title: "How The Cycle Ends",
     theme: "Breaking generational cycles through intentional, imperfect love built on presence, healing, and daily choice",
     genre: "piano ballad",
     duration: "3:52",
-    audioFile: "/audio/how-the-cycle-breaking-preview.mp3"
+    audioFile: "/audio/how-the-cycle-ends-preview.mp3"
   },
   {
-    id: "the-endless-possibility",
-    title: "The Endless Possibility",
+    id: "the-endless-powers-of-me",
+    title: "The Endless Powers Of Me",
     theme: "Discovering that true power comes not from escaping pain, but from surviving, rebuilding, and choosing to rise anyway",
     genre: "pop/edm anthem",
     duration: "4:41",
-    audioFile: "/audio/the-endless-possibility-preview.mp3"
+    audioFile: "/audio/the-endless-powers-of-me-preview.mp3"
   }
 ];
 
