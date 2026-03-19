@@ -10,6 +10,7 @@ export function Header() {
     { path: "/", label: "Home" },
     { path: "/projects", label: "Projects" },
     { path: "/services", label: "Services" },
+    { path: "/music", label: "Music" },
     { path: "/contact", label: "Contact" },
     { path: "/blog", label: "Blog" },
   ];
@@ -17,6 +18,9 @@ export function Header() {
   const isActive = (path: string) => {
     if (path === "/blog") {
       return location.pathname.startsWith("/blog");
+    }
+    if (path === "/music") {
+      return location.pathname.startsWith("/music");
     }
     return location.pathname === path;
   };

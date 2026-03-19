@@ -5,6 +5,7 @@ import Services from "./pages/Services";
 import Contact from "./pages/Contact";
 import Blog from "./pages/Blog";
 import BlogPost from "./pages/BlogPost";
+import Music from "./pages/Music";
 
 export const router = createBrowserRouter([
   {
@@ -18,6 +19,10 @@ export const router = createBrowserRouter([
   {
     path: "/services",
     Component: Services,
+  },
+  {
+    path: "/music",
+    Component: Music,
   },
   {
     path: "/contact",

@@ -1,10 +1,31 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { useLocation } from "react-router";
 
 export default function Contact() {
+  const location = useLocation();
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
+  
+  // Get song title from navigation state if available
+  const songTitle = (location.state as any)?.songTitle;
+
+  useEffect(() => {
+    // Pre-populate description if coming from music page
+    if (songTitle) {
+      const descriptionField = document.getElementById('description') as HTMLTextAreaElement;
+      if (descriptionField) {
+        descriptionField.value = `I'm interested in licensing the song "${songTitle}" for my project.`;
+      }
+      
+      // Pre-select Music Licensing project type
+      const projectTypeField = document.getElementById('projectType') as HTMLSelectElement;
+      if (projectTypeField) {
+        projectTypeField.value = 'music';
+      }
+    }
+  }, [songTitle]);
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -136,6 +157,7 @@ export default function Contact() {
                       <option value="social">Social Media Content</option>
                       <option value="branding">Brand Identity</option>
                       <option value="event">Event Documentation</option>
+                      <option value="music">Music Licensing</option>
                       <option value="other">Other</option>
                     </select>
                   </div>

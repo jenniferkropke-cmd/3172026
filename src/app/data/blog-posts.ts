@@ -1,5 +1,50 @@
+export interface BlogPost {
+  slug: string;
+  title: string;
+  date: string;
+  excerpt: string;
+  featuredImage?: string;
+  tags?: string[];
+  content: string; // HTML content - you can use <h1>, <h2>, <p>, etc.
+}
+
 export const blogPosts: BlogPost[] = [
-  
+  {
+    slug: "welcome-to-my-blog",
+    title: "Welcome to My Blog",
+    date: "2025-01-15",
+    excerpt: "I'm excited to share my thoughts, insights, and creative journey with you through this blog.",
+    featuredImage: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&auto=format&fit=crop",
+    tags: ["Welcome", "Updates"],
+    content: `
+      <h1>Welcome to My Blog!</h1>
+      
+      <p>I'm thrilled to launch this blog as a space to share my insights, creative process, and lessons learned along the way.</p>
+      
+      <h2>What You Can Expect</h2>
+      
+      <p>This blog will cover a variety of topics including:</p>
+      
+      <ul>
+        <li>Creative processes and techniques</li>
+        <li>Project case studies and behind-the-scenes insights</li>
+        <li>Industry trends and observations</li>
+        <li>Tips and tricks I've learned</li>
+      </ul>
+      
+      <h2>Why I Started This Blog</h2>
+      
+      <p>Throughout my career, I've learned so much from others who generously share their knowledge. This blog is my way of giving back to the community and connecting with fellow creatives.</p>
+      
+      <p>I believe in the power of shared knowledge and open dialogue. Whether you're just starting out or are well-established in your field, I hope you'll find something valuable here.</p>
+      
+      <h2>Let's Connect</h2>
+      
+      <p>I'd love to hear from you! Feel free to reach out through my <a href="/contact" style="color: #14b8a6; text-decoration: underline;">contact page</a> if you have questions, suggestions, or just want to say hi.</p>
+      
+      <p>Thanks for being here, and I look forward to sharing this journey with you!</p>
+    `
+  },
   {
     slug: "creative-process",
     title: "My Creative Process: From Concept to Completion",
