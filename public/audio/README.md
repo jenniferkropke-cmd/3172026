@@ -6,7 +6,7 @@ This folder contains 30-second watermarked preview clips for all songs.
 
 Each preview file should be named exactly as referenced in `/src/app/data/songs.ts`:
 
-1. `here-i-am-until-preview.mp3`
+1. `here-i-am-untrue-preview.mp3`
 2. `in-8-counts-preview.mp3`
 3. `my-shame-preview.mp3`
 4. `fall-apart-preview.mp3`
@@ -20,8 +20,8 @@ Each preview file should be named exactly as referenced in `/src/app/data/songs.
 12. `16-candles-preview.mp3`
 13. `madelyn-preview.mp3`
 14. `and-stayed-preview.mp3`
-15. `how-the-cycle-breaking-preview.mp3`
-16. `the-endless-possibility-preview.mp3`
+15. `how-the-cycle-ends-preview.mp3`
+16. `the-endless-powers-of-me-preview.mp3`
 
 ## How to Add Your Audio Files
 
