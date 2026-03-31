@@ -1,6 +1,8 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
+import { Link } from "react-router";
+import { SEO } from "../components/SEO";
 import { 
   Video, 
   Globe, 
@@ -123,6 +125,12 @@ export default function Services() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Services - Jennifer Kropke | Video Production & Web Design"
+        description="Professional video production, custom website design, social media content creation, and digital solutions for mission-driven organizations. Over a decade of experience helping nonprofits and educational institutions tell their stories."
+        canonical="https://jenniferkropke.com/services"
+        keywords="video production services, custom website design, social media content creation, nonprofit video, educational content, event videography, brand identity, Chicago video production, web design services"
+      />
       <Header />
 
       <main className="flex-1">
@@ -154,16 +162,66 @@ export default function Services() {
 
         {/* Intro Section */}
         <section className="bg-white py-12 px-4 sm:px-6 lg:px-8">
-          <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-3xl font-semibold mb-6">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-3xl font-semibold mb-6 text-center">
               Custom Web & Video Solutions by Jennifer Kropke
             </h2>
-            <p className="text-lg text-gray-700 leading-relaxed">
-              I specialize in creating tailored digital experiences that combine stunning design, 
-              compelling storytelling, and strategic thinking. Whether you need a complete brand 
-              overhaul or a single promotional video, I bring creativity, technical expertise, 
-              and a passion for mission-driven work to every project.
-            </p>
+            <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
+              <p>
+                I specialize in creating tailored digital experiences that combine stunning design, 
+                compelling storytelling, and strategic thinking. Whether you need a complete brand 
+                overhaul or a single promotional video, I bring creativity, technical expertise, 
+                and a passion for mission-driven work to every project.
+              </p>
+              <p>
+                With over a decade of experience working with nonprofits, educational institutions, 
+                and community organizations, I understand the unique challenges mission-driven groups 
+                face. Limited budgets, tight timelines, and the need to communicate complex ideas 
+                simply—these are challenges I navigate daily. My approach is collaborative, transparent, 
+                and focused on delivering results that exceed expectations while respecting your resources.
+              </p>
+              <p>
+                What sets my work apart is the combination of technical skill and genuine understanding 
+                of storytelling. I don't just create websites or videos—I craft experiences that connect 
+                emotionally with your audience, inspire action, and amplify your impact. Every project 
+                begins with listening: understanding your mission, your audience, and your goals. From 
+                there, I develop a custom strategy that leverages the right mix of design, video, and 
+                digital tools to bring your vision to life.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* Process Section */}
+        <section className="bg-gradient-to-br from-teal-50 to-pink-50 py-12 px-4 sm:px-6 lg:px-8">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-3xl font-semibold mb-8 text-center">How I Work</h2>
+            <div className="grid md:grid-cols-3 gap-8">
+              <div className="bg-white p-6 rounded-lg shadow-sm">
+                <div className="text-3xl font-bold text-primary mb-3">01</div>
+                <h3 className="text-xl font-semibold mb-3">Discovery & Strategy</h3>
+                <p className="text-gray-700">
+                  We start with a conversation about your goals, audience, and vision. I take time 
+                  to understand your organization's unique story and what success looks like for you.
+                </p>
+              </div>
+              <div className="bg-white p-6 rounded-lg shadow-sm">
+                <div className="text-3xl font-bold text-secondary mb-3">02</div>
+                <h3 className="text-xl font-semibold mb-3">Creation & Collaboration</h3>
+                <p className="text-gray-700">
+                  I develop concepts, share drafts, and incorporate your feedback throughout the process. 
+                  You'll never be surprised—collaboration keeps us aligned every step of the way.
+                </p>
+              </div>
+              <div className="bg-white p-6 rounded-lg shadow-sm">
+                <div className="text-3xl font-bold text-primary mb-3">03</div>
+                <h3 className="text-xl font-semibold mb-3">Delivery & Support</h3>
+                <p className="text-gray-700">
+                  I deliver polished, professional work on time and provide guidance on implementation. 
+                  Post-launch support ensures everything runs smoothly and achieves your objectives.
+                </p>
+              </div>
+            </div>
           </div>
         </section>
 
@@ -222,6 +280,36 @@ export default function Services() {
                   Next
                 </button>
               </div>
+            </div>
+          </div>
+        </section>
+
+        {/* CTA Section with Internal Links */}
+        <section className="bg-gradient-to-br from-teal-50 to-pink-50 py-16 px-4 sm:px-6 lg:px-8">
+          <div className="max-w-4xl mx-auto text-center">
+            <h2 className="text-3xl font-semibold mb-6">Ready to Get Started?</h2>
+            <p className="text-lg text-gray-700 mb-8">
+              Let's discuss your project and create something amazing together. I'm here to help 
+              bring your vision to life with custom digital solutions tailored to your needs.
+            </p>
+            <div className="flex flex-wrap justify-center gap-4">
+              <Link
+                to="/contact"
+                className="bg-gradient-to-r from-primary to-secondary text-white px-8 py-3 rounded-lg hover:shadow-lg transition-shadow font-medium"
+              >
+                Start a Project
+              </Link>
+              <Link
+                to="/projects"
+                className="bg-white text-primary border-2 border-primary px-8 py-3 rounded-lg hover:shadow-lg transition-shadow font-medium"
+              >
+                View My Work
+              </Link>
+            </div>
+            <div className="mt-8 pt-8 border-t border-gray-300">
+              <p className="text-gray-600 mb-4">
+                Interested in other offerings? Check out my <Link to="/music" className="text-primary underline hover:text-secondary">original music for licensing</Link> or read about creative processes and industry insights on my <Link to="/blog" className="text-primary underline hover:text-secondary">blog</Link>.
+              </p>
             </div>
           </div>
         </section>

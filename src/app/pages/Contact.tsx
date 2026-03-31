@@ -1,5 +1,6 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
+import { SEO } from "../components/SEO";
 import { useState, useEffect } from "react";
 import { useLocation } from "react-router";
 
@@ -58,6 +59,12 @@ export default function Contact() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Contact - Jennifer Kropke | Get In Touch"
+        description="Ready to start your project? Contact Jennifer Kropke for video production, web design, music licensing, and creative services. Serving nonprofits, educational institutions, and mission-driven organizations."
+        canonical="https://jenniferkropke.com/contact"
+        keywords="contact Jennifer Kropke, video production inquiry, web design contact, music licensing inquiry, creative services, project consultation"
+      />
       <Header />
 
       <main className="flex-1 bg-gray-50 py-16 px-4 sm:px-6 lg:px-8">
