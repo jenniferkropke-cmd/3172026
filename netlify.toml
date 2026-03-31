@@ -1,9 +1,5 @@
-[build]
-  command = "npm run build"
-  publish = "dist"
-
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
+  from = "/old-path"
+  to = "/new-path"
   status = 200
-  force = true
+  force = false
