@@ -89,6 +89,7 @@ export const blogPosts: BlogPost[] = [
   title: "Breaking Patterns: The Moment You Realize You Can Choose Differently",
   date: "2026-04-02",
   excerpt: "There’s a moment in your personal growth journey when you realize you don’t have to repeat what you were given. This is what it looks like to choose differently.",
+  featuredImage: "/images/breaking.jpg",
   tags: ["Personal Growth", "Healing", "Motherhood", "Self Development"],
   content: `
     <p>There’s a moment in your life when something shifts.</p>
