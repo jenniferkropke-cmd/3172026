@@ -198,6 +198,185 @@ export const blogPosts: BlogPost[] = [
     <p>— Jen</p>
   `
 }
+  {
+  slug: "the-line-between-pushing-and-protecting",
+  title: "The Line Between Pushing and Protecting",
+  date: "2026-04-08",
+  excerpt: "A real parenting moment about pushing vs protecting, breaking patterns, and learning how to support your child without repeating the past.",
+  featuredImage: "https://drive.google.com/uc?export=view&id=1Ev2Q3uIBll_Ik-oqJdXBzbOC6IoVCdBS",
+  tags: ["Motherhood", "Parenting", "Personal Growth", "Breaking Patterns"],
+  content: `
+    <h1>The Line Between Pushing and Protecting</h1>
+
+    <p>There’s a moment in parenting that no one really prepares you for.  
+    The moment where your role shifts from simply protecting your child… to guiding their growth.</p>
+
+    <p>The moment where you have to decide  
+    do I push…  
+    or do I protect?</p>
+
+    <p>And sometimes, the hardest part is realizing those two things can look almost identical in the moment.</p>
+
+    <p>My daughter recently auditioned for her school talent show.</p>
+
+    <p>She made it.</p>
+
+    <p>She was excited. I was excited. It felt like one of those moments you want to bottle up and keep forever.</p>
+
+    <p>So we practiced.</p>
+
+    <p>The singing. The dancing. The timing.  
+    We worked through it together.</p>
+
+    <p>But the day before her first dress rehearsal, something shifted.</p>
+
+    <p>She started rushing through everything.  
+    Cutting corners. Skipping energy. Half doing it.</p>
+
+    <p>Because she wanted to get back to her game.</p>
+
+    <p>And I saw it immediately.</p>
+
+    <p>So I told her the truth in that moment as a parent trying to balance support and accountability.</p>
+
+    <p>I told her if she went into dress rehearsal like that, they could pull her act.</p>
+
+    <p>And she broke.</p>
+
+    <p>Tears. Anxiety. Shut down.</p>
+
+    <p>And instantly, everything inside me questioned what I had just done.</p>
+
+    <p>My son stepped in.</p>
+
+    <p>He told me I was being too hard on her.</p>
+
+    <p>And that hit me deeper than I expected.</p>
+
+    <p>Because he wasn’t just reacting to <em>her moment</em>…  
+    he was reacting to <em>his memory of me</em>.</p>
+
+    <p>Later, my husband and my niece told me something completely different.</p>
+
+    <p>That I did exactly what I was supposed to do.</p>
+
+    <p>That I was preparing her.  
+    Not tearing her down.</p>
+
+    <p>And now I was sitting in the middle of two completely different reflections of myself.</p>
+
+    <p>Too hard.  
+    Or exactly right.</p>
+
+    <p>And I cried.</p>
+
+    <p>Because this is the part of parenting and personal growth that doesn’t get talked about enough.</p>
+
+    <p>Not the highlight reel.  
+    Not the proud moment on stage.</p>
+
+    <p>But the quiet moments after, when you’re lying in bed wondering…</p>
+
+    <p>Did I just help my child grow  
+    or did I just pass something down that I’ve been trying to break?</p>
+
+    <p>That question isn’t new for me.</p>
+
+    <p>It’s part of a deeper pattern I’ve been learning to recognize as both a parent and a person working to break generational patterns.</p>
+
+    <p>If you read my first post,  
+    <a href="/blog/inherited-weather-introduction">Inherited Weather: Why I’m Finally Sharing My Story</a>,  
+    this is exactly what I was talking about.</p>
+
+    <p>The patterns we don’t always see until we’re in the middle of them.</p>
+
+    <p>That night, I didn’t really sleep.</p>
+
+    <p>I replayed everything.</p>
+
+    <p>My tone. My words. Her face.</p>
+
+    <p>All of it.</p>
+
+    <p>The next day, her dad texted me after rehearsal.</p>
+
+    <p>He said she told him everyone clapped so loud for her.</p>
+
+    <p>That she had the biggest smile.</p>
+
+    <p>And I just sat there for a second.</p>
+
+    <p>Because that’s the part you don’t see coming.</p>
+
+    <p>The part where growth and discomfort exist in the same space.</p>
+
+    <p>Later, my son and I talked.</p>
+
+    <p>Really talked.</p>
+
+    <p>And we both realized something important.</p>
+
+    <p>He was mixing his past experiences with mine… with hers.</p>
+
+    <p>But they are not the same story.</p>
+
+    <p>They are not the same child.</p>
+
+    <p>And they do not need the same version of me.</p>
+
+    <p>That realization brought me right back to something I wrote in my last post,  
+    <a href="/blog/breaking-patterns-personal-growth">Breaking Patterns: The Moment You Realize You Can Choose Differently</a>.</p>
+
+    <p>Because this is what that moment actually looks like in real life.</p>
+
+    <p>Not calm.  
+    Not clear.  
+    Not perfectly handled.</p>
+
+    <p>Just awareness… in the middle of it.</p>
+
+    <p>And I realized something too about parenting and growth.</p>
+
+    <p>I can still be right in my intention  
+    and wrong in my delivery.</p>
+
+    <p>Both things can be true at the same time.</p>
+
+    <p>That’s the real work for me right now as a parent.</p>
+
+    <p>Not just breaking patterns in what I say  
+    but in how I say it.</p>
+
+    <p>Not removing expectations  
+    but learning how to hold them with care.</p>
+
+    <p>Because I don’t want to raise kids who are afraid to try.</p>
+
+    <p>But I also don’t want to raise kids who quit the moment something gets hard.</p>
+
+    <p>And somewhere in between those two things…</p>
+
+    <p>is the line I am still learning how to walk.</p>
+
+    <p>This is what I mean by <em>Inherited Weather</em> and how generational patterns show up in parenting.</p>
+
+    <p>But maybe growth isn’t about getting it perfect.</p>
+
+    <p>Maybe it’s about being willing to reflect, repair, and do it differently next time.</p>
+
+    <p>And maybe the win isn’t that I handled it perfectly.</p>
+
+    <p>Maybe the win is that I questioned it at all.</p>
+
+    <p>Because she got on that stage and shined.</p>
+
+    <p>And I’m still learning how to stand beside that light  
+    without dimming it  
+    or pushing it too hard.</p>
+
+    <p>— Jen</p>
+  `
+}
 ];
 
 // Helper function to get a post by slug
