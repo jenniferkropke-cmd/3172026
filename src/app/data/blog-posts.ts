@@ -203,7 +203,7 @@ export const blogPosts: BlogPost[] = [
   title: "The Line Between Pushing and Protecting",
   date: "2026-04-08",
   excerpt: "A real parenting moment about pushing vs protecting, breaking patterns, and learning how to support your child without repeating the past.",
-  featuredImage: "https://drive.google.com/uc?export=view&id=1Ev2Q3uIBll_Ik-oqJdXBzbOC6IoVCdBS",
+  featuredImage: "/images/uploads/push-blog.jpg",
   tags: ["Motherhood", "Parenting", "Personal Growth", "Breaking Patterns"],
   content: `
     <h1>The Line Between Pushing and Protecting</h1>
