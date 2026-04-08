@@ -197,7 +197,7 @@ export const blogPosts: BlogPost[] = [
 
     <p>— Jen</p>
   `
-}
+},
   {
   slug: "the-line-between-pushing-and-protecting",
   title: "The Line Between Pushing and Protecting",
