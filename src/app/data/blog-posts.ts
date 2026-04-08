@@ -285,7 +285,7 @@ export const blogPosts: BlogPost[] = [
     <p>It’s part of a deeper pattern I’ve been learning to recognize as both a parent and a person working to break generational patterns.</p>
 
     <p>If you read my first post,  
-    <a href="/blog/inherited-weather-introduction">Inherited Weather: Why I’m Finally Sharing My Story</a>,  
+    <strong><a href="/blog/inherited-weather-introduction">Inherited Weather: Why I’m Finally Sharing My Story</a></strong>,  
     this is exactly what I was talking about.</p>
 
     <p>The patterns we don’t always see until we’re in the middle of them.</p>
@@ -325,7 +325,7 @@ export const blogPosts: BlogPost[] = [
     <p>And they do not need the same version of me.</p>
 
     <p>That realization brought me right back to something I wrote in my last post,  
-    <a href="/blog/breaking-patterns-personal-growth">Breaking Patterns: The Moment You Realize You Can Choose Differently</a>.</p>
+    <strong><a href="/blog/breaking-patterns-personal-growth">Breaking Patterns: The Moment You Realize You Can Choose Differently</a></strong>.</p>
 
     <p>Because this is what that moment actually looks like in real life.</p>
 
