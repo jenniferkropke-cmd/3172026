@@ -376,6 +376,190 @@ export const blogPosts: BlogPost[] = [
 
     <p>— Jen</p>
   `
+},
+  {
+  slug: "when-your-childs-reaction-triggers-your-past",
+  title: "When Your Child’s Reaction Triggers Your Past",
+  date: "2026-04-15",
+  excerpt: "Two completely separate moments revealed the same truth. Sometimes it’s not about what we mean… it’s about how we’re felt.",
+  featuredImage: "/images/uploads/reaction-blog.jpg",
+  tags: ["Motherhood", "Parenting", "Personal Growth", "Healing"],
+  content: `
+    <h1>When Your Child’s Reaction Triggers Your Past</h1>
+
+    <p>I’ve been sitting with something lately.</p>
+
+    <p>Not one specific moment…  
+    but two completely separate ones.</p>
+
+    <p>And what’s bothering me is that even though they had nothing to do with each other…</p>
+
+    <p>they showed me the exact same thing.</p>
+
+    <p>The first was with my kids.</p>
+
+    <p>The second was with my niece.</p>
+
+    <p>Two different situations.  
+    Two different conversations.  
+    Two completely different contexts.</p>
+
+    <p>But somehow…  
+    they landed in almost the same way.</p>
+
+    <p>That’s what I can’t stop thinking about.</p>
+
+    <p>Because in both situations, I walked away feeling the same thing:</p>
+
+    <p>Like what I meant to say…  
+    and what people felt from me…</p>
+
+    <p>were not the same.</p>
+
+    <p>With my kids, it showed up one way.</p>
+
+    <p>My daughter shut down.</p>
+
+    <p>My son got upset with me.</p>
+
+    <p>And later, when we talked, I realized something I didn’t fully understand before…</p>
+
+    <p>They don’t just experience me in the moment.</p>
+
+    <p>They experience me through everything that’s come before it.</p>
+
+    <p>So even if I’m responding to what’s happening right now…</p>
+
+    <p>they might be feeling something from before.</p>
+
+    <p>That was hard to sit with.</p>
+
+    <p>And then separately…  
+    there was my niece.</p>
+
+    <p>That situation had nothing to do with parenting.</p>
+
+    <p>It was just a real life moment where someone I love was trying to share how they were feeling.</p>
+
+    <p>And instead of just listening…</p>
+
+    <p>I went straight into trying to fix it.</p>
+
+    <p>Trying to make it make sense.  
+    Trying to offer solutions.  
+    Trying to help.</p>
+
+    <p>But that’s not what she needed.</p>
+
+    <p>And it didn’t land that way.</p>
+
+    <p>It escalated.</p>
+
+    <p>Feelings got hurt.</p>
+
+    <p>And the worst part for me…</p>
+
+    <p>was realizing she thought I was pushing her away.</p>
+
+    <p>That part stuck with me the most.</p>
+
+    <p>Because that was never what I meant.</p>
+
+    <p>Not even close.</p>
+
+    <p>And that’s when it clicked.</p>
+
+    <p>Two completely different situations.</p>
+
+    <p>But the same underlying issue.</p>
+
+    <p>I wasn’t always communicating what I thought I was.</p>
+
+    <p>I was trying to help.</p>
+
+    <p>Trying to guide.</p>
+
+    <p>Trying to support.</p>
+
+    <p>But sometimes…</p>
+
+    <p>it was being felt as pressure.</p>
+
+    <p>Or dismissal.</p>
+
+    <p>Or something else entirely.</p>
+
+    <p>And that’s a hard thing to sit with.</p>
+
+    <p>Because it forces you to ask a different question.</p>
+
+    <p>Not just:</p>
+
+    <p>Did I mean well?</p>
+
+    <p>But:</p>
+
+    <p>How did that actually feel to them?</p>
+
+    <p>That’s a different level of awareness.</p>
+
+    <p>And I think that’s where growth really starts.</p>
+
+    <p>Not in being perfect.</p>
+
+    <p>Not in never getting it wrong.</p>
+
+    <p>But in being willing to look at the gap…</p>
+
+    <p>between your intention  
+    and your impact.</p>
+
+    <p>That gap is uncomfortable.</p>
+
+    <p>But it’s also where everything shifts.</p>
+
+    <p>This connects so much to what I’ve been writing about in  
+    <strong><a href="/blog/the-line-between-pushing-and-protecting">The Line Between Pushing and Protecting</a></strong>  
+    and even back to  
+    <strong><a href="/blog/inherited-weather-introduction">Inherited Weather</a></strong>.</p>
+
+    <p>Because these things don’t just show up in one area of your life.</p>
+
+    <p>They show up everywhere.</p>
+
+    <p>In parenting.  
+    In relationships.  
+    In the way you respond when someone you love is struggling.</p>
+
+    <p>The patterns are consistent…</p>
+
+    <p>even when the situations aren’t.</p>
+
+    <p>And I think that’s what I’m learning right now.</p>
+
+    <p>It’s not about controlling every moment.</p>
+
+    <p>It’s about paying attention to what those moments reveal.</p>
+
+    <p>And being willing to adjust.</p>
+
+    <p>Because the goal isn’t just to be understood.</p>
+
+    <p>It’s to make the people in your life feel understood too.</p>
+
+    <p>I’m still figuring that out.</p>
+
+    <p>But I’m noticing it now.  
+    And that feels like a start.</p>
+
+    <p>Because at the end of the day…</p>
+
+    <p>it’s not just about what we say.</p>
+
+    <p>It’s about how we’re felt.</p>
+
+    <p>— Jen</p>
+  `
 }
 ];
 
