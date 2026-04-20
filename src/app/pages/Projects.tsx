@@ -1,5 +1,6 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
+import { SEO } from "../components/SEO";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
 
 const projects = [
@@ -177,6 +178,12 @@ const projects = [
 export default function Projects() {
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Projects - Jennifer Kropke | Creative Direction & Digital Media Portfolio"
+        description="A collection of Jennifer Kropke's creative direction, digital media, and design work — spanning video production, web design, social campaigns, and educational storytelling for mission-driven organizations."
+        canonical="https://jenniferkropke.com/projects"
+        keywords="Jennifer Kropke projects, creative direction portfolio, video production work, web design portfolio, nonprofit marketing projects, educational storytelling, digital media portfolio"
+      />
       <Header />
 
       <main className="flex-1 bg-white py-16 px-4 sm:px-6 lg:px-8">
