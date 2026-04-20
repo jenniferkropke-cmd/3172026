@@ -1,8 +1,15 @@
 import React from 'react';
+import { SEO } from '../components/SEO';
 
 const Music = () => {
     return (
         <div>
+            <SEO
+                title="Music Licensing - Jennifer Kropke | Original Music for Film & TV"
+                description="Original music for film, TV, and storytelling projects. All songs are fully cleared for commercial use. Unique soundscapes tailored to your project needs."
+                canonical="https://jenniferkropke.com/music"
+                keywords="Jennifer Kropke music, music licensing, original music, film music, TV music, commercial music, music for storytelling, music supervisor"
+            />
             <h1>Original Music for Film, TV, and Storytelling Projects</h1>
             <p>All songs are fully cleared for commercial use.</p>
             <p>We utilize innovative music production tools to create unique soundscapes tailored to your project needs.</p>

@@ -1,5 +1,6 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
+import { SEO } from "../components/SEO";
 import { FeaturedWorkSlider } from "../components/FeaturedWorkSlider";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
 import { useState } from "react";
@@ -39,6 +40,12 @@ export default function Home() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Jennifer Kropke - Creative Direction | Digital Media | Design"
+        description="Multimedia professional specializing in video production, web design, social campaigns, and educational storytelling for mission-driven organizations. Serving nonprofits, education, and community-focused clients."
+        canonical="https://jenniferkropke.com/"
+        keywords="Jennifer Kropke, creative direction, digital media, video production, web design, social media campaigns, nonprofit marketing, educational storytelling, video editing, multimedia production, Chicago creative professional"
+      />
       <Header />
 
       {/* Hero Section */}
