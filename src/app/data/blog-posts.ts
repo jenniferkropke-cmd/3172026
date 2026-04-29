@@ -565,7 +565,7 @@ export const blogPosts: BlogPost[] = [
   slug: "the-aftermath-of-letting-go",
   title: "The Aftermath of Letting Go",
   date: "2026-04-29",
-  excerpt: "What it felt like to release The Endless Powers Of Me and revisit the past while writing my first album.",
+  excerpt: "Releasing The Endless Powers Of Me, revisiting the past, and what it actually feels like to create your first album.",
   featuredImage: "/images/uploads/aftermath.jpg",
   tags: ["music", "writing", "healing", "personal"],
   content: `
@@ -573,19 +573,23 @@ export const blogPosts: BlogPost[] = [
 
     <p>And I don’t think I was ready for how quiet it would feel afterward.</p>
 
-    <p>Not externally. People listened. Some reached out. Some didn’t. That’s not the quiet I mean.</p>
+    <p><strong>Not externally.</strong> People listened. Some reached out. Some didn’t.</p>
 
-    <p>I mean the internal kind.</p>
+    <p>That’s not the quiet I mean.</p>
+
+    <p><strong>I mean the internal kind.</strong></p>
 
     <p>The kind that settles in after you finally say something you’ve been carrying for years.</p>
 
-    <hr />
+    <br/>
 
-    <p>When I wrote my first blog, <em>Inherited Weather</em>, I talked about the idea that we don’t start from scratch. We inherit emotional climates. Patterns. Survival instincts that don’t always look like survival until much later.</p>
+    <p>When I wrote <a href="/blog/inherited-weather"><em>Inherited Weather</em></a>, I talked about how we don’t start from scratch.</p>
 
-    <p>This album is what happened when I stopped observing that… and actually stepped inside it.</p>
+    <p>We inherit emotional climates. Patterns. Survival instincts that don’t always look like survival until much later.</p>
 
-    <hr />
+    <p><strong>This album is what happened when I stopped observing that… and stepped inside it.</strong></p>
+
+    <br/>
 
     <p>Every song on this project came from a moment I had already lived through once.</p>
 
@@ -595,24 +599,26 @@ export const blogPosts: BlogPost[] = [
 
     <p>But close enough.</p>
 
-    <hr />
+    <br/>
 
     <p>There were nights I sat with memories I had spent years reshaping just to make them easier to hold.</p>
 
-    <p>Moments where I had to ask myself hard questions:</p>
+    <p><strong>Moments where I had to ask myself:</strong></p>
 
-    <p>Was it really that bad?<br/>
-    Was I overreacting?<br/>
-    Why did I stay?<br/>
-    Why did I let that define me for so long?</p>
+    <ul>
+      <li>Was it really that bad?</li>
+      <li>Was I overreacting?</li>
+      <li>Why did I stay?</li>
+      <li>Why did I let that define me for so long?</li>
+    </ul>
 
     <p>And then the harder one:</p>
 
-    <p>Why am I still carrying it?</p>
+    <p><strong>Why am I still carrying it?</strong></p>
 
-    <hr />
+    <br/>
 
-    <p>In <em>Part One</em>, I started to face that idea.</p>
+    <p>In <a href="/blog/breaking-patterns"><em>Part One</em></a>, I started to face that idea.</p>
 
     <p>Not perfectly. Not completely.</p>
 
@@ -620,19 +626,17 @@ export const blogPosts: BlogPost[] = [
 
     <p>It was the beginning of realizing that just because something shaped me doesn’t mean it gets to keep deciding who I am.</p>
 
-    <p>But realization and action are not the same thing.</p>
+    <p><strong>But realization and action are not the same thing.</strong></p>
 
-    <hr />
+    <br/>
 
     <p>That’s what this album became.</p>
 
-    <p>Not closure.</p>
+    <p><strong>Not closure.</strong></p>
+    <p><strong>Not clean, finished healing.</strong></p>
+    <p><strong>But confrontation.</strong></p>
 
-    <p>Not healing in the clean, finished sense people like to talk about.</p>
-
-    <p>But confrontation.</p>
-
-    <hr />
+    <br/>
 
     <p>Some songs pulled from places I hadn’t touched in years.</p>
 
@@ -646,33 +650,31 @@ export const blogPosts: BlogPost[] = [
 
     <p>The kind that kept everything moving so nothing had to be felt all the way through.</p>
 
-    <hr />
+    <br/>
 
     <p>There’s a strange tension in creating something like this.</p>
 
-    <p>Because on one hand, it’s art.</p>
+    <p><strong>Because on one hand, it’s art.</strong></p>
 
-    <p>It’s structure. Melody. Production choices. Strategy.</p>
+    <p>Structure. Melody. Production. Strategy.</p>
 
-    <p>But underneath all of that, it’s evidence.</p>
+    <p><strong>But underneath all of that, it’s evidence.</strong></p>
 
-    <p>Proof that something happened.</p>
+    <ul>
+      <li>Proof that something happened</li>
+      <li>Proof that it stayed</li>
+      <li>Proof that it shaped you</li>
+    </ul>
 
-    <p>Proof that it stayed.</p>
-
-    <p>Proof that it shaped you.</p>
-
-    <hr />
+    <br/>
 
     <p>And then you release it.</p>
 
     <p>You take something that lived inside of you for years and make it public.</p>
 
-    <p>Permanent.</p>
+    <p><strong>Permanent. Searchable. Real.</strong></p>
 
-    <p>Searchable.</p>
-
-    <hr />
+    <br/>
 
     <p>That part is harder than I expected.</p>
 
@@ -680,47 +682,43 @@ export const blogPosts: BlogPost[] = [
 
     <p>But because there’s no taking it back.</p>
 
-    <p>There’s no softening it after the fact.</p>
+    <p>No softening it after the fact.</p>
 
     <p>No explaining it differently depending on who’s listening.</p>
 
-    <hr />
+    <br/>
 
-    <p>It just exists now.</p>
+    <p><strong>It just exists now.</strong></p>
 
     <p>Exactly as it is.</p>
-
     <p>Exactly as I was when I wrote it.</p>
 
-    <hr />
+    <br/>
 
     <p>And somehow, that’s where the shift happened.</p>
 
     <p>Not in writing the songs.</p>
-
     <p>Not even in releasing them.</p>
 
-    <p>But in realizing I didn’t need to protect those versions of me anymore.</p>
+    <p><strong>But in realizing I didn’t need to protect those versions of me anymore.</strong></p>
 
-    <hr />
+    <br/>
 
     <p>For so long, I thought healing meant rewriting the story.</p>
 
     <p>Making it cleaner. Stronger. More inspiring.</p>
 
-    <p>But this album didn’t do that.</p>
+    <p><strong>But this album didn’t do that.</strong></p>
 
     <p>It let the story stay messy.</p>
-
     <p>Honest.</p>
-
     <p>Uncomfortable in places.</p>
 
-    <hr />
+    <br/>
 
     <p>And maybe that’s what <em>The Endless Powers Of Me</em> actually is.</p>
 
-    <p>Not a statement that I’ve overcome everything.</p>
+    <p><strong>Not a statement that I’ve overcome everything.</strong></p>
 
     <p>But proof that I can hold all of it at once.</p>
 
@@ -728,41 +726,39 @@ export const blogPosts: BlogPost[] = [
 
     <p>And still move forward.</p>
 
-    <hr />
+    <br/>
 
-    <p>If <em>Inherited Weather</em> was about understanding where it all came from…</p>
+    <p>If <a href="/blog/inherited-weather"><em>Inherited Weather</em></a> was about understanding where it all came from…</p>
 
-    <p>And <em>Part One</em> was about beginning to face it…</p>
+    <p>And <a href="/blog/breaking-patterns"><em>Part One</em></a> was about beginning to face it…</p>
 
-    <p>Then this album is what it looks like to carry both at the same time.</p>
+    <p><strong>Then this album is what it looks like to carry both at the same time.</strong></p>
 
-    <hr />
+    <br/>
 
-    <p>Not fixed.</p>
+    <p><strong>Not fixed.</strong><br/>
+    Not finished.<br/>
+    But no longer hidden.</p>
 
-    <p>Not finished.</p>
-
-    <p>But no longer hidden.</p>
-
-    <hr />
+    <br/>
 
     <p>And this is just the beginning of letting it out.</p>
 
-    <p>I’ll be releasing one song at a time from this first album over the next few months.</p>
+    <p><strong>I’ll be releasing one song at a time from this first album over the next few months.</strong></p>
 
     <p>Slowly. Intentionally.</p>
 
     <p>Giving each piece the space it never had before.</p>
 
-    <p>Until the full album comes together in mid September.</p>
+    <p><strong>Until the full album comes together in mid September.</strong></p>
 
-    <hr />
+    <br/>
 
     <p>If you’ve listened, thank you.</p>
 
     <p>If you haven’t yet, it’s out there now.</p>
 
-    <p>And so am I.</p>
+    <p><strong>And so am I.</strong></p>
   `
 }
 ];
