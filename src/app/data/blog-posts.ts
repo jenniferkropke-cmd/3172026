@@ -560,6 +560,210 @@ export const blogPosts: BlogPost[] = [
 
     <p>— Jen</p>
   `
+},
+  {
+  slug: "the-aftermath-of-letting-go",
+  title: "The Aftermath of Letting Go",
+  date: "2026-04-29",
+  excerpt: "What it felt like to release The Endless Powers Of Me and revisit the past while writing my first album.",
+  featuredImage: "/images/uploads/aftermath.jpg",
+  tags: ["music", "writing", "healing", "personal"],
+  content: `
+    <p>Last Friday, I released <em>The Endless Powers Of Me</em>.</p>
+
+    <p>And I don’t think I was ready for how quiet it would feel afterward.</p>
+
+    <p>Not externally. People listened. Some reached out. Some didn’t. That’s not the quiet I mean.</p>
+
+    <p>I mean the internal kind.</p>
+
+    <p>The kind that settles in after you finally say something you’ve been carrying for years.</p>
+
+    <hr />
+
+    <p>When I wrote my first blog, <em>Inherited Weather</em>, I talked about the idea that we don’t start from scratch. We inherit emotional climates. Patterns. Survival instincts that don’t always look like survival until much later.</p>
+
+    <p>This album is what happened when I stopped observing that… and actually stepped inside it.</p>
+
+    <hr />
+
+    <p>Every song on this project came from a moment I had already lived through once.</p>
+
+    <p>But writing them meant living through them again.</p>
+
+    <p>Not in the same way. Not as the same version of me.</p>
+
+    <p>But close enough.</p>
+
+    <hr />
+
+    <p>There were nights I sat with memories I had spent years reshaping just to make them easier to hold.</p>
+
+    <p>Moments where I had to ask myself hard questions:</p>
+
+    <p>Was it really that bad?<br/>
+    Was I overreacting?<br/>
+    Why did I stay?<br/>
+    Why did I let that define me for so long?</p>
+
+    <p>And then the harder one:</p>
+
+    <p>Why am I still carrying it?</p>
+
+    <hr />
+
+    <p>In <em>Part One</em>, I started to face that idea.</p>
+
+    <p>Not perfectly. Not completely.</p>
+
+    <p>But honestly.</p>
+
+    <p>It was the beginning of realizing that just because something shaped me doesn’t mean it gets to keep deciding who I am.</p>
+
+    <p>But realization and action are not the same thing.</p>
+
+    <hr />
+
+    <p>That’s what this album became.</p>
+
+    <p>Not closure.</p>
+
+    <p>Not healing in the clean, finished sense people like to talk about.</p>
+
+    <p>But confrontation.</p>
+
+    <hr />
+
+    <p>Some songs pulled from places I hadn’t touched in years.</p>
+
+    <p>Old versions of myself that felt embarrassing to revisit. Loud. Reactive. Desperate to be seen.</p>
+
+    <p>Others came from quieter spaces.</p>
+
+    <p>The kind that don’t look broken on the outside, but carry something heavy underneath.</p>
+
+    <p>The kind that learned to smile, perform, adapt.</p>
+
+    <p>The kind that kept everything moving so nothing had to be felt all the way through.</p>
+
+    <hr />
+
+    <p>There’s a strange tension in creating something like this.</p>
+
+    <p>Because on one hand, it’s art.</p>
+
+    <p>It’s structure. Melody. Production choices. Strategy.</p>
+
+    <p>But underneath all of that, it’s evidence.</p>
+
+    <p>Proof that something happened.</p>
+
+    <p>Proof that it stayed.</p>
+
+    <p>Proof that it shaped you.</p>
+
+    <hr />
+
+    <p>And then you release it.</p>
+
+    <p>You take something that lived inside of you for years and make it public.</p>
+
+    <p>Permanent.</p>
+
+    <p>Searchable.</p>
+
+    <hr />
+
+    <p>That part is harder than I expected.</p>
+
+    <p>Not because I regret it.</p>
+
+    <p>But because there’s no taking it back.</p>
+
+    <p>There’s no softening it after the fact.</p>
+
+    <p>No explaining it differently depending on who’s listening.</p>
+
+    <hr />
+
+    <p>It just exists now.</p>
+
+    <p>Exactly as it is.</p>
+
+    <p>Exactly as I was when I wrote it.</p>
+
+    <hr />
+
+    <p>And somehow, that’s where the shift happened.</p>
+
+    <p>Not in writing the songs.</p>
+
+    <p>Not even in releasing them.</p>
+
+    <p>But in realizing I didn’t need to protect those versions of me anymore.</p>
+
+    <hr />
+
+    <p>For so long, I thought healing meant rewriting the story.</p>
+
+    <p>Making it cleaner. Stronger. More inspiring.</p>
+
+    <p>But this album didn’t do that.</p>
+
+    <p>It let the story stay messy.</p>
+
+    <p>Honest.</p>
+
+    <p>Uncomfortable in places.</p>
+
+    <hr />
+
+    <p>And maybe that’s what <em>The Endless Powers Of Me</em> actually is.</p>
+
+    <p>Not a statement that I’ve overcome everything.</p>
+
+    <p>But proof that I can hold all of it at once.</p>
+
+    <p>The past. The patterns. The versions of me I don’t fully recognize anymore.</p>
+
+    <p>And still move forward.</p>
+
+    <hr />
+
+    <p>If <em>Inherited Weather</em> was about understanding where it all came from…</p>
+
+    <p>And <em>Part One</em> was about beginning to face it…</p>
+
+    <p>Then this album is what it looks like to carry both at the same time.</p>
+
+    <hr />
+
+    <p>Not fixed.</p>
+
+    <p>Not finished.</p>
+
+    <p>But no longer hidden.</p>
+
+    <hr />
+
+    <p>And this is just the beginning of letting it out.</p>
+
+    <p>I’ll be releasing one song at a time from this first album over the next few months.</p>
+
+    <p>Slowly. Intentionally.</p>
+
+    <p>Giving each piece the space it never had before.</p>
+
+    <p>Until the full album comes together in mid September.</p>
+
+    <hr />
+
+    <p>If you’ve listened, thank you.</p>
+
+    <p>If you haven’t yet, it’s out there now.</p>
+
+    <p>And so am I.</p>
+  `
 }
 ];
 
