@@ -583,7 +583,7 @@ export const blogPosts: BlogPost[] = [
 
     <br/>
 
-    <p>When I wrote <a href="/blog/inherited-weather"><em>Inherited Weather</em></a>, I talked about how we don’t start from scratch.</p>
+    <p>When I wrote <a href="/blog/inherited-weather-why-im-finally-sharing-my-story"><em>Inherited Weather</em></a>, I talked about how we don’t start from scratch.</p>
 
     <p>We inherit emotional climates. Patterns. Survival instincts that don’t always look like survival until much later.</p>
 
@@ -618,7 +618,7 @@ export const blogPosts: BlogPost[] = [
 
     <br/>
 
-    <p>In <a href="/blog/breaking-patterns"><em>Part One</em></a>, I started to face that idea.</p>
+    <p>In <a href="/blog/breaking-patterns-the-moment-you-realize-you-can-choose-differently"><em>Part One</em></a>, I started to face that idea.</p>
 
     <p>Not perfectly. Not completely.</p>
 
@@ -728,9 +728,9 @@ export const blogPosts: BlogPost[] = [
 
     <br/>
 
-    <p>If <a href="/blog/inherited-weather"><em>Inherited Weather</em></a> was about understanding where it all came from…</p>
+    <p>If <a href="/blog/inherited-weather-why-im-finally-sharing-my-story"><em>Inherited Weather</em></a> was about understanding where it all came from…</p>
 
-    <p>And <a href="/blog/breaking-patterns"><em>Part One</em></a> was about beginning to face it…</p>
+    <p>And <a href="/blog/breaking-patterns-the-moment-you-realize-you-can-choose-differently"><em>Part One</em></a> was about beginning to face it…</p>
 
     <p><strong>Then this album is what it looks like to carry both at the same time.</strong></p>
 
