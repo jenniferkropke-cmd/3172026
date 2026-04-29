@@ -561,7 +561,7 @@ export const blogPosts: BlogPost[] = [
     <p>— Jen</p>
   `
 },
-  {
+ {
   slug: "the-aftermath-of-letting-go",
   title: "The Aftermath of Letting Go",
   date: "2026-04-29",
@@ -583,7 +583,7 @@ export const blogPosts: BlogPost[] = [
 
     <br/>
 
-    <p>When I wrote <a href="/blog/inherited-weather-why-im-finally-sharing-my-story"><em>Inherited Weather</em></a>, I talked about how we don’t start from scratch.</p>
+    <p>When I wrote <a href="https://jenniferkropke.com/blog/inherited-weather-introduction"><em>Inherited Weather</em></a>, I talked about how we don’t start from scratch.</p>
 
     <p>We inherit emotional climates. Patterns. Survival instincts that don’t always look like survival until much later.</p>
 
@@ -618,7 +618,7 @@ export const blogPosts: BlogPost[] = [
 
     <br/>
 
-    <p>In <a href="/blog/breaking-patterns-the-moment-you-realize-you-can-choose-differently"><em>Part One</em></a>, I started to face that idea.</p>
+    <p>In <a href="https://jenniferkropke.com/blog/breaking-patterns-personal-growth"><em>Part One</em></a>, I started to face that idea.</p>
 
     <p>Not perfectly. Not completely.</p>
 
@@ -627,6 +627,18 @@ export const blogPosts: BlogPost[] = [
     <p>It was the beginning of realizing that just because something shaped me doesn’t mean it gets to keep deciding who I am.</p>
 
     <p><strong>But realization and action are not the same thing.</strong></p>
+
+    <br/>
+
+    <p>This didn’t just connect to those early realizations.</p>
+
+    <p>It also connected to the moments where I started questioning how those patterns show up now.</p>
+
+    <p>In parenting. In reactions. In the way I respond before I even think.</p>
+
+    <p>Like I wrote in <a href="https://jenniferkropke.com/blog/the-line-between-pushing-and-protecting"><em>The Line Between Pushing and Protecting</em></a> and <a href="https://jenniferkropke.com/blog/when-your-childs-reaction-triggers-your-past"><em>When Your Child’s Reaction Triggers Your Past</em></a>…</p>
+
+    <p><strong>the past doesn’t stay in the past unless you actually face it.</strong></p>
 
     <br/>
 
@@ -725,14 +737,6 @@ export const blogPosts: BlogPost[] = [
     <p>The past. The patterns. The versions of me I don’t fully recognize anymore.</p>
 
     <p>And still move forward.</p>
-
-    <br/>
-
-    <p>If <a href="/blog/inherited-weather-why-im-finally-sharing-my-story"><em>Inherited Weather</em></a> was about understanding where it all came from…</p>
-
-    <p>And <a href="/blog/breaking-patterns-the-moment-you-realize-you-can-choose-differently"><em>Part One</em></a> was about beginning to face it…</p>
-
-    <p><strong>Then this album is what it looks like to carry both at the same time.</strong></p>
 
     <br/>
 
