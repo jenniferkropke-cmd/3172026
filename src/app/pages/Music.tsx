@@ -11,7 +11,6 @@ export default function Music() {
   const songs = getAllSongs();
 
   const handleLicenseClick = (songTitle: string) => {
-    // Navigate to contact page with song info in state
     navigate('/contact', { state: { songTitle } });
   };
 
@@ -26,7 +25,6 @@ export default function Music() {
       <Header />
 
       <main className="flex-1">
-        {/* Hero Section */}
         <section className="bg-gradient-to-r from-teal-500 to-pink-500 text-white py-20">
           <div className="max-w-6xl mx-auto px-6 text-center">
             <h1 className="text-5xl font-bold mb-4">Music Licensing</h1>
@@ -40,7 +38,6 @@ export default function Music() {
           </div>
         </section>
 
-        {/* About the Music Section */}
         <section className="py-16 bg-white">
           <div className="max-w-4xl mx-auto px-6">
             <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">The Story Behind the Music</h2>
@@ -66,7 +63,6 @@ export default function Music() {
           </div>
         </section>
 
-        {/* Why License These Songs Section */}
         <section className="py-16 bg-gray-50">
           <div className="max-w-4xl mx-auto px-6">
             <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Why License These Songs?</h2>
@@ -103,7 +99,6 @@ export default function Music() {
           </div>
         </section>
 
-        {/* Songs Grid */}
         <section className="py-16 bg-gray-50">
           <div className="max-w-6xl mx-auto px-6">
             <div className="mb-8">
@@ -125,7 +120,6 @@ export default function Music() {
           </div>
         </section>
 
-        {/* CTA Section */}
         <section className="py-16 bg-white">
           <div className="max-w-4xl mx-auto px-6 text-center">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
@@ -161,10 +155,3 @@ export default function Music() {
     </div>
   );
 }
-To deploy:
-
-Go to https://github.com/jenniferkropke-cmd/3172026/edit/main/src/app/pages/Music.tsx
-Delete all current content (select all and delete)
-Paste this entire code
-Commit changes
-Netlify will automatically rebuild and your music page will be fixed!
