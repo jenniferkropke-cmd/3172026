@@ -18,7 +18,7 @@ export default function Music() {
     <div className="min-h-screen flex flex-col">
       <SEO
         title="Jennifer Kropke - Music Artist | Inherited Weather: Part 1"
-        description="Electronic Press Kit for Jennifer Kropke. Inherited Weather: Part 1, The Endless Powers of Me is a 16-track album exploring trauma, healing, and breaking generational cycles through alternative rock, emo, jazz blues, and pop/EDM."
+        description="Electronic Press Kit for Jennifer Kropke. Inherited Weather: Part 1, The Endless Powers of Me is a 15-track album exploring trauma, healing, and breaking generational cycles through alternative rock, emo, jazz blues, and pop/EDM."
         canonical="https://jenniferkropke.com/music"
         keywords="Jennifer Kropke music, Inherited Weather album, AI-generated music artist, alternative rock, emo rock, trauma healing music, generational cycles, independent artist"
       />
