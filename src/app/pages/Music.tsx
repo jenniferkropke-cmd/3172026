@@ -66,7 +66,7 @@ export default function Music() {
             </h2>
             <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
               <p>
-                <em>Inherited Weather: Part 1</em> is a 16-track album that chronicles the journey from dysfunction
+                <em>Inherited Weather: Part 1</em> is a 15-track album that chronicles the journey from dysfunction
                 to healing, from trauma to transformation. Each song is a chapter in a larger story about what gets
                 passed down through generations—the pain, the patterns, the silent struggles—and what it takes to
                 break those cycles.
