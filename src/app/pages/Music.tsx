@@ -17,94 +17,88 @@ export default function Music() {
   return (
     <div className="min-h-screen flex flex-col">
       <SEO
-        title="Music Licensing - Jennifer Kropke | AI-Generated Original Songs"
-        description="License original AI-generated songs for TV, commercials, YouTube, TikTok, and podcasts. Professionally produced tracks exploring trauma, healing, and resilience with full commercial copyright. Genres include alternative rock, emo, jazz blues, and pop/EDM."
+        title="Jennifer Kropke - Music Artist | Inherited Weather: Part 1"
+        description="Electronic Press Kit for Jennifer Kropke. Inherited Weather: Part 1, The Endless Powers of Me is a 16-track album exploring trauma, healing, and breaking generational cycles through alternative rock, emo, jazz blues, and pop/EDM."
         canonical="https://jenniferkropke.com/music"
-        keywords="music licensing, AI-generated music, stock music, royalty-free music, commercial music licensing, TV music, podcast music, YouTube music, alternative rock, emo rock, emotional music licensing"
+        keywords="Jennifer Kropke music, Inherited Weather album, AI-generated music artist, alternative rock, emo rock, trauma healing music, generational cycles, independent artist"
       />
       <Header />
 
       <main className="flex-1">
         <section className="bg-gradient-to-r from-teal-500 to-pink-500 text-white py-20">
           <div className="max-w-6xl mx-auto px-6 text-center">
-            <h1 className="text-5xl font-bold mb-4">Music Licensing</h1>
-            <p className="text-xl text-white/90 max-w-3xl mx-auto mb-6">
-              Original AI-generated songs for TV, commercials, YouTube, TikTok, podcasts, and more.
-              Each track is professionally produced and available for licensing with full commercial rights.
-            </p>
-            <p className="text-lg text-white/80 max-w-2xl mx-auto">
-              All music created with ilovesong.ai with complete commercial copyright protection.
+            <h1 className="text-6xl font-bold mb-6">Jennifer Kropke</h1>
+            <p className="text-2xl text-white/90 mb-4">Music Artist</p>
+            <p className="text-xl text-white/80 max-w-3xl mx-auto">
+              Inherited Weather: Part 1, The Endless Powers of Me
             </p>
           </div>
         </section>
 
         <section className="py-16 bg-white">
           <div className="max-w-4xl mx-auto px-6">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">The Story Behind the Music</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">About the Artist</h2>
             <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
               <p>
-                These songs are deeply personal explorations of trauma, healing, resilience, and breaking generational cycles.
-                Created using AI music generation technology through ilovesong.ai, each track represents a chapter in a larger
-                story about surviving dysfunction, reclaiming identity, and choosing to love differently.
+                Jennifer Kropke is a multimedia artist, creative director, and musician exploring the intersection
+                of human experience and technological innovation. Through AI-powered music creation with ilovesong.ai,
+                Jennifer crafts emotionally resonant songs that blur the line between human storytelling and digital production.
+              </p>
+              <p>
+                With over a decade of experience in video production, web design, and digital storytelling for
+                mission-driven organizations, Jennifer brings a unique creative vision to music—one that centers
+                authenticity, emotional depth, and the courage to confront difficult truths about trauma, healing,
+                and resilience.
+              </p>
+              <p>
+                Based in Chicago, Jennifer's work spans multiple creative disciplines, but music remains the most
+                personal: a raw, unfiltered exploration of what it means to survive dysfunction, reclaim identity,
+                and choose to love differently.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section className="py-16 bg-gradient-to-br from-teal-50 to-pink-50">
+          <div className="max-w-4xl mx-auto px-6">
+            <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">
+              Inherited Weather: Part 1, The Endless Powers of Me
+            </h2>
+            <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
+              <p>
+                <em>Inherited Weather: Part 1</em> is a 16-track album that chronicles the journey from dysfunction
+                to healing, from trauma to transformation. Each song is a chapter in a larger story about what gets
+                passed down through generations—the pain, the patterns, the silent struggles—and what it takes to
+                break those cycles.
               </p>
               <p>
                 From the raw vulnerability of "My Shame" to the triumphant anthem "The Endless Powers Of Me,"
-                this collection spans multiple genres—alternative rock, emo, jazz blues, punk ballads, and pop/EDM.
-                The emotional range mirrors the complexity of real human experience: the pain of toxic relationships,
-                the healing power of dance and creativity, and the courage it takes to rebuild after trauma.
+                the album spans multiple genres: alternative rock, emo, jazz blues, punk ballads, piano-driven
+                introspection, and pop/EDM celebration. This stylistic diversity mirrors the complexity of real
+                human experience—the contradictions, the shifts, the moments of collapse and rebirth.
               </p>
               <p>
-                While AI technology handled the musical composition and production, the heart, themes, and emotional truth
-                behind every lyric came from lived experience. This fusion of human storytelling and technological innovation
-                creates music that's both technically polished and emotionally authentic—perfect for projects that need depth,
-                rawness, and resonance.
+                The album explores toxic relationships ("Bleed In Stereo," "Let's Restart"), sexual assault survival
+                ("Still Here"), mother-daughter dynamics ("Fire and Glitter," "16 Candles"), and the transformative
+                power of intentional love ("Madelyn," "How The Cycle Ends"). At its core, <em>Inherited Weather</em> asks:
+                What do we inherit from those who came before us? And more importantly—what do we choose to pass on?
+              </p>
+              <p>
+                While AI technology handled the musical composition and production, the heart, themes, and emotional
+                truth behind every lyric came from lived experience. This is music for anyone who has ever had to
+                rebuild themselves from scratch, who has questioned whether healing is possible, or who has chosen
+                to love differently than they were taught.
               </p>
             </div>
           </div>
         </section>
 
-        <section className="py-16 bg-gray-50">
-          <div className="max-w-4xl mx-auto px-6">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Why License These Songs?</h2>
-            <div className="grid md:grid-cols-2 gap-8">
-              <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-primary mb-3">Commercial Copyright Included</h3>
-                <p className="text-gray-700">
-                  All songs were created with ilovesong.ai under a commercial subscription, giving you complete legal
-                  protection for TV, film, advertising, social media, and any commercial use.
-                </p>
-              </div>
-              <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-primary mb-3">Emotionally Resonant Themes</h3>
-                <p className="text-gray-700">
-                  These aren't generic stock tracks. Each song tells a real story about trauma, healing, resilience,
-                  and transformation—perfect for projects exploring human complexity.
-                </p>
-              </div>
-              <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-primary mb-3">Genre Diversity</h3>
-                <p className="text-gray-700">
-                  From alternative rock to piano ballads, punk to pop/EDM—this collection offers stylistic variety
-                  while maintaining thematic cohesion around survival and strength.
-                </p>
-              </div>
-              <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-primary mb-3">Professional Production Quality</h3>
-                <p className="text-gray-700">
-                  AI-generated music has evolved dramatically. These tracks feature polished production, strong vocals,
-                  and radio-ready mixing that rivals traditionally produced music.
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <section className="py-16 bg-gray-50">
+        <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-6">
-            <div className="mb-8">
-              <h2 className="text-3xl font-bold text-gray-900 mb-2">Available Songs</h2>
+            <div className="mb-8 text-center">
+              <h2 className="text-3xl font-bold text-gray-900 mb-2">Track Listing</h2>
               <p className="text-gray-600">
-                Listen to 30-second previews and contact me to license any track for your project.
+                16 tracks exploring trauma, healing, and the endless powers of resilience
               </p>
             </div>
 
@@ -120,31 +114,71 @@ export default function Music() {
           </div>
         </section>
 
+        <section className="py-16 bg-gray-50">
+          <div className="max-w-4xl mx-auto px-6">
+            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Sound & Influences</h2>
+            <div className="grid md:grid-cols-2 gap-8">
+              <div className="bg-white p-6 rounded-lg shadow-sm">
+                <h3 className="text-xl font-semibold text-primary mb-3">Genre-Bending Approach</h3>
+                <p className="text-gray-700">
+                  Blending alternative rock, emo, jazz blues, punk, piano ballads, and pop/EDM to create
+                  a sound that refuses to stay in one emotional or sonic lane. The genre diversity mirrors
+                  the complexity of the human experience being explored.
+                </p>
+              </div>
+              <div className="bg-white p-6 rounded-lg shadow-sm">
+                <h3 className="text-xl font-semibold text-primary mb-3">Emotionally Raw Storytelling</h3>
+                <p className="text-gray-700">
+                  Every song confronts difficult truths: toxic love, sexual trauma, dysfunctional families,
+                  and the courage it takes to break generational patterns. This isn't music that looks away—it
+                  stares directly into the pain and finds power there.
+                </p>
+              </div>
+              <div className="bg-white p-6 rounded-lg shadow-sm">
+                <h3 className="text-xl font-semibold text-primary mb-3">AI-Human Collaboration</h3>
+                <p className="text-gray-700">
+                  Created using ilovesong.ai, these songs represent a fusion of human emotion and AI-powered
+                  production. The technology handles composition and mixing, while lived experience fuels the
+                  themes, lyrics, and emotional core.
+                </p>
+              </div>
+              <div className="bg-white p-6 rounded-lg shadow-sm">
+                <h3 className="text-xl font-semibold text-primary mb-3">Resilience & Transformation</h3>
+                <p className="text-gray-700">
+                  While the album explores pain and trauma, it ultimately lands on hope, strength, and the
+                  choice to rebuild. The final track, "The Endless Powers Of Me," is an anthem for anyone
+                  who has survived and chosen to rise anyway.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="py-16 bg-white">
           <div className="max-w-4xl mx-auto px-6 text-center">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              Need Custom Music?
+              Press & Bookings
             </h2>
-            <p className="text-gray-600 mb-4 text-lg">
-              I can create custom songs tailored to your specific project needs.
-              Whether you need background music for a video project, a theme song for a podcast,
-              or original music that captures a specific mood or message, I can help bring your vision to life through AI-powered music creation.
+            <p className="text-gray-600 mb-8 text-lg">
+              For press inquiries, booking requests, interviews, or collaboration opportunities,
+              please reach out. I'm available for podcast appearances, creative collaborations,
+              and speaking engagements about trauma, creativity, and breaking generational cycles.
             </p>
             <p className="text-gray-600 mb-8 text-lg">
-              Looking for other creative services? I also offer <Link to="/services" className="text-primary underline hover:text-secondary">video production, web design, and social media content creation</Link> for mission-driven organizations. Check out my <Link to="/projects" className="text-primary underline hover:text-secondary">portfolio of past work</Link> or read insights about creativity and storytelling on my <Link to="/blog" className="text-primary underline hover:text-secondary">blog</Link>.
+              Beyond music, I also offer <Link to="/services" className="text-primary underline hover:text-secondary">video production, web design, and social media content creation</Link> for mission-driven organizations. Explore my <Link to="/projects" className="text-primary underline hover:text-secondary">portfolio of creative work</Link> or read insights about storytelling and resilience on my <Link to="/blog" className="text-primary underline hover:text-secondary">blog</Link>.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <button
-                onClick={() => navigate('/contact')}
-                className="bg-gradient-to-r from-teal-500 to-pink-500 text-white px-8 py-4 rounded-lg text-lg font-medium hover:shadow-lg transition-shadow"
-              >
-                License a Song
-              </button>
               <Link
                 to="/contact"
+                className="bg-gradient-to-r from-teal-500 to-pink-500 text-white px-8 py-4 rounded-lg text-lg font-medium hover:shadow-lg transition-shadow inline-block"
+              >
+                Get in Touch
+              </Link>
+              <Link
+                to="/blog"
                 className="bg-white text-primary border-2 border-primary px-8 py-4 rounded-lg text-lg font-medium hover:shadow-lg transition-shadow inline-block"
               >
-                Request Custom Music
+                Read My Blog
               </Link>
             </div>
           </div>
