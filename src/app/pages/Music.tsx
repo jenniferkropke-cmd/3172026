@@ -32,17 +32,11 @@ export default function Music() {
           <div className="absolute inset-0 bg-black/40 z-10"></div>
           <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-gray-900 z-20"></div>
 
-          {/* INSTRUCTIONS: Add your cinematic artist photo here
-              - Moody lighting
-              - Dramatic shadows
-              - Emotional/authentic
-              - High resolution
-              Example: <img src="/images/artist-hero.jpg" className="absolute inset-0 w-full h-full object-cover" alt="Jennifer Kropke" />
-          */}
-          <div className="absolute inset-0 flex items-center justify-center text-white/20 text-sm">
-            [Add dramatic artist photo here - moody, cinematic, emotional]
-          </div>
-
+         <img 
+  src="/images/album-cover.jpg" 
+  className="absolute inset-0 w-full h-full object-cover" 
+  alt="Jennifer Kropke - Inherited Weather" 
+/>
           <div className="relative z-30 max-w-5xl mx-auto px-6 text-center text-white">
             <h1 className="text-7xl md:text-8xl font-bold mb-6 tracking-tight">
               Inherited Weather
