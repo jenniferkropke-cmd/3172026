@@ -217,8 +217,8 @@ export default function Music() {
 
  <div className="bg-slate-800 border border-slate-700 rounded-lg p-6 text-gray-400">
               <p className="text-sm">
-                <strong className="text-white">Photo Guidelines:</strong> Add 3-5 cohesive artist photos with the same
-                editing style, emotional tone, and color palette. Think: moody, cinematic, dramatic shadows, authentic emotion.
+                <strong className="text-white">Inherited Weather:</strong> A visual extension of the music itself. 
+                Raw emotion, cinematic shadows, resilience, identity, and the tension between surviving what shaped you and becoming something entirely your own.
               </p>
             </div>
           </div>
