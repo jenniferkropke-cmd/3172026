@@ -281,21 +281,45 @@ export default function Music() {
               Follow the journey. Stay updated on new releases, shows, and stories.
             </p>
 
-            {/* PLACEHOLDER: Social Links */}
             <div className="flex flex-wrap justify-center gap-4 mb-8">
-              <div className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-400">
-                Instagram
-              </div>
-              <div className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-400">
-                TikTok
-              </div>
-              <div className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-400">
-                YouTube
-              </div>
-              <div className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-400">
-                Twitter/X
-              </div>
-            </div>
+
+  <a
+    href="https://www.instagram.com/mrs._dancing_queen/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-300 hover:text-white hover:border-pink-400 transition-all"
+  >
+    Instagram
+  </a>
+
+  <a
+    href="https://www.tiktok.com/@mrsdancingqueen"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-300 hover:text-white hover:border-teal-400 transition-all"
+  >
+    TikTok
+  </a>
+
+  <a
+    href="https://www.youtube.com/@JenniferKropke1"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-300 hover:text-white hover:border-red-400 transition-all"
+  >
+    YouTube
+  </a>
+
+  <a
+    href="https://www.facebook.com/profile.php?id=61563168034809"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-300 hover:text-white hover:border-blue-400 transition-all"
+  >
+    Facebook
+  </a>
+
+</div>
 
             <div className="border-t border-slate-700 pt-8">
               <p className="text-gray-400 mb-6">
