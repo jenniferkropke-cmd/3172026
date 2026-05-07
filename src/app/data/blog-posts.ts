@@ -765,7 +765,7 @@ export const blogPosts: BlogPost[] = [
     <p><strong>And so am I.</strong></p>
   `
 },
-  {
+ {
   slug: "what-survival-mode-looks-like-when-youre-high-functioning",
   title: "What Survival Mode Looks Like When You’re High Functioning",
   date: "2026-05-07",
@@ -773,171 +773,311 @@ export const blogPosts: BlogPost[] = [
   featuredImage: "/images/uploads/high-functioning-survival.png",
   tags: ["Personal Growth", "Healing", "Mental Health", "Self Awareness"],
   content: `
-    <h1>What Survival Mode Looks Like When You’re High Functioning</h1>
-
     <p>Some people fall apart loudly.</p>
 
-    <p>Others answer emails.</p>
+    <p><strong>Others answer emails.</strong></p>
 
-    <p>They go to work.<br/>
-    They take care of their kids.<br/>
-    They keep conversations going.<br/>
-    They release projects.<br/>
-    They make plans.<br/>
-    They smile when people ask how they’re doing.</p>
+    <p>
+      They go to work.<br/>
+      They take care of their kids.<br/>
+      They keep conversations going.<br/>
+      They release projects.<br/>
+      They make plans.<br/>
+      They smile when people ask how they’re doing.
+    </p>
 
-    <p>And because everything still looks functional from the outside…</p>
+    <p>
+      And because everything still looks functional from the outside…
+    </p>
 
-    <p>nobody realizes they’re in survival mode.</p>
+    <p><strong>nobody realizes they’re in survival mode.</strong></p>
 
     <p>Sometimes not even them.</p>
 
+    <br/><br/>
+
     <h2>The Version of Survival Nobody Talks About</h2>
 
-    <p>I think a lot of people imagine survival mode as obvious collapse.</p>
+    <p>
+      I think a lot of people imagine survival mode as obvious collapse.
+    </p>
 
-    <p>Not getting out of bed.<br/>
-    Everything visibly falling apart.<br/>
-    Life becoming unmanageable in a way everyone can see.</p>
+    <p>
+      Not getting out of bed.<br/>
+      Everything visibly falling apart.<br/>
+      Life becoming unmanageable in a way everyone can see.
+    </p>
 
-    <p>But there’s another version that hides itself much better.</p>
+    <p>
+      But there’s another version that hides itself much better.
+    </p>
 
-    <p>The high functioning version.</p>
+    <p><strong>The high functioning version.</strong></p>
 
-    <p>The version where you become <em>more productive</em> under emotional pressure.</p>
+    <p>
+      The version where you become <em>more productive</em> under emotional pressure.
+    </p>
 
-    <p>You organize more.<br/>
-    Work more.<br/>
-    Focus harder.<br/>
-    Keep moving.</p>
+    <p>
+      You organize more.<br/>
+      Work more.<br/>
+      Focus harder.<br/>
+      Keep moving.
+    </p>
 
-    <p>Because slowing down would mean sitting with feelings you’re not fully ready to face yet.</p>
+    <p>
+      Because slowing down would mean sitting with feelings you’re not fully ready to face yet.
+    </p>
 
-    <p>And if you stay busy enough…</p>
+    <p>
+      And if you stay busy enough…
+    </p>
 
-    <p>maybe you won’t have to.</p>
+    <p><strong>maybe you won’t have to.</strong></p>
+
+    <br/><br/>
 
     <h2>Lately, I’ve Been Noticing It In Myself</h2>
 
-    <p>Lately, I don’t think I’ve really known how to stop.</p>
+    <p>
+      Lately, I don’t think I’ve really known how to stop.
+    </p>
 
-    <p>Even when life gets emotionally heavy, I instinctively look for something to do.</p>
+    <p>
+      Even when life gets emotionally heavy, I instinctively look for something to do.
+    </p>
 
-    <p>Something to fix.<br/>
-    Something to plan.<br/>
-    Something to organize.<br/>
-    Something to create.</p>
+    <p>
+      Something to fix.<br/>
+      Something to plan.<br/>
+      Something to organize.<br/>
+      Something to create.
+    </p>
 
-    <p>I throw myself into music.<br/>
-    Projects.<br/>
-    Ideas.<br/>
-    Problem solving.</p>
+    <p>
+      I throw myself into music.<br/>
+      Projects.<br/>
+      Ideas.<br/>
+      Problem solving.
+    </p>
 
-    <p>Not because I’m trying to avoid life intentionally.</p>
+    <p>
+      Not because I’m trying to avoid life intentionally.
+    </p>
 
-    <p>But because focusing on something tangible feels easier than sitting inside uncertainty.</p>
+    <p>
+      But because focusing on something tangible feels easier than sitting inside uncertainty.
+    </p>
 
-    <p>And at the same time, there have been family situations happening behind the scenes that affected me more deeply than I initially admitted to myself.</p>
+    <p>
+      And at the same time, there have been family situations happening behind the scenes that affected me more deeply than I initially admitted to myself.
+    </p>
 
-    <p>The kind of stress that quietly follows you through the entire day.</p>
+    <p>
+      The kind of stress that quietly follows you through the entire day.
+    </p>
 
-    <p>The kind where your chest feels heavy while you’re still responding to texts like everything is normal.</p>
+    <p>
+      The kind where your chest feels heavy while you’re still responding to texts like everything is normal.
+    </p>
 
-    <p>The kind where you spend one night completely overwhelmed…</p>
+    <p>
+      The kind where you spend one night completely overwhelmed…
+    </p>
 
-    <p>then wake up the next morning already mentally moving to the next task because you don’t know what else to do with yourself.</p>
+    <p>
+      then wake up the next morning already mentally moving to the next task because you don’t know what else to do with yourself.
+    </p>
 
-    <p>And honestly, I think that’s the part I’m finally starting to understand.</p>
+    <p>
+      And honestly, I think that’s the part I’m finally starting to understand.
+    </p>
 
-    <p>I don’t always fall apart when life gets hard.</p>
+    <p>
+      I don’t always fall apart when life gets hard.
+    </p>
 
-    <p>Sometimes I become <em>more functional.</em></p>
+    <p><strong>Sometimes I become more functional.</strong></p>
 
-    <p>More focused.<br/>
-    More productive.<br/>
-    More needed.</p>
+    <p>
+      More focused.<br/>
+      More productive.<br/>
+      More needed.
+    </p>
 
-    <p>Because staying in motion feels safer than being still long enough to fully feel what’s underneath everything.</p>
+    <p>
+      Because staying in motion feels safer than being still long enough to fully feel what’s underneath everything.
+    </p>
+
+    <br/><br/>
+
+    <p style="text-align:center;">
+      <strong><em>Functioning is not the same thing as peace.</em></strong>
+    </p>
+
+    <br/><br/>
 
     <h2>The Dangerous Thing About Being Capable</h2>
 
-    <p>The problem with being capable is that people eventually stop checking if you’re okay.</p>
+    <p>
+      The problem with being capable is that people eventually stop checking if you’re okay.
+    </p>
 
-    <p>Not because they don’t care.</p>
+    <p>
+      Not because they don’t care.
+    </p>
 
-    <p>But because you’ve unintentionally taught everyone that you’ll handle it.</p>
+    <p>
+      But because you’ve unintentionally taught everyone that you’ll handle it.
+    </p>
 
-    <p>That you always do.</p>
+    <p><strong>That you always do.</strong></p>
 
-    <p>So even when you’re emotionally overloaded, people still come to you needing answers, support, reassurance, stability.</p>
+    <p>
+      So even when you’re emotionally overloaded, people still come to you needing answers, support, reassurance, stability.
+    </p>
 
-    <p>And most of the time, you still give it.</p>
+    <p>
+      And most of the time, you still give it.
+    </p>
 
-    <p>Because survival mode doesn’t always look chaotic.</p>
+    <p>
+      Because survival mode doesn’t always look chaotic.
+    </p>
 
-    <p>Sometimes it looks responsible.</p>
+    <p>
+      Sometimes it looks responsible.
+    </p>
 
-    <p>Sometimes it even looks successful.</p>
+    <p><strong>Sometimes it even looks successful.</strong></p>
 
-    <p>That’s what makes it dangerous.</p>
+    <p>
+      That’s what makes it dangerous.
+    </p>
+
+    <br/><br/>
 
     <h2>Your Body Eventually Knows</h2>
 
-    <p>The strange thing about high functioning survival mode is that mentally, you can convince yourself you’re fine for a long time.</p>
+    <p>
+      The strange thing about high functioning survival mode is that mentally, you can convince yourself you’re fine for a long time.
+    </p>
 
-    <p>But eventually, your body starts responding to what your mind keeps trying to push past.</p>
+    <p>
+      But eventually, your body starts responding to what your mind keeps trying to push past.
+    </p>
 
-    <p>The exhaustion.<br/>
-    The tension.<br/>
-    The overstimulation.<br/>
-    The emotional reactivity.<br/>
-    The inability to fully relax even when there’s finally time to.</p>
+    <p>
+      The exhaustion.<br/>
+      The tension.<br/>
+      The overstimulation.<br/>
+      The emotional reactivity.<br/>
+      The inability to fully relax even when there’s finally time to.
+    </p>
 
-    <p>It starts showing up somewhere.</p>
+    <p>
+      It starts showing up somewhere.
+    </p>
 
-    <p>And lately, I think I’m realizing how long I’ve been operating from that place without fully noticing it.</p>
+    <p>
+      And lately, I think I’m realizing how long I’ve been operating from that place without fully noticing it.
+    </p>
 
-    <p>Not falling apart.</p>
+    <p><strong>Not falling apart.</strong></p>
 
-    <p>Just carrying too much for too long while continuing to function anyway.</p>
+    <p>
+      Just carrying too much for too long while continuing to function anyway.
+    </p>
+
+    <br/><br/>
 
     <h2>Functioning Is Not The Same Thing As Peace</h2>
 
-    <p>I think that’s the realization I keep coming back to lately.</p>
+    <p>
+      I think that’s the realization I keep coming back to lately.
+    </p>
 
-    <p>Just because someone is functioning<br/>
-    doesn’t mean they’re okay.</p>
+    <p>
+      Just because someone is functioning<br/>
+      doesn’t mean they’re okay.
+    </p>
 
-    <p>Just because someone is productive<br/>
-    doesn’t mean they’ve processed what they’re carrying.</p>
+    <p>
+      Just because someone is productive<br/>
+      doesn’t mean they’ve processed what they’re carrying.
+    </p>
 
-    <p>And I think high functioning people struggle to recognize when they need care too…</p>
+    <p>
+      And I think high functioning people struggle to recognize when they need care too…
+    </p>
 
-    <p>because they’re so used to being the person everyone else leans on.</p>
+    <p>
+      because they’re so used to being the person everyone else leans on.
+    </p>
 
-    <p>So used to being dependable.<br/>
-    Being strong.<br/>
-    Being the one who figures it out.</p>
+    <p>
+      So used to being dependable.<br/>
+      Being strong.<br/>
+      Being the one who figures it out.
+    </p>
 
-    <p>That eventually, slowing down starts to feel irresponsible.</p>
+    <p>
+      That eventually, slowing down starts to feel irresponsible.
+    </p>
+
+    <br/><br/>
 
     <h2>Learning To Notice It</h2>
 
-    <p>I’m still figuring this out in real time.</p>
+    <p>
+      I’m still figuring this out in real time.
+    </p>
 
-    <p>Still learning the difference between resilience and emotional avoidance.</p>
+    <p>
+      Still learning the difference between resilience and emotional avoidance.
+    </p>
 
-    <p>Still learning that constantly functioning is not the same thing as actually feeling okay.</p>
+    <p>
+      Still learning that constantly functioning is not the same thing as actually feeling okay.
+    </p>
 
-    <p>And maybe that’s the shift for me right now.</p>
+    <p>
+      And maybe that’s the shift for me right now.
+    </p>
 
-    <p>Not becoming someone who never struggles.</p>
+    <p>
+      Not becoming someone who never struggles.
+    </p>
 
-    <p>But becoming someone who recognizes when survival mode starts disguising itself as stability.</p>
+    <p>
+      But becoming someone who recognizes when survival mode starts disguising itself as stability.
+    </p>
 
-    <p>Because surviving quietly is still surviving.</p>
+    <br/>
+
+    <p style="text-align:center;">
+      <strong><em>Because surviving quietly is still surviving.</em></strong>
+    </p>
+
+    <br/>
 
     <p>— Jen</p>
+
+    <br/><br/>
+
+    <p>
+      Related reading:
+      <a href="/blog/inherited-weather-introduction">
+        Inherited Weather
+      </a>,
+      <a href="/blog/breaking-patterns-personal-growth">
+        Breaking Patterns
+      </a>,
+      and
+      <a href="/blog/the-aftermath-of-letting-go">
+        The Aftermath of Letting Go
+      </a>.
+    </p>
   `
 }
 ];
