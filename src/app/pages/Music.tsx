@@ -189,27 +189,31 @@ export default function Music() {
           <div className="max-w-6xl mx-auto px-6">
             <h2 className="text-4xl font-bold text-white mb-12 text-center">Artist Photos</h2>
 
-            {/* PLACEHOLDER: Artist Photo Gallery */}
-            <div className="grid md:grid-cols-3 gap-6 mb-8">
-              <div className="aspect-square bg-slate-800 border-2 border-dashed border-slate-600 rounded-lg flex items-center justify-center text-gray-500 text-center p-6">
-                <div>
-                  <p className="font-semibold mb-2">Artist Photo 1</p>
-                  <p className="text-sm">Moody, cinematic, dramatic lighting</p>
-                </div>
-              </div>
-              <div className="aspect-square bg-slate-800 border-2 border-dashed border-slate-600 rounded-lg flex items-center justify-center text-gray-500 text-center p-6">
-                <div>
-                  <p className="font-semibold mb-2">Artist Photo 2</p>
-                  <p className="text-sm">Emotional, authentic, textured</p>
-                </div>
-              </div>
-              <div className="aspect-square bg-slate-800 border-2 border-dashed border-slate-600 rounded-lg flex items-center justify-center text-gray-500 text-center p-6">
-                <div>
-                  <p className="font-semibold mb-2">Artist Photo 3</p>
-                  <p className="text-sm">Movement, shadows, stormy</p>
-                </div>
-              </div>
-            </div>
+           <div className="grid md:grid-cols-3 gap-6 mb-8">
+  <div className="aspect-square rounded-lg overflow-hidden">
+    <img
+      src="/images/uploads/artist-photo-1.jpg"
+      alt="Jennifer Kropke"
+      className="w-full h-full object-cover"
+    />
+  </div>
+
+  <div className="aspect-square rounded-lg overflow-hidden">
+    <img
+      src="/images/uploads/artist-photo-2.jpg"
+      alt="Jennifer Kropke"
+      className="w-full h-full object-cover"
+    />
+  </div>
+
+  <div className="aspect-square rounded-lg overflow-hidden">
+    <img
+      src="/images/uploads/artist-photo-3.jpg"
+      alt="Jennifer Kropke"
+      className="w-full h-full object-cover"
+    />
+  </div>
+</div>
 
             <div className="bg-slate-800 border border-slate-700 rounded-lg p-6 text-gray-400">
               <p className="text-sm">
