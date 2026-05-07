@@ -770,7 +770,7 @@ export const blogPosts: BlogPost[] = [
   title: "What Survival Mode Looks Like When You’re High Functioning",
   date: "2026-05-07",
   excerpt: "Some people don’t fall apart loudly. They keep functioning. This is what survival mode can look like when you become too good at carrying everything quietly.",
-  featuredImage: "/images/uploads/high-functioning-survival.jpg",
+  featuredImage: "/images/uploads/high-functioning-survival.png",
   tags: ["Personal Growth", "Healing", "Mental Health", "Self Awareness"],
   content: `
     <h1>What Survival Mode Looks Like When You’re High Functioning</h1>
