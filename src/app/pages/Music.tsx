@@ -5,6 +5,7 @@ import { Footer } from '../components/Footer';
 import { SEO } from '../components/SEO';
 import SongCard from '../components/SongCard';
 import { getAllSongs } from '../data/songs';
+import { Music as MusicIcon, Headphones, Mic2 } from 'lucide-react';
 
 export default function Music() {
   const navigate = useNavigate();
@@ -15,108 +16,139 @@ export default function Music() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col bg-gray-900">
       <SEO
-        title="Jennifer Kropke - Music Artist | Inherited Weather: Part 1"
-        description="Electronic Press Kit for Jennifer Kropke. Inherited Weather: Part 1, The Endless Powers of Me is a genre-blending album exploring trauma, healing, and breaking generational cycles."
+        title="Jennifer Kropke - Music | Inherited Weather: Part 1"
+        description="Cinematic alternative pop about healing, identity, and breaking inherited patterns. 15-track album Inherited Weather: Part 1, The Endless Powers of Me by Jennifer Kropke."
         canonical="https://jenniferkropke.com/music"
-        keywords="Jennifer Kropke music, Inherited Weather album, alternative rock, emo rock, trauma healing music, generational cycles, independent artist"
+        keywords="Jennifer Kropke music, Inherited Weather, alternative pop, emo rock, healing music, trauma, generational cycles, independent artist, Chicago musician"
       />
       <Header />
 
       <main className="flex-1">
+        {/* HERO SECTION - Dramatic Artist Photo */}
+        <section className="relative min-h-[70vh] flex items-center justify-center bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
+          {/* PLACEHOLDER: Replace this div with your dramatic artist photo */}
+          <div className="absolute inset-0 bg-black/40 z-10"></div>
+          <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-gray-900 z-20"></div>
 
-        {/* HERO */}
-        <section className="bg-gradient-to-r from-teal-500 to-pink-500 text-white py-20">
-          <div className="max-w-6xl mx-auto px-6 text-center">
-            <h1 className="text-6xl font-bold mb-6">Jennifer Kropke</h1>
-            <p className="text-2xl text-white/90 mb-4">Music Artist</p>
-            <p className="text-xl text-white/80 max-w-3xl mx-auto">
-              Inherited Weather: Part 1, The Endless Powers of Me
+          {/* INSTRUCTIONS: Add your cinematic artist photo here
+              - Moody lighting
+              - Dramatic shadows
+              - Emotional/authentic
+              - High resolution
+              Example: <img src="/images/artist-hero.jpg" className="absolute inset-0 w-full h-full object-cover" alt="Jennifer Kropke" />
+          */}
+          <div className="absolute inset-0 flex items-center justify-center text-white/20 text-sm">
+            [Add dramatic artist photo here - moody, cinematic, emotional]
+          </div>
+
+          <div className="relative z-30 max-w-5xl mx-auto px-6 text-center text-white">
+            <h1 className="text-7xl md:text-8xl font-bold mb-6 tracking-tight">
+              Inherited Weather
+            </h1>
+            <p className="text-2xl md:text-3xl mb-4 text-teal-300 font-light">
+              Cinematic alternative pop about healing, identity, and breaking inherited patterns
+            </p>
+            <p className="text-xl text-white/80">
+              Jennifer Kropke
             </p>
           </div>
         </section>
 
-        {/* ABOUT */}
-        <section className="py-16 bg-white">
-          <div className="max-w-4xl mx-auto px-6">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">About the Artist</h2>
-            <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
-              <p>
-                Jennifer Kropke is a Chicago-based alternative artist blending raw emotional storytelling with
-                genre-bending production. Her music explores trauma, healing, and breaking generational cycles—
-                transforming deeply personal experiences into powerful, anthemic sound.
-              </p>
-              <p>
-                Drawing from a background in digital storytelling and creative direction, Jennifer brings a
-                cinematic and emotionally immersive approach to her music. Each track is rooted in lived experience,
-                offering an unfiltered look at resilience, identity, and the choice to rebuild.
-              </p>
-            </div>
-          </div>
-        </section>
-
-        {/* ALBUM */}
-        <section className="py-16 bg-gradient-to-br from-teal-50 to-pink-50">
-          <div className="max-w-4xl mx-auto px-6">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">
-              Inherited Weather: Part 1, The Endless Powers of Me
-            </h2>
-            <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
-              <p>
-                <em>Inherited Weather: Part 1</em> is a 15-track concept album exploring generational trauma,
-                healing, and identity. Each song represents a chapter in breaking inherited patterns and choosing
-                a different path forward.
-              </p>
-              <p>
-                Blending alternative rock, emo, piano-driven ballads, and pop/EDM elements, the album reflects
-                the emotional complexity of real human experience—shifting between vulnerability, collapse,
-                and empowerment.
-              </p>
-              <p>
-                Standout tracks include <strong>"Still Here"</strong>, a quiet anthem of survival,
-                <strong> "My Shame"</strong>, exploring toxic love cycles, and
-                <strong> "The Endless Powers Of Me"</strong>, a powerful statement of resilience and self-reclamation.
-              </p>
-            </div>
-          </div>
-        </section>
-
-        {/* FOR FANS OF */}
-        <section className="py-12 bg-white">
-          <div className="max-w-4xl mx-auto px-6 text-center">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">For Fans Of</h2>
-            <p className="text-lg text-gray-700">
-              Adele • Sia • Halsey • Evanescence • Paramore
-            </p>
-          </div>
-        </section>
-
-        {/* TRACK LIST + LISTEN */}
-        <section className="py-16 bg-white">
-          <div className="max-w-6xl mx-auto px-6">
-
-            <div className="mb-8 text-center">
-              <h2 className="text-3xl font-bold text-gray-900 mb-2">Track Listing</h2>
-              <p className="text-gray-600">
-                15 tracks exploring trauma, healing, and resilience
-              </p>
+        {/* LATEST RELEASE / MUSIC PLAYER SECTION */}
+        <section className="py-16 bg-gradient-to-b from-gray-900 to-slate-900">
+          <div className="max-w-5xl mx-auto px-6">
+            <div className="text-center mb-12">
+              <h2 className="text-4xl font-bold text-white mb-4">Listen Now</h2>
+              <p className="text-gray-400 text-lg">Stream Inherited Weather: Part 1 on all platforms</p>
             </div>
 
-            {/* LISTEN LINKS */}
-            <div className="text-center mb-10">
-              <p className="text-gray-600 mb-4">Listen Now</p>
-              <div className="flex justify-center gap-4 flex-wrap">
-                <a href="https://open.spotify.com/artist/3Bjg3nwgTBbIs4ApBk7gs4?si=AgBmwBfqTsuZcVet-0Y0NA" target="_blank" rel="noopener noreferrer" className="text-primary underline">
-                  Spotify
-                </a>
-                <a href="https://music.apple.com/us/artist/jennifer-kropke/1887719017" target="_blank" rel="noopener noreferrer" className="text-primary underline">
-                  Apple Music
-                </a>
-                <a href="https://www.youtube.com/@JenniferKropke1" target="_blank" rel="noopener noreferrer" className="text-primary underline">
-                  YouTube
-                </a>
+            {/* PLACEHOLDER: Music Platform Embeds */}
+            <div className="grid md:grid-cols-2 gap-8 mb-8">
+              {/* Spotify Embed Placeholder */}
+              <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
+                <Headphones className="w-12 h-12 text-teal-400 mx-auto mb-4" />
+                <h3 className="text-xl font-semibold text-white mb-2">Spotify</h3>
+                <p className="text-gray-400 mb-4">Add your Spotify embed code here</p>
+                <div className="text-xs text-gray-500 font-mono bg-slate-900 p-4 rounded">
+                  {"<iframe ... />"}
+                </div>
               </div>
+
+              {/* Apple Music Embed Placeholder */}
+              <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
+                <MusicIcon className="w-12 h-12 text-pink-400 mx-auto mb-4" />
+                <h3 className="text-xl font-semibold text-white mb-2">Apple Music</h3>
+                <p className="text-gray-400 mb-4">Add your Apple Music embed code here</p>
+                <div className="text-xs text-gray-500 font-mono bg-slate-900 p-4 rounded">
+                  {"<iframe ... />"}
+                </div>
+              </div>
+            </div>
+
+            {/* YouTube Embed Placeholder */}
+            <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
+              <Mic2 className="w-12 h-12 text-purple-400 mx-auto mb-4" />
+              <h3 className="text-xl font-semibold text-white mb-2">YouTube</h3>
+              <p className="text-gray-400 mb-4">Add your YouTube playlist or featured video embed here</p>
+              <div className="text-xs text-gray-500 font-mono bg-slate-900 p-4 rounded">
+                {"<iframe width='560' height='315' ... />"}
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* ABOUT INHERITED WEATHER - Emotional Storytelling */}
+        <section className="py-16 bg-slate-900">
+          <div className="max-w-4xl mx-auto px-6">
+            <h2 className="text-4xl font-bold text-white mb-8 text-center">
+              About <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-pink-400">Inherited Weather</span>
+            </h2>
+            <div className="space-y-6 text-lg text-gray-300 leading-relaxed">
+              <p className="text-xl text-teal-300 italic">
+                What do we inherit from the people who raised us? And what do we choose to pass on?
+              </p>
+              <p>
+                <em>Inherited Weather: Part 1, The Endless Powers of Me</em> is a 15-track album that chronicles
+                the journey from dysfunction to healing, from trauma to transformation. Each song is a chapter in
+                a larger story about what gets passed down through generations—the pain, the patterns, the silent
+                struggles—and what it takes to break those cycles.
+              </p>
+              <p>
+                From the raw vulnerability of "My Shame" to the triumphant anthem "The Endless Powers Of Me,"
+                the album refuses to stay in one emotional or sonic lane. Alternative rock bleeds into emo.
+                Jazz blues collapses into punk ballads. Piano-driven introspection explodes into pop/EDM celebration.
+                This stylistic chaos mirrors the complexity of real human experience—the contradictions, the shifts,
+                the moments of collapse and rebirth.
+              </p>
+              <p>
+                The album explores toxic love that consumes you ("Bleed In Stereo," "Let's Restart"), the quiet
+                resilience of sexual assault survival ("Still Here"), the complicated love between mother and child
+                ("Fire and Glitter," "16 Candles"), and the transformative power of choosing to parent differently
+                ("Madelyn," "And Stayed").
+              </p>
+              <p>
+                This is music for anyone who has ever had to rebuild themselves from scratch. For anyone who has
+                questioned whether healing is even possible. For anyone who has chosen to love differently than
+                they were taught.
+              </p>
+              <p className="text-xl text-pink-300 font-semibold">
+                Because true power doesn't come from escaping pain—it comes from surviving it, rebuilding from it,
+                and choosing to rise anyway.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* TRACK LISTING */}
+        <section className="py-16 bg-gradient-to-b from-slate-900 to-gray-900">
+          <div className="max-w-6xl mx-auto px-6">
+            <div className="mb-12 text-center">
+              <h2 className="text-4xl font-bold text-white mb-2">The Album</h2>
+              <p className="text-gray-400 text-lg">
+                15 tracks exploring trauma, healing, and the endless powers of resilience
+              </p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -131,68 +163,123 @@ export default function Music() {
           </div>
         </section>
 
-        {/* SOUND & INFLUENCES */}
-        <section className="py-16 bg-gray-50">
-          <div className="max-w-4xl mx-auto px-6">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Sound & Influences</h2>
-            <div className="grid md:grid-cols-2 gap-8">
-              <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-primary mb-3">Genre-Bending Sound</h3>
-                <p className="text-gray-700">
-                  A fusion of alternative rock, emo, piano ballads, and modern pop production that moves fluidly
-                  between vulnerability and intensity.
-                </p>
+        {/* VISUAL IDENTITY SECTION - Artist Photos Placeholder */}
+        <section className="py-16 bg-slate-900">
+          <div className="max-w-6xl mx-auto px-6">
+            <h2 className="text-4xl font-bold text-white mb-12 text-center">Artist Photos</h2>
+
+            {/* PLACEHOLDER: Artist Photo Gallery */}
+            <div className="grid md:grid-cols-3 gap-6 mb-8">
+              <div className="aspect-square bg-slate-800 border-2 border-dashed border-slate-600 rounded-lg flex items-center justify-center text-gray-500 text-center p-6">
+                <div>
+                  <p className="font-semibold mb-2">Artist Photo 1</p>
+                  <p className="text-sm">Moody, cinematic, dramatic lighting</p>
+                </div>
               </div>
-              <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-primary mb-3">Emotional Storytelling</h3>
-                <p className="text-gray-700">
-                  Each song is rooted in real experience, confronting difficult themes while creating space for
-                  connection, reflection, and healing.
-                </p>
+              <div className="aspect-square bg-slate-800 border-2 border-dashed border-slate-600 rounded-lg flex items-center justify-center text-gray-500 text-center p-6">
+                <div>
+                  <p className="font-semibold mb-2">Artist Photo 2</p>
+                  <p className="text-sm">Emotional, authentic, textured</p>
+                </div>
               </div>
-              <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-primary mb-3">Modern Production</h3>
-                <p className="text-gray-700">
-                  Clean, contemporary production designed to feel both radio-ready and emotionally authentic.
-                </p>
+              <div className="aspect-square bg-slate-800 border-2 border-dashed border-slate-600 rounded-lg flex items-center justify-center text-gray-500 text-center p-6">
+                <div>
+                  <p className="font-semibold mb-2">Artist Photo 3</p>
+                  <p className="text-sm">Movement, shadows, stormy</p>
+                </div>
               </div>
-              <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-primary mb-3">Resilience & Transformation</h3>
-                <p className="text-gray-700">
-                  Music that moves through pain but ultimately lands in strength, growth, and self-reclamation.
-                </p>
-              </div>
+            </div>
+
+            <div className="bg-slate-800 border border-slate-700 rounded-lg p-6 text-gray-400">
+              <p className="text-sm">
+                <strong className="text-white">Photo Guidelines:</strong> Add 3-5 cohesive artist photos with the same
+                editing style, emotional tone, and color palette. Think: moody, cinematic, dramatic shadows, authentic emotion.
+              </p>
             </div>
           </div>
         </section>
 
-        {/* CONTACT */}
-        <section className="py-16 bg-white">
-          <div className="max-w-4xl mx-auto px-6 text-center">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              Press & Bookings
-            </h2>
-            <p className="text-gray-600 mb-8 text-lg">
-              For press inquiries, interviews, collaborations, or booking requests, please get in touch.
-            </p>
+        {/* PRESS / INTERVIEW TOPICS */}
+        <section className="py-16 bg-gradient-to-b from-slate-900 to-gray-900">
+          <div className="max-w-4xl mx-auto px-6">
+            <h2 className="text-4xl font-bold text-white mb-8 text-center">Press & Interviews</h2>
 
-            <div className="flex flex-wrap justify-center gap-4">
+            <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 mb-8">
+              <h3 className="text-2xl font-semibold text-teal-300 mb-4">What I Talk About</h3>
+              <ul className="space-y-3 text-gray-300 text-lg">
+                <li className="flex items-start">
+                  <span className="text-pink-400 mr-3">•</span>
+                  Breaking generational cycles of trauma and dysfunction
+                </li>
+                <li className="flex items-start">
+                  <span className="text-pink-400 mr-3">•</span>
+                  The intersection of creativity, healing, and resilience
+                </li>
+                <li className="flex items-start">
+                  <span className="text-pink-400 mr-3">•</span>
+                  Navigating toxic relationships and reclaiming personal power
+                </li>
+                <li className="flex items-start">
+                  <span className="text-pink-400 mr-3">•</span>
+                  Modern music production and genre-bending approaches
+                </li>
+                <li className="flex items-start">
+                  <span className="text-pink-400 mr-3">•</span>
+                  Choosing to parent differently and intentional motherhood
+                </li>
+                <li className="flex items-start">
+                  <span className="text-pink-400 mr-3">•</span>
+                  The emotional truth behind creating deeply personal art
+                </li>
+              </ul>
+            </div>
+
+            <div className="text-center">
+              <p className="text-gray-300 mb-6 text-lg">
+                Available for podcast appearances, interviews, creative collaborations, and speaking engagements.
+              </p>
               <Link
                 to="/contact"
-                className="bg-gradient-to-r from-teal-500 to-pink-500 text-white px-8 py-4 rounded-lg text-lg font-medium hover:shadow-lg transition-shadow inline-block"
+                className="inline-block bg-gradient-to-r from-teal-500 to-pink-500 text-white px-8 py-4 rounded-lg text-lg font-medium hover:shadow-lg transition-shadow"
               >
-                Get in Touch
-              </Link>
-              <Link
-                to="/blog"
-                className="bg-white text-primary border-2 border-primary px-8 py-4 rounded-lg text-lg font-medium hover:shadow-lg transition-shadow inline-block"
-              >
-                Read My Blog
+                Book an Interview
               </Link>
             </div>
           </div>
         </section>
 
+        {/* CONTACT / SOCIALS */}
+        <section className="py-16 bg-slate-900">
+          <div className="max-w-4xl mx-auto px-6 text-center">
+            <h2 className="text-4xl font-bold text-white mb-6">Connect</h2>
+            <p className="text-gray-300 mb-8 text-lg">
+              Follow the journey. Stay updated on new releases, shows, and stories.
+            </p>
+
+            {/* PLACEHOLDER: Social Links */}
+            <div className="flex flex-wrap justify-center gap-4 mb-8">
+              <div className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-400">
+                Instagram
+              </div>
+              <div className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-400">
+                TikTok
+              </div>
+              <div className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-400">
+                YouTube
+              </div>
+              <div className="bg-slate-800 border border-slate-700 rounded-lg px-6 py-3 text-gray-400">
+                Twitter/X
+              </div>
+            </div>
+
+            <div className="border-t border-slate-700 pt-8">
+              <p className="text-gray-400 mb-6">
+                Looking for <Link to="/licensing" className="text-teal-400 underline hover:text-teal-300">music licensing</Link> or other creative services?
+                I also offer <Link to="/services" className="text-teal-400 underline hover:text-teal-300">video production and web design</Link>.
+              </p>
+            </div>
+          </div>
+        </section>
       </main>
 
       <Footer />
