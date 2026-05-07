@@ -55,7 +55,7 @@ export default function Music() {
           <div className="max-w-5xl mx-auto px-6">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold text-white mb-4">Listen Now</h2>
-              <p className="text-gray-400 text-lg">Stream Inherited Weather: Part 1 on all platforms</p>
+              <p className="text-gray-400 text-lg">Stream 'The Endless Powers Of Me' on all platforms</p>
             </div>
 
             {/* PLACEHOLDER: Music Platform Embeds */}
