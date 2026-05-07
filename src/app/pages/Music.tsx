@@ -192,7 +192,7 @@ export default function Music() {
            <div className="grid md:grid-cols-3 gap-6 mb-8">
   <div className="aspect-square rounded-lg overflow-hidden">
     <img
-      src="/images/uploads/artist-photo-1.jpg"
+      src="/images/uploads/artist-photo-1.png"
       alt="Jennifer Kropke"
       className="w-full h-full object-cover"
     />
@@ -200,7 +200,7 @@ export default function Music() {
 
   <div className="aspect-square rounded-lg overflow-hidden">
     <img
-      src="/images/uploads/artist-photo-2.jpg"
+      src="/images/uploads/artist-photo-2.png"
       alt="Jennifer Kropke"
       className="w-full h-full object-cover"
     />
@@ -208,7 +208,7 @@ export default function Music() {
 
   <div className="aspect-square rounded-lg overflow-hidden">
     <img
-      src="/images/uploads/artist-photo-3.jpg"
+      src="/images/uploads/artist-photo-3.png"
       alt="Jennifer Kropke"
       className="w-full h-full object-cover"
     />
