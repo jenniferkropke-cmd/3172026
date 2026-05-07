@@ -58,7 +58,17 @@ export default function Music() {
               <p className="text-gray-400 text-lg">Stream Inherited Weather: Part 1 on all platforms</p>
             </div>
 
-           <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7IWEaFpzM8a5lv1yceIO0c?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+           <iframe
+  data-testid="embed-iframe"
+  style={{ borderRadius: "12px" }}
+  src="https://open.spotify.com/embed/album/7IWEaFpzM8a5lv1yceI00c?utm_source=generator&theme=0"
+  width="100%"
+  height="352"
+  frameBorder="0"
+  allowFullScreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+></iframe>
 
               {/* Apple Music Embed Placeholder */}
               <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
