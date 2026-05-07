@@ -50,7 +50,7 @@ export default function Music() {
           </div>
         </section>
 
-        {/* LATEST RELEASE / MUSIC PLAYER SECTION */}
+      {/* LATEST RELEASE / MUSIC PLAYER SECTION */}
         <section className="py-16 bg-gradient-to-b from-gray-900 to-slate-900">
           <div className="max-w-5xl mx-auto px-6">
             <div className="text-center mb-12">
@@ -58,18 +58,17 @@ export default function Music() {
               <p className="text-gray-400 text-lg">Stream Inherited Weather: Part 1 on all platforms</p>
             </div>
 
-           <iframe
-  data-testid="embed-iframe"
-  style={{ borderRadius: "12px" }}
-  src="https://open.spotify.com/embed/album/7IWEaFpzM8a5lv1yceI00c?utm_source=generator&theme=0"
-  width="100%"
-  height="352"
-  frameBorder="0"
-  allowFullScreen=""
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy"
-></iframe>
-</div>            
+            {/* PLACEHOLDER: Music Platform Embeds */}
+            <div className="grid md:grid-cols-2 gap-8 mb-8">
+              {/* Spotify Embed Placeholder */}
+              <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
+                <Headphones className="w-12 h-12 text-teal-400 mx-auto mb-4" />
+                <h3 className="text-xl font-semibold text-white mb-2">Spotify</h3>
+                <p className="text-gray-400 mb-4">Add your Spotify embed code here</p>
+                <div className="text-xs text-gray-500 font-mono bg-slate-900 p-4 rounded">
+                  {"<iframe ... />"}
+                </div>
+              </div>
 
               {/* Apple Music Embed Placeholder */}
               <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
@@ -93,6 +92,7 @@ export default function Music() {
             </div>
           </div>
         </section>
+
 
         {/* ABOUT INHERITED WEATHER - Emotional Storytelling */}
         <section className="py-16 bg-slate-900">
