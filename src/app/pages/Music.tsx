@@ -32,10 +32,10 @@ export default function Music() {
           <div className="absolute inset-0 bg-black/40 z-10"></div>
           <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-gray-900 z-20"></div>
 
-         <img 
-  src="/images/album-cover.jpg" 
-  className="absolute inset-0 w-full h-full object-cover" 
-  alt="Jennifer Kropke - Inherited Weather" 
+        <img
+  src="/images/uploads/album-cover.jpg"
+  className="absolute inset-0 w-full h-full object-cover"
+  alt="Jennifer Kropke - Inherited Weather"
 />
           <div className="relative z-30 max-w-5xl mx-auto px-6 text-center text-white">
             <h1 className="text-7xl md:text-8xl font-bold mb-6 tracking-tight">
