@@ -73,14 +73,6 @@ export const songs: Song[] = [
     audioFile: "/audio/still-here-preview.mp3"
   },
   {
-    id: "sirius",
-    title: "Sirius",
-    theme: "Escaping into an all-consuming love that creates a sense of wonder, only to collapse into isolation and repeat the cycle",
-    genre: "pop rock ballad",
-    duration: "2:52",
-    audioFile: "/audio/sirius-preview.mp3"
-  },
-  {
     id: "fire-and-glitter",
     title: "Fire and Glitter",
     theme: "Navigating a complex mother-daughter relationship shaped by love, pain, and ultimately finding understanding and forgiveness",
@@ -95,38 +87,6 @@ export const songs: Song[] = [
     genre: "piano ballad",
     duration: "4:47",
     audioFile: "/audio/i-am-preview.mp3"
-  },
-  {
-    id: "16-candles",
-    title: "16 Candles",
-    theme: "A mother grappling with regret, accountability, and unconditional love after losing connection with her child",
-    genre: "rock ballad",
-    duration: "5:27",
-    audioFile: "/audio/16-candles-preview.mp3"
-  },
-  {
-    id: "madelyn",
-    title: "Madelyn",
-    theme: "Breaking generational cycles through intentional motherhood, choosing presence, healing, and emotional safety",
-    genre: "punk rock ballad",
-    duration: "3:02",
-    audioFile: "/audio/madelyn-preview.mp3"
-  },
-  {
-    id: "and-stayed",
-    title: "And Stayed",
-    theme: "Witnessing and supporting another survivor's healing while breaking cycles of trauma together through connection and understanding",
-    genre: "alternative rock",
-    duration: "4:09",
-    audioFile: "/audio/and-stayed-preview.mp3"
-  },
-  {
-    id: "how-the-cycle-ends",
-    title: "How The Cycle Ends",
-    theme: "Breaking generational cycles through intentional, imperfect love built on presence, healing, and daily choice",
-    genre: "piano ballad",
-    duration: "3:52",
-    audioFile: "/audio/how-the-cycle-ends-preview.mp3"
   },
   {
     id: "the-endless-powers-of-me",
