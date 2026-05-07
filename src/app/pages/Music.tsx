@@ -64,11 +64,11 @@ export default function Music() {
               <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
                 <Headphones className="w-12 h-12 text-teal-400 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold text-white mb-2">Spotify</h3>
-                <p className="text-gray-400 mb-4">Add your Spotify embed code here</p>
+                <p className="text-gray-400 mb-4">Spotify</p>
                <iframe
   data-testid="embed-iframe"
   style={{ borderRadius: "12px" }}
-  src="https://open.spotify.com/embed/album/7IWEaFpzM8a5lv1yceI00c?utm_source=generator&theme=0"
+  src="https://open.spotify.com/album/7IWEaFpzM8a5lv1yceIO0c?si=3xmau9ygTrikuVutxW7Jfw"
   width="100%"
   height="352"
   frameBorder="0"
