@@ -69,6 +69,7 @@ export default function Music() {
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
   loading="lazy"
 ></iframe>
+</div>            
 
               {/* Apple Music Embed Placeholder */}
               <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
