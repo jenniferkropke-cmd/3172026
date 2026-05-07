@@ -11,6 +11,7 @@ export function Header() {
     { path: "/projects", label: "Projects" },
     { path: "/services", label: "Services" },
     { path: "/music", label: "Music" },
+    { path: "/licensing", label: "Licensing" },
     { path: "/contact", label: "Contact" },
     { path: "/blog", label: "Blog" },
   ];
@@ -20,7 +21,10 @@ export function Header() {
       return location.pathname.startsWith("/blog");
     }
     if (path === "/music") {
-      return location.pathname.startsWith("/music");
+      return location.pathname === "/music";
+    }
+    if (path === "/licensing") {
+      return location.pathname === "/licensing";
     }
     return location.pathname === path;
   };
