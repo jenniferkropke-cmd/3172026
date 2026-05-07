@@ -131,7 +131,7 @@ export default function Music() {
                 What do we inherit from the people who raised us? And what do we choose to pass on?
               </p>
               <p>
-                <em>Inherited Weather: Part 1, The Endless Powers of Me</em> is a 15-track album that chronicles
+                <em>Inherited Weather: Part 1,</em> is a 15-track album that chronicles
                 the journey from dysfunction to healing, from trauma to transformation. Each song is a chapter in
                 a larger story about what gets passed down through generations—the pain, the patterns, the silent
                 struggles—and what it takes to break those cycles.
@@ -156,7 +156,7 @@ export default function Music() {
               </p>
               <p className="text-xl text-pink-300 font-semibold">
                 Because true power doesn't come from escaping pain—it comes from surviving it, rebuilding from it,
-                and choosing to rise anyway.
+                and choosing to rise anyway. Coming Soon: September 2026.
               </p>
             </div>
           </div>
