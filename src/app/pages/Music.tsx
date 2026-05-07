@@ -103,10 +103,18 @@ export default function Music() {
             <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
               <Mic2 className="w-12 h-12 text-purple-400 mx-auto mb-4" />
               <h3 className="text-xl font-semibold text-white mb-2">YouTube</h3>
-              <p className="text-gray-400 mb-4">Add your YouTube playlist or featured video embed here</p>
-              <div className="text-xs text-gray-500 font-mono bg-slate-900 p-4 rounded">
-                {"<iframe width='560' height='315' ... />"}
-              </div>
+              <p className="text-gray-400 mb-4">YouTube</p>
+              <iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/KzXtJY1a6_A?si=fvylOggJkMFgJl8U"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerPolicy="strict-origin-when-cross-origin"
+  allowFullScreen
+  className="rounded-lg"
+></iframe>
             </div>
           </div>
         </section>
