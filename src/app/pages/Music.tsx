@@ -145,9 +145,9 @@ export default function Music() {
               </p>
               <p>
                 The album explores toxic love that consumes you ("Bleed In Stereo," "Let's Restart"), the quiet
-                resilience of sexual assault survival ("Still Here"), the complicated love between mother and child
-                ("Fire and Glitter," "16 Candles"), and the transformative power of choosing to parent differently
-                ("Madelyn," "And Stayed").
+                resilience of sexual assault survival ("Still Here"), the complicated love between parent and child
+                ("Fire and Glitter," "The Ways We Cracked"), and the transformative power of choosing to parent differently
+                ("The Endless Powers Of Me").
               </p>
               <p>
                 This is music for anyone who has ever had to rebuild themselves from scratch. For anyone who has
