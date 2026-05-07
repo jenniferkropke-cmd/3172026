@@ -214,14 +214,6 @@ export default function Music() {
     />
   </div>
 </div>
-
-            <div className="bg-slate-800 border border-slate-700 rounded-lg p-6 text-gray-400">
-              <p className="text-sm">
-                <strong className="text-white">Photo Guidelines:</strong> Add 3-5 cohesive artist photos with the same
-                editing style, emotional tone, and color palette. Think: moody, cinematic, dramatic shadows, authentic emotion.
-              </p>
-            </div>
-          </div>
         </section>
 
         {/* PRESS / INTERVIEW TOPICS */}
