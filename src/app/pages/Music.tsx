@@ -78,14 +78,24 @@ export default function Music() {
 ></iframe>
               </div>
 
-              {/* Apple Music Embed Placeholder */}
+            {/* Apple Music Embed Placeholder */}
               <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
                 <MusicIcon className="w-12 h-12 text-pink-400 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold text-white mb-2">Apple Music</h3>
-                <p className="text-gray-400 mb-4"><iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/the-endless-powers-of-me/1888047838"></iframe></p>
-                <div className="text-xs text-gray-500 font-mono bg-slate-900 p-4 rounded">
-                  {"<iframe ... />"}
-                </div>
+                <p className="text-gray-400 mb-4">Apple Music</p>
+                <iframe
+  allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+  frameBorder="0"
+  height="175"
+  style={{
+    width: "100%",
+    maxWidth: "660px",
+    overflow: "hidden",
+    borderRadius: "10px",
+  }}
+  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+  src="https://embed.music.apple.com/us/song/the-endless-powers-of-me/1888047838"
+></iframe>
               </div>
             </div>
 
