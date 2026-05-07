@@ -6,6 +6,7 @@ import Contact from "./pages/Contact";
 import Blog from "./pages/Blog";
 import BlogPost from "./pages/BlogPost";
 import Music from "./pages/Music";
+import Licensing from "./pages/Licensing";
 
 export const router = createBrowserRouter([
   {
@@ -23,6 +24,10 @@ export const router = createBrowserRouter([
   {
     path: "/music",
     Component: Music,
+  },
+  {
+    path: "/licensing",
+    Component: Licensing,
   },
   {
     path: "/contact",
