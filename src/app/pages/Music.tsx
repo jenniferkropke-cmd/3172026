@@ -68,7 +68,7 @@ export default function Music() {
                <iframe
   data-testid="embed-iframe"
   style={{ borderRadius: "12px" }}
-  src="https://open.spotify.com/album/7IWEaFpzM8a5lv1yceIO0c?si=3xmau9ygTrikuVutxW7Jfw"
+  src="https://open.spotify.com/embed/album/7IWEaFpzM8a5lv1yceIO0c?utm_source=generator"
   width="100%"
   height="352"
   frameBorder="0"
