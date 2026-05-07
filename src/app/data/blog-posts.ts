@@ -765,7 +765,7 @@ export const blogPosts: BlogPost[] = [
     <p><strong>And so am I.</strong></p>
   `
 },
- {
+{
   slug: "what-survival-mode-looks-like-when-youre-high-functioning",
   title: "What Survival Mode Looks Like When You’re High Functioning",
   date: "2026-05-07",
@@ -870,7 +870,18 @@ export const blogPosts: BlogPost[] = [
     </p>
 
     <p>
-      And at the same time, there have been family situations happening behind the scenes that affected me more deeply than I initially admitted to myself.
+      And honestly, I think part of this connects back to what I wrote in
+      <a href="/blog/inherited-weather-introduction" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+        Inherited Weather
+      </a>
+      and
+      <a href="/blog/breaking-patterns-personal-growth" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+        Breaking Patterns
+      </a>.
+    </p>
+
+    <p>
+      There have been family situations happening behind the scenes that affected me more deeply than I initially admitted to myself.
     </p>
 
     <p>
@@ -980,7 +991,7 @@ export const blogPosts: BlogPost[] = [
     </p>
 
     <p>
-      And lately, I think I’m realizing how long I’ve been operating from that place without fully noticing it.
+      And lately, I’ve realized how long I’ve been operating from that place without fully noticing it.
     </p>
 
     <p><strong>Not falling apart.</strong></p>
@@ -1025,6 +1036,14 @@ export const blogPosts: BlogPost[] = [
       That eventually, slowing down starts to feel irresponsible.
     </p>
 
+    <p>
+      It’s something I’ve also touched on in
+      <a href="/blog/the-aftermath-of-letting-go" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+        The Aftermath of Letting Go
+      </a>
+      — the idea that functioning externally doesn’t always mean things feel settled internally.
+    </p>
+
     <br/><br/>
 
     <h2>Learning To Notice It</h2>
@@ -1062,22 +1081,6 @@ export const blogPosts: BlogPost[] = [
     <br/>
 
     <p>— Jen</p>
-
-    <br/><br/>
-
-    <p>
-      Related reading:
-      <a href="/blog/inherited-weather-introduction">
-        Inherited Weather
-      </a>,
-      <a href="/blog/breaking-patterns-personal-growth">
-        Breaking Patterns
-      </a>,
-      and
-      <a href="/blog/the-aftermath-of-letting-go">
-        The Aftermath of Letting Go
-      </a>.
-    </p>
   `
 }
 ];
