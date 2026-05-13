@@ -1082,6 +1082,252 @@ export const blogPosts: BlogPost[] = [
 
     <p>— Jen</p>
   `
+},
+  {
+  slug: "writing-the-songs-changed-the-memory-too",
+  title: "Writing the Songs Changed the Memory Too",
+  date: "2026-05-14",
+  excerpt: "Songwriting didn’t just help me express the past. It forced me to reinterpret it through completely different emotional lenses.",
+  featuredImage: "/images/uploads/songwriting-memory.png",
+  tags: ["Music", "Writing", "Healing", "Personal Growth"],
+  content: `
+
+<p>There’s something strange that happens when you turn your life into music.</p>
+
+<p>At first, I thought songwriting was going to be about expression.</p>
+
+<p>
+A way to vent.<br/>
+Process.<br/>
+Release things I had been carrying for years.
+</p>
+
+<p>But somewhere in the middle of creating this album, I realized something I wasn’t prepared for:</p>
+
+<p><strong>The songs weren’t just helping me tell the story differently.</strong></p>
+
+<p><strong>They were making me see the story differently too.</strong></p>
+
+<p>And honestly… that part has been harder than writing the music itself.</p>
+
+<br/><br/>
+
+<p>
+When I first started this blog in
+<a href="/blog/inherited-weather-introduction" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+  <em>Inherited Weather</em>
+</a>,
+I talked about emotional patterns. The things we inherit without choosing.
+</p>
+
+<p>
+The survival instincts.<br/>
+The coping mechanisms.<br/>
+The emotional climates we grow up inside of before we even know how to name them.
+</p>
+
+<p>At the time, I think I understood those ideas intellectually.</p>
+
+<p>But songwriting forced me to sit inside them emotionally.</p>
+
+<p><strong>That’s different.</strong></p>
+
+<p>Writing about something in a reflective way is one thing.</p>
+
+<p>But writing lyrics?</p>
+
+<p>Lyrics don’t let you hide behind explanation.</p>
+
+<p>
+They force you into specificity.<br/>
+Into emotion.<br/>
+Into memory.<br/>
+Into perspective.
+</p>
+
+<p>And once I started writing from that place, I realized how many moments from my past I had simplified just to survive them.</p>
+
+<br/><br/>
+
+<p>Some memories I had turned into villains.</p>
+
+<p>Others I had softened so much they barely resembled reality anymore.</p>
+
+<p>Some I blamed myself for completely.</p>
+
+<p>Others I avoided looking at altogether.</p>
+
+<p>But songs are strange that way.</p>
+
+<p>They don’t always follow the version of the story you’ve been repeating in your head for years.</p>
+
+<p>Sometimes they pull something deeper out of you before you even understand what you’re saying.</p>
+
+<p style="text-align:center;">
+<strong>Oh.</strong>
+</p>
+
+<p>That wasn’t anger underneath that memory.</p>
+
+<p>
+It was abandonment.<br/>
+Or grief.<br/>
+Or shame.<br/>
+Or fear.
+</p>
+
+<p>Sometimes even empathy.</p>
+
+<p>And that part surprised me the most.</p>
+
+<br/><br/>
+
+<p>Because songwriting has forced me to look at people from my past through different lenses too.</p>
+
+<p>Not just myself.</p>
+
+<p>There were moments I wrote about where I suddenly saw how young everyone involved really was.</p>
+
+<p>How emotionally unequipped people can be while still trying their best.</p>
+
+<p>How pain passes itself down quietly.</p>
+
+<p>How survival mode can make people love you in damaging ways without fully realizing it.</p>
+
+<p>That doesn’t erase accountability.</p>
+
+<p>But it changes the shape of the memory.</p>
+
+<p>And I think that’s part of what I’ve been wrestling with throughout this entire process.</p>
+
+<p>The realization that two things can exist at the same time:</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 1.5rem 0; font-style: italic; color: #4b5563;">
+Someone can hurt you<br/>
+and still be hurting themselves.
+<br/><br/>
+You can understand something<br/>
+and still grieve it.
+<br/><br/>
+You can have empathy<br/>
+without excusing the damage.
+</blockquote>
+
+<br/>
+
+<p>
+That tension shows up constantly in this album.
+</p>
+
+<p>
+Especially after writing blogs like
+<a href="/blog/breaking-patterns-personal-growth" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+  <em>Breaking Patterns</em>
+</a>
+and
+<a href="/blog/what-survival-mode-looks-like-when-youre-high-functioning" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+  <em>What Survival Mode Looks Like When You’re High Functioning</em>
+</a>.
+</p>
+
+<p>Because once you start recognizing your patterns, you start recognizing where they came from too.</p>
+
+<p>And that’s uncomfortable.</p>
+
+<p>Not because it gives you all the answers.</p>
+
+<p>But because it removes some of the simplicity.</p>
+
+<p>The “good guy vs bad guy” version of the story starts falling apart.</p>
+
+<p>And what’s left is usually something more human.</p>
+
+<p>
+More complicated.<br/>
+More painful.<br/>
+But also more honest.
+</p>
+
+<br/><br/>
+
+<h2>The Version of Healing I Didn’t Expect</h2>
+
+<p>I think before this project, I believed healing meant reaching a point where the past no longer affected you emotionally.</p>
+
+<p>Like eventually you become completely detached from it.</p>
+
+<p>But that hasn’t been my experience at all.</p>
+
+<p>If anything, creating this music has made me feel some things more deeply.</p>
+
+<p>Not because I’m stuck there.</p>
+
+<p>But because I’m finally looking at them without immediately trying to outrun them.</p>
+
+<p>
+Without turning them into productivity.<br/>
+Without immediately trying to “move forward.”
+</p>
+
+<p>
+That realization connects deeply to what I wrote recently in
+<a href="/blog/the-aftermath-of-letting-go" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+  <em>The Aftermath of Letting Go</em>
+</a>.
+</p>
+
+<p>Because releasing the songs was emotional.</p>
+
+<p>But writing them?</p>
+
+<p><strong>Writing them was confrontational.</strong></p>
+
+<p>It forced me to sit across from versions of myself I had spent years trying to edit into something easier to explain.</p>
+
+<br/><br/>
+
+<h2>Maybe That’s What Art Really Does</h2>
+
+<p>And maybe that’s the real reason art changes people while they’re creating it.</p>
+
+<p>Not because it magically heals everything.</p>
+
+<p>But because it forces honesty.</p>
+
+<p><strong>Real honesty.</strong></p>
+
+<p>The kind that exists before the polished version of the story takes over.</p>
+
+<p style="text-align:center;">
+<strong>
+This hurt me.<br/>
+This shaped me.<br/>
+This confused me.<br/>
+This stayed with me longer than I wanted it to.
+</strong>
+</p>
+
+<p>And maybe most importantly:</p>
+
+<p style="text-align:center;">
+<strong><em>This wasn’t as simple as I once needed it to be.</em></strong>
+</p>
+
+<br/><br/>
+
+<p>I don’t think songwriting gave me closure.</p>
+
+<p>But it did give me perspective.</p>
+
+<p style="text-align:center;">
+<strong>And sometimes, that changes everything.</strong>
+</p>
+
+<br/>
+
+<p>— Jen</p>
+
+`
 }
 ];
 
