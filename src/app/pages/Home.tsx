@@ -3,10 +3,15 @@ import { Footer } from "../components/Footer";
 import { FeaturedWorkSlider } from "../components/FeaturedWorkSlider";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
 import { useState } from "react";
+import { getAllPosts } from "../data/blog-posts";
 
 export default function Home() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
+
+  // Get the 2 latest blog posts
+  const allPosts = getAllPosts();
+  const featuredPosts = allPosts.slice(0, 2);
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -72,7 +77,7 @@ export default function Home() {
               📝 Read My Blog
             </a>
             <a
-              href="#contact"
+              href="#collaboration-section"
               className="bg-white text-teal-600 py-4 px-6 rounded-lg font-semibold hover:bg-teal-50 transition-all shadow-lg hover:shadow-xl transform hover:scale-105"
             >
               ✨ Let's Collaborate
@@ -125,18 +130,46 @@ export default function Home() {
             Creative insights, stories, and reflections on music, design, and artistic collaboration.
           </p>
           
-          {/* Blog preview cards - placeholder for your actual blog links */}
+          {/* Blog preview cards - populated with actual blog posts */}
           <div className="grid md:grid-cols-2 gap-8 mb-12">
-            <div className="bg-gradient-to-br from-pink-50 to-purple-50 rounded-lg p-8 shadow-md hover:shadow-lg transition-shadow">
-              <h3 className="text-xl font-semibold text-gray-800 mb-3">Your Latest Blog Post</h3>
-              <p className="text-gray-600 mb-4">Add your blog post title and excerpt here. This section will showcase your creative writing and insights.</p>
-              <a href="/blog" className="text-pink-600 font-semibold hover:text-pink-700">Read More →</a>
-            </div>
-            <div className="bg-gradient-to-br from-teal-50 to-pink-50 rounded-lg p-8 shadow-md hover:shadow-lg transition-shadow">
-              <h3 className="text-xl font-semibold text-gray-800 mb-3">Another Great Read</h3>
-              <p className="text-gray-600 mb-4">Share your creative perspective, lessons learned, or artistic inspirations with your audience.</p>
-              <a href="/blog" className="text-teal-600 font-semibold hover:text-teal-700">Read More →</a>
-            </div>
+            {featuredPosts.map((post) => (
+              <a
+                key={post.slug}
+                href={`/blog/${post.slug}`}
+                className="bg-gradient-to-br from-pink-50 to-purple-50 rounded-lg p-8 shadow-md hover:shadow-lg transition-shadow hover:scale-105 duration-300 block"
+              >
+                {post.featuredImage && (
+                  <div className="mb-4 rounded-lg overflow-hidden h-40 bg-gray-200">
+                    <img
+                      src={post.featuredImage}
+                      alt={post.title}
+                      className="w-full h-full object-cover"
+                    />
+                  </div>
+                )}
+                <h3 className="text-xl font-semibold text-gray-800 mb-3 hover:text-primary transition-colors">
+                  {post.title}
+                </h3>
+                <p className="text-gray-600 mb-4 line-clamp-2">
+                  {post.excerpt}
+                </p>
+                {post.tags && post.tags.length > 0 && (
+                  <div className="flex gap-2 flex-wrap mb-4">
+                    {post.tags.slice(0, 2).map((tag) => (
+                      <span
+                        key={tag}
+                        className="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded"
+                      >
+                        {tag}
+                      </span>
+                    ))}
+                  </div>
+                )}
+                <span className="text-pink-600 font-semibold hover:text-pink-700">
+                  Read More →
+                </span>
+              </a>
+            ))}
           </div>
           
           <div className="text-center">
@@ -201,7 +234,7 @@ export default function Home() {
       </section>
 
       {/* Contact/Collaboration Section */}
-      <section className="py-16 bg-gradient-to-br from-purple-50 via-pink-50 to-teal-50">
+      <section id="collaboration-section" className="py-16 bg-gradient-to-br from-purple-50 via-pink-50 to-teal-50">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-4 bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
             Let's Create Something Amazing Together
