@@ -110,11 +110,12 @@ export default function Home() {
                 Explore All Music →
               </a>
             </div>
-            <div className="bg-white rounded-lg shadow-lg p-8">
-              <div className="aspect-square bg-gradient-to-br from-purple-200 to-pink-200 rounded-lg flex items-center justify-center">
-                <p className="text-6xl">🎵</p>
-              </div>
-              <p className="text-center text-gray-600 mt-6 text-sm">Visit your music page to listen</p>
+            <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+              <img
+                src="/images/uploads/artist-photo-1.png"
+                alt="Jennifer Kropke"
+                className="w-full h-full object-cover"
+              />
             </div>
           </div>
         </div>
