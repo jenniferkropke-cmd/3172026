@@ -2,6 +2,7 @@ import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
 import { useParams, Link } from "react-router";
 import { Calendar, ArrowLeft, Tag } from "lucide-react";
+import { SEO } from "../components/SEO";
 import { getPostBySlug } from "../data/blog-posts";
 
 export default function BlogPost() {
@@ -20,6 +21,11 @@ export default function BlogPost() {
   if (!post) {
     return (
       <div className="min-h-screen flex flex-col">
+        <SEO
+          title="Post Not Found - Jennifer Kropke"
+          description="The blog post you're looking for doesn't exist."
+          canonical={`https://jenniferkropke.com/blog/${slug}`}
+        />
         <Header />
         <main className="flex-1 bg-gray-50 py-16 px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center">
@@ -41,6 +47,12 @@ export default function BlogPost() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title={`${post.title} - Jennifer Kropke`}
+        description={post.excerpt || post.description || "Read this blog post on Jennifer Kropke's blog"}
+        canonical={`https://jenniferkropke.com/blog/${slug}`}
+        keywords={post.tags ? post.tags.join(", ") : "blog, creative"}
+      />
       <Header />
 
       <main className="flex-1 bg-gray-50 py-16 px-4 sm:px-6 lg:px-8">

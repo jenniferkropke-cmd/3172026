@@ -2,6 +2,7 @@ import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
 import { Link } from "react-router";
 import { Calendar, Clock, Tag } from "lucide-react";
+import { SEO } from "../components/SEO";
 import { getAllPosts } from "../data/blog-posts";
 
 export default function Blog() {
@@ -18,6 +19,12 @@ export default function Blog() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Blog - Jennifer Kropke | Creative Insights & Stories"
+        description="Insights, stories, and tips from my creative journey covering music, design, creative direction, and artistic storytelling."
+        canonical="https://jenniferkropke.com/blog"
+        keywords="blog, creative insights, music, design, artistic storytelling, creative direction"
+      />
       <Header />
 
       <main className="flex-1 bg-gray-50 py-16 px-4 sm:px-6 lg:px-8">

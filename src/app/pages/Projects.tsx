@@ -1,13 +1,14 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
+import { SEO } from "../components/SEO";
 
 const projects = [
   {
     number: "01",
     title: "Dehkhoda Education Foundation",
-    description: "The Dehkhoda Educational Foundation promotes peace, progress, and prosperity through cultural and educational initiatives. My creative work with Dehkhoda focuses on multimedia storytelling, digital engagement, and museum development.",
-    image: "https://images.unsplash.com/photo-1764032758859-634187751c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtdXNldW0lMjBlZHVjYXRpb24lMjBjdWx0dXJhbCUyMGxlYXJuaW5nfGVufDF8fHx8MTc3MzM1MDcwMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    description: "The Dehkhoda Educational Foundation promotes peace, progress, and prosperity through cultural and educational initiatives. My creative work with Dehkhoda focuses on multimedia sto[...]",
+    image: "https://images.unsplash.com/photo-1764032758859-634187751c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtdXNldW0lMjBlZHVjYXRpb24lMjBjdWx0dXJhbCUyMGxlYX[...]",
     link: "https://dehfoundation.org/",
     highlights: [
       {
@@ -47,8 +48,8 @@ const projects = [
   {
     number: "02",
     title: "Say Yes To Childcare",
-    description: "Say Yes To Childcare is a community initiative dedicated to increasing access to the Child Care Assistance Program (CCAP) and supporting childcare centers that serve low-income families.",
-    image: "https://images.unsplash.com/photo-1761208663763-c4d30657c910?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZGNhcmUlMjBraWRzJTIwcGxheWluZyUyMGNvbG9yZnVsfGVufDF8fHx8MTc3MzM1MDcwMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    description: "Say Yes To Childcare is a community initiative dedicated to increasing access to the Child Care Assistance Program (CCAP) and supporting childcare centers that serve low-income f[...]",
+    image: "https://images.unsplash.com/photo-1761208663763-c4d30657c910?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZGNhcmUlMjBraWRzJTIwcGxheWluZyUyMGNvbG9yZj[...]",
     link: "https://sayyestochildcare.org/en/",
     highlights: [
       {
@@ -96,8 +97,8 @@ const projects = [
   {
     number: "03",
     title: "Kids Academy Early Learning Center",
-    description: "Kids Academy is an early learning center dedicated to nurturing young minds in a creative and structured environment. My projects support communication, organization, and staff collaboration.",
-    image: "https://images.unsplash.com/photo-1564429238817-393bd4286b2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcmVzY2hvb2wlMjBjbGFzc3Jvb20lMjBsZWFybmluZyUyMGNvbG9yZnVsfGVufDF8fHx8MTc3MzM1MDcwMnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    description: "Kids Academy is an early learning center dedicated to nurturing young minds in a creative and structured environment. My projects support communication, organization, and staff c[...]",
+    image: "https://images.unsplash.com/photo-1564429238817-393bd4286b2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcmVzY2hvb2wlMjBjbGFzc3Jvb20lMjBsZWFybmluZyUyM[...]",
     link: "https://kidsacademy.love/",
     highlights: [
       {
@@ -117,11 +118,11 @@ const projects = [
         url: "https://www.facebook.com/TheKidsAcademy"
       },
       {
-        text: "🎶 Multimedia Production for Performance Nights — Mixed music tracks and created slideshow presentations for Kids Academy's performance nights, combining photos, graphics, and audio to celebrate children's creativity and milestones.",
+        text: "🎶 Multimedia Production for Performance Nights — Mixed music tracks and created slideshow presentations for Kids Academy's performance nights, combining photos, graphics, and [...].",
         url: "https://kidsacademy.love/"
       },
       {
-        text: "🏫 Virtual Tour Creation — Created an interactive virtual tour of the Kids Academy facility, providing families with an engaging digital walkthrough experience that highlights classrooms, learning spaces, and staff introductions.",
+        text: "🏫 Virtual Tour Creation — Created an interactive virtual tour of the Kids Academy facility, providing families with an engaging digital walkthrough experience that highlights [...].",
         url: "https://kidsacademy.love/virtual-tour/"
       },
     ],
@@ -130,7 +131,7 @@ const projects = [
     number: "04",
     title: "Twinkle Toes Today",
     description: "Twinkle Toes Today offers creative dance education and online learning opportunities for children. My work elevated their online presence and streamlined digital interaction.",
-    image: "https://images.unsplash.com/photo-1596315458574-d99efaea3b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGJhbGxldCUyMGRhbmNlJTIwY2xhc3N8ZW58MXx8fHwxNzczMzUwNzAyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: "https://images.unsplash.com/photo-1596315458574-d99efaea3b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGJhbGxldCUyMGRhbmNlJTIwY2xhc3N8Z[...]",
     link: "https://twinkletoes2day.com/#/",
     highlights: [
       {
@@ -158,16 +159,16 @@ const projects = [
   {
     number: "05",
     title: "Prestige Transportation Group",
-    description: "Prestige Transportation Group is a professional driving and logistics company providing safe, reliable, and high-end transportation services. My work focused on creating a cohesive digital and brand identity that reflected the company's professionalism and attention to detail.",
-    image: "https://images.unsplash.com/photo-1653464138788-621777596fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBsaW1vdXNpbmUlMjBibGFjayUyMGNhciUyMHByb2Zlc3Npb25hbHxlbnwxfHx8fDE3NzMzNTA3MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    description: "Prestige Transportation Group is a professional driving and logistics company providing safe, reliable, and high-end transportation services. My work focused on creating a cohes[...]",
+    image: "https://images.unsplash.com/photo-1653464138788-621777596fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBsaW1vdXNpbmUlMjBibGFjayUyMGNhciUyM[...]",
     link: "https://ptglimos.com/",
     highlights: [
       {
-        text: "💻 Website Design & Development — Designed and built the company's website to highlight its services, fleet, and booking process. Focused on intuitive navigation, clear service presentation, and visual consistency across all pages.",
+        text: "💻 Website Design & Development — Designed and built the company's website to highlight its services, fleet, and booking process. Focused on intuitive navigation, clear service[...]",
         url: "https://ptglimos.com/"
       },
       {
-        text: "💼 Business Card Design — Created sleek, professional business cards aligning with the brand's aesthetic and color palette. The design emphasized modern typography, readability, and a premium feel consistent with their service experience.",
+        text: "💼 Business Card Design — Created sleek, professional business cards aligning with the brand's aesthetic and color palette. The design emphasized modern typography, readability[...]",
         url: "https://ptglimos.com/"
       },
     ],
@@ -177,6 +178,12 @@ const projects = [
 export default function Projects() {
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Projects - Jennifer Kropke | Creative Direction & Digital Media"
+        description="Portfolio of creative direction, digital media, and design work including video production, web design, social campaigns, and educational storytelling for mission-driven organizations."
+        canonical="https://jenniferkropke.com/projects"
+        keywords="portfolio, projects, creative direction, digital media, video production, web design, nonprofit marketing, educational content"
+      />
       <Header />
 
       <main className="flex-1 bg-white py-16 px-4 sm:px-6 lg:px-8">

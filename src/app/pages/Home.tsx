@@ -2,6 +2,7 @@ import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
 import { FeaturedWorkSlider } from "../components/FeaturedWorkSlider";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
+import { SEO } from "../components/SEO";
 import { useState } from "react";
 import { getAllPosts } from "../data/blog-posts";
 
@@ -44,6 +45,12 @@ export default function Home() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Jennifer Kropke - Creative Direction | Digital Media | Design"
+        description="Multimedia professional specializing in video production, web design, social campaigns, and educational storytelling for mission-driven organizations."
+        canonical="https://jenniferkropke.com/"
+        keywords="Jennifer Kropke, creative direction, digital media, video production, web design, social media campaigns, nonprofit marketing, educational storytelling"
+      />
       <Header />
 
       {/* Hero Section - New Artistic & Energetic */}
@@ -225,7 +232,7 @@ export default function Home() {
             </div>
             <div className="order-first md:order-last">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1603400938371-d030ad03505b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGVkaXRpbmclMjB3b3Jrc3BhY2UlM[...]"
+                src="https://images.unsplash.com/photo-1603400938371-d030ad03505b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGVkaXRpbmclMjB3b3Jrc3BhY2Ul[...]"
                 alt="Creative workspace with music and design tools"
                 className="w-full h-auto rounded-lg shadow-md"
               />
