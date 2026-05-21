@@ -1328,6 +1328,247 @@ This stayed with me longer than I wanted it to.
 <p>— Jen</p>
 
 `
+},
+  {
+  slug: "writing-still-here-songwriting-trauma-metaphor",
+  title: "Writing Still Here: When Metaphor Says What Literal Words Cannot",
+  date: "2026-05-21",
+  excerpt: "Still Here began as a graphic poem written years ago about sexual assault. This is the story of translating that pain into something emotional, metaphorical, and human instead of literal.",
+  featuredImage: "/images/uploads/still-here-blog.png",
+  tags: ["Music", "Songwriting", "Healing", "Personal Growth"],
+  content: `
+
+<p>There’s something interesting I’ve started realizing about this album as I continue releasing pieces of it into the world.</p>
+
+<p>A lot of these songs didn’t actually begin as songs.</p>
+
+<p><strong>They began as poems.</strong></p>
+
+<p>Some of them were written years ago. Some came from moments I never intended anyone else to see. And now, somehow, they’re turning into music.</p>
+
+<p>That’s exactly what happened with <em>The Endless Powers Of Me</em>.</p>
+
+<p>And now… it’s happening again with <em>Still Here</em>.</p>
+
+<br/><br/>
+
+<h2>This Song Felt Different Immediately</h2>
+
+<p>But this song was different from the beginning.</p>
+
+<p>Heavier.</p>
+
+<p>Not just emotionally, but thematically.</p>
+
+<p>Because the original poem behind <em>Still Here</em> was centered around sexual assault.</p>
+
+<p>And unlike some of my other writing from that time in my life, it wasn’t subtle at all.</p>
+
+<p style="text-align:center;">
+<strong>
+It was graphic.<br/>
+Raw.<br/>
+Angry.<br/>
+Devastated.
+</strong>
+</p>
+
+<p>It came from a younger version of me that didn’t really know how to process what had happened except to say it exactly as it felt.</p>
+
+<p>No artistic distance.</p>
+
+<p>No metaphor.</p>
+
+<p>No softening.</p>
+
+<p>Just pain trying to get out somewhere.</p>
+
+<p>And revisiting that years later as an adult was… complicated.</p>
+
+<br/><br/>
+
+<h2>Why I Didn’t Want Literal Lyrics</h2>
+
+<p>Because when I started turning these older pieces into songs, I realized pretty quickly that I didn’t want <em>Still Here</em> to become a literal retelling.</p>
+
+<p>I didn’t want to create something graphic just for the sake of impact.</p>
+
+<p>I didn’t want people listening to the song and only hearing the event itself.</p>
+
+<br/>
+
+<p style="text-align:center;">
+<strong><em>I wanted them to feel the aftermath.</em></strong>
+</p>
+
+<br/>
+
+<p>The confusion.</p>
+
+<p>The numbness.</p>
+
+<p>The disconnection from your own body afterward.</p>
+
+<p>The way something can stay with you long after the moment itself is over.</p>
+
+<p>Because honestly, I think that’s the part people understand the least about trauma sometimes.</p>
+
+<p>Not just what happened.</p>
+
+<p><strong>But what it does to you after.</strong></p>
+
+<p>How it changes the way you move through the world.</p>
+
+<p>How certain memories stop feeling linear.</p>
+
+<p>How fear can become physical.</p>
+
+<p>How silence can become part of your personality without you even realizing it.</p>
+
+<br/><br/>
+
+<h2>When Literal Language Stopped Working</h2>
+
+<p>And the more I sat with the lyrics for <em>Still Here</em>, the more I realized that literal language actually wasn’t the best way to express those feelings.</p>
+
+<p style="text-align:center;">
+<strong>
+Metaphor was.<br/><br/>
+Atmosphere was.<br/><br/>
+Emotion was.
+</strong>
+</p>
+
+<p>I found myself thinking less about “telling the story” and more about questions like:</p>
+
+<ul>
+  <li>What does dissociation sound like?</li>
+  <li>What does fear sound like?</li>
+  <li>What does survival sound like when it isn’t loud or cinematic or inspirational?</li>
+  <li>What does it feel like to continue existing after trust has been broken in a way that changes your relationship with yourself?</li>
+</ul>
+
+<p>Those questions shaped the song far more than the original poem ever did.</p>
+
+<p>Because trauma rarely feels clean or chronological emotionally.</p>
+
+<p>It feels fragmented.</p>
+
+<p>Heavy in random moments.</p>
+
+<p>Quiet when you expect yourself to be angry.</p>
+
+<p>Loud when you want to feel normal.</p>
+
+<p>And trying to capture that through songwriting forced me to think differently than I ever had before as a writer.</p>
+
+<p>Not just emotionally.</p>
+
+<p><strong>Artistically.</strong></p>
+
+<br/><br/>
+
+<h2>The Things Left Unsaid</h2>
+
+<p>There were lines I rewrote over and over because they felt too direct.</p>
+
+<p>Not because the truth was too ugly to say, but because I realized sometimes the emotional truth lands harder when you don’t explain every detail.</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 1.5rem 0; font-style: italic; color: #4b5563;">
+Sometimes imagery says more.<br/><br/>
+Sometimes restraint says more.<br/><br/>
+Sometimes the thing left unsaid is the part people feel the deepest.
+</blockquote>
+
+<p>And honestly, I think that’s part of what changed me while writing this song.</p>
+
+<p>It forced me to stop thinking about art as just expression.</p>
+
+<p>And start thinking about it as translation.</p>
+
+<br/><br/>
+
+<h2>Emotional Translation</h2>
+
+<p>Because the reality is, there are experiences in life that don’t fully fit inside literal language.</p>
+
+<p>Especially experiences tied to shame, fear, violation, grief, or survival.</p>
+
+<p>Sometimes the feeling itself is too layered.</p>
+
+<p>Too disconnected.</p>
+
+<p>Too overwhelming to describe directly.</p>
+
+<p>So instead, you build emotional landscapes around it.</p>
+
+<p>You use metaphor.</p>
+
+<p>Sound.</p>
+
+<p>Tension.</p>
+
+<p>Space.</p>
+
+<p>You let people enter the feeling instead of simply explaining the event.</p>
+
+<p>And that became the heart of <em>Still Here</em>.</p>
+
+<p style="text-align:center;">
+<strong>
+Not retelling.<br/><br/>
+Not graphic storytelling.<br/><br/>
+But emotional translation.
+</strong>
+</p>
+
+<br/><br/>
+
+<h2>Why The Title Matters</h2>
+
+<p>Which honestly makes the title feel even more important to me now.</p>
+
+<p>Because <em>Still Here</em> isn’t meant to sound triumphant.</p>
+
+<p>It’s not a victory speech.</p>
+
+<p>It’s quieter than that.</p>
+
+<p>More exhausted in some ways.</p>
+
+<p>More human.</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 1.5rem 0; font-style: italic; color: #4b5563;">
+Sometimes survival doesn’t look powerful.<br/><br/>
+Sometimes it just looks like waking up the next day.
+</blockquote>
+
+<p>Continuing forward.</p>
+
+<p>Learning how to exist inside yourself again.</p>
+
+<p>Learning how to reconnect to parts of yourself that felt disconnected for a long time.</p>
+
+<p>And I think that’s what this song ultimately became.</p>
+
+<p>Not a recreation of the worst moment.</p>
+
+<p>But proof that the worst moment wasn’t the end of the story.</p>
+
+<br/><br/>
+
+<p style="text-align:center;">
+<strong>
+Because after everything…<br/><br/>
+I’m still here.
+</strong>
+</p>
+
+<br/>
+
+<p>— Jen</p>
+
+`
 }
 ];
 
