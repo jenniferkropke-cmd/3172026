@@ -174,19 +174,17 @@ export default function Music() {
             Spotify
           </h3>
 
-          <iframe
-            data-testid="embed-iframe"
-            style={{ borderRadius: "12px" }}
-            src="<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4nmiuOsSykjLiGfsui1Qob?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>"
-            width="100%"
-            height="352"
-            frameBorder="0"
-            allowFullScreen
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            loading="lazy"
-          ></iframe>
-        </div>
-
+<iframe
+  data-testid="embed-iframe"
+  style={{ borderRadius: "12px" }}
+  src="https://open.spotify.com/embed/album/4nmiuOsSykjLiGfsui1Qob?utm_source=generator"
+  width="100%"
+  height="352"
+  frameBorder="0"
+  allowFullScreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+></iframe>
         {/* Apple Music */}
         <div className="bg-slate-800/80 border border-slate-400/30 rounded-2xl p-8 text-center shadow-xl shadow-slate-900/30">
           <MusicIcon className="w-12 h-12 text-slate-300 mx-auto mb-4" />
