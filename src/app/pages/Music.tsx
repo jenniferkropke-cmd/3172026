@@ -111,19 +111,19 @@ export default function Music() {
             Apple Music
           </h3>
 
-          <iframe
-            allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
-            frameBorder="0"
-            height="175"
-            style={{
-              width: "100%",
-              maxWidth: "660px",
-              overflow: "hidden",
-              borderRadius: "10px",
-            }}
-            sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-            src="https://embed.music.apple.com/us/song/the-endless-powers-of-me/1888047838"
-          ></iframe>
+<iframe
+  allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+  frameBorder="0"
+  height="450"
+  style={{
+    width: "100%",
+    maxWidth: "660px",
+    overflow: "hidden",
+    borderRadius: "10px",
+  }}
+  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+  src="https://embed.music.apple.com/us/album/still-here-single/1894400768"
+></iframe>
         </div>
       </div>
 
@@ -135,17 +135,17 @@ export default function Music() {
           YouTube
         </h3>
 
-        <iframe
-          width="100%"
-          height="315"
-          src="https://www.youtube.com/embed/KzXtJY1a6_A?si=fvylOggJkMFgJl8U"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerPolicy="strict-origin-when-cross-origin"
-          allowFullScreen
-          className="rounded-lg"
-        ></iframe>
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/djb6CcV5MGs?si=avXNbNqu7PUkw9Y6"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerPolicy="strict-origin-when-cross-origin"
+  allowFullScreen
+  className="rounded-lg"
+></iframe>
       </div>
     </div>
 
