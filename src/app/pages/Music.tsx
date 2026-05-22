@@ -177,7 +177,7 @@ export default function Music() {
 <iframe
   data-testid="embed-iframe"
   style={{ borderRadius: "12px" }}
-  src="https://open.spotify.com/embed/album/4nmiuOsSykjLiGfsui1Qob?utm_source=generator"
+  src="https://open.spotify.com/album/4nmiuOsSykjLiGfsui1Qob?si=ny6iFaqZQjaT31xA6eWmOg"
   width="100%"
   height="352"
   frameBorder="0"
@@ -204,7 +204,7 @@ export default function Music() {
               borderRadius: "10px",
             }}
             sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-            src="<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/still-here-single/1894400768"></iframe>"
+            src="https://music.apple.com/us/song/still-here/1894400769"
           ></iframe>
         </div>
       </div>
@@ -220,7 +220,7 @@ export default function Music() {
         <iframe
           width="100%"
           height="315"
-          src="<iframe width="560" height="315" src="https://www.youtube.com/embed/djb6CcV5MGs?si=avXNbNqu7PUkw9Y6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
+          src="<iframe width="560" height="315" src="https://www.youtube.com/watch?v=djb6CcV5MGs&list=RDdjb6CcV5MGs&start_radio=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
           title="YouTube video player"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
