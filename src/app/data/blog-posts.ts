@@ -1569,6 +1569,269 @@ I’m still here.
 <p>— Jen</p>
 
 `
+},
+  {
+  slug: "the-risk-of-choosing-yourself",
+  title: "The Risk Of Choosing Yourself",
+  date: "2026-05-28",
+  excerpt: "Sometimes the biggest risk is not failure. Sometimes the biggest risk is believing you deserve a life that actually feels like yours.",
+  featuredImage: "/images/uploads/risk-of-choosing-yourself.png",
+  tags: ["Personal Growth", "Healing", "Music", "Identity"],
+  content: `
+
+<p>A few days ago I came across a tweet that asked:</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+“Have you ever quit a job before having another one lined up? Was it worth it?”
+</blockquote>
+
+<p>I kept thinking about it because a few years ago, I did exactly that.</p>
+
+<p>At the time, it probably looked reckless from the outside. Walking away from stability as an adult is not something people usually celebrate in real time. Especially when bills still exist, responsibilities still exist, and the job market feels increasingly impossible to navigate.</p>
+
+<p>But there comes a point where staying starts costing more than leaving.</p>
+
+<p>And I think deep down, I already knew that.</p>
+
+<br/><br/>
+
+<h2>When Survival Starts Looking Like Disappearing</h2>
+
+<p>The hardest part was that the place I walked away from was not always painful to me. At one point, I genuinely loved it. I felt connected to the people there. I felt purposeful there. Which almost made it harder when things changed.</p>
+
+<p>Because when something shifts slowly, you spend a long time wondering if maybe the problem is actually you.</p>
+
+<p style="text-align:center;">
+<strong>
+You tell yourself to adjust.<br/><br/>
+To be grateful.<br/><br/>
+To stop being sensitive.<br/><br/>
+To push through.
+</strong>
+</p>
+
+<p>Meanwhile, your body starts reacting before your mind catches up.</p>
+
+<p>I would sit in my car before work already emotionally exhausted. I stopped recognizing myself creatively. I stopped feeling inspired. Parts of me that used to feel alive started going quiet.</p>
+
+<p>And maybe that was the scariest part.</p>
+
+<p style="text-align:center;">
+<strong>
+Not the fear of failing.<br/><br/>
+The fear of disappearing.
+</strong>
+</p>
+
+<p>There is a line in <em>Still Here</em> that says:</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+“I learned how to disappear before I knew what leaving meant.”
+</blockquote>
+
+<p>When I wrote that lyric, I was writing about trauma. But the older I get, the more I realize survival mode can quietly follow you into every area of your life if you are not careful.</p>
+
+<p>I think that is part of what I have been writing about throughout this entire blog series in different ways.</p>
+
+<p>How inherited survival patterns quietly shape the way we move through adulthood. How easily we confuse endurance with safety. How difficult it can be to recognize when we are recreating emotional environments that feel familiar instead of healthy.</p>
+
+<p>Breaking patterns sounds empowering when people say it out loud.</p>
+
+<p>In reality, it is often uncomfortable, uncertain, and deeply lonely at first.</p>
+
+<p style="text-align:center;">
+<strong>
+You learn how to stay.<br/><br/>
+How to tolerate.<br/><br/>
+How to emotionally detach from yourself in order to function.
+</strong>
+</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+“Stillness isn’t weakness.<br/><br/>
+It’s survival wearing thin.”
+</blockquote>
+
+<p>I think that lyric explains more about that season of my life than I knew at the time.</p>
+
+<br/><br/>
+
+<h2>The In Between</h2>
+
+<p>Because leaving did not immediately make me feel free.</p>
+
+<p>Honestly, at first it made everything harder.</p>
+
+<p>I bounced between jobs that looked better on paper but felt equally disconnected from who I was. I kept trying to force myself into environments that left no room for creativity, emotion, music, or honestly, joy.</p>
+
+<p>Lately I have been thinking a lot about the difference between pushing yourself to grow and forcing yourself to survive environments that are actively disconnecting you from who you are.</p>
+
+<p style="text-align:center;">
+<strong>
+There is a line between resilience and self abandonment.
+</strong>
+</p>
+
+<p>And I think many of us cross it without realizing it because we were taught that exhaustion is what adulthood is supposed to feel like.</p>
+
+<p>I remember sitting at one of those jobs scrolling Indeed during downtime, feeling completely defeated. The job market was awful. Every listing had hundreds of applicants. Most of the time applying started to feel less like hope and more like throwing pieces of yourself into a void.</p>
+
+<p>Then I saw a position that caught my attention.</p>
+
+<p>I almost did not apply because I genuinely did not think I would get it.</p>
+
+<p style="text-align:center;">
+<strong>
+But something in me said:<br/><br/>
+try anyway.
+</strong>
+</p>
+
+<p>And somehow, that one decision changed the direction of my life.</p>
+
+<p>Not because everything suddenly became perfect, but because for the first time in a long time, I found myself in an environment that allowed parts of me to come back alive again.</p>
+
+<p style="text-align:center;">
+<strong>
+Creativity returned.<br/><br/>
+Connection returned.<br/><br/>
+Music returned.
+</strong>
+</p>
+
+<p>Or maybe more truthfully:</p>
+
+<p style="text-align:center; font-size: 1.3rem;">
+<strong>
+I returned.
+</strong>
+</p>
+
+<br/><br/>
+
+<h2>Returning To Yourself</h2>
+
+<p>There is another lyric in <em>Still Here</em> that says:</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+“They didn’t end my story.<br/><br/>
+They only marked the page.”
+</blockquote>
+
+<p>I think that is what choosing yourself really is.</p>
+
+<p style="text-align:center;">
+<strong>
+Not becoming fearless.<br/><br/>
+Not suddenly healing overnight.<br/><br/>
+Not magically escaping every difficult thing you have ever lived through.
+</strong>
+</p>
+
+<p>It is deciding your story is still worth continuing even after seasons that convinced you to disappear inside yourself.</p>
+
+<p>For a long time I thought strength meant becoming untouchable. Unbreakable. Unaffected.</p>
+
+<p>But now I think real strength might simply be refusing to abandon yourself.</p>
+
+<p style="text-align:center;">
+<strong>
+Even quietly.<br/><br/>
+Even imperfectly.<br/><br/>
+Even while terrified.
+</strong>
+</p>
+
+<p>When I wrote <em>The Endless Powers of Me</em>, one lyric became the center of everything for me:</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+“Maybe power isn’t lightning.<br/><br/>
+Maybe it’s the choice to stay.”
+</blockquote>
+
+<p>I understand that line differently now.</p>
+
+<p>Because sometimes staying does not mean remaining inside the environment that is hurting you.</p>
+
+<p style="text-align:center;">
+<strong>
+Sometimes staying means staying connected to yourself.<br/><br/>
+Your creativity.<br/><br/>
+Your instincts.<br/><br/>
+Your humanity.
+</strong>
+</p>
+
+<p>Sometimes staying means refusing to go numb.</p>
+
+<p>And looking back now, I think that is why leaving changed my life.</p>
+
+<p>Not because leaving magically saved me.</p>
+
+<p>But because it interrupted the slow process of disappearing.</p>
+
+<p>It forced me into an uncertain season where I had to rebuild trust in myself from the ground up. A season where I had no idea where things were leading, only that I could not keep shrinking in order to survive.</p>
+
+<p>And somewhere in the middle of all that uncertainty, I found pieces of myself waiting for me.</p>
+
+<p style="text-align:center;">
+<strong>
+The artist.<br/><br/>
+The writer.<br/><br/>
+The musician.<br/><br/>
+The dreamer.
+</strong>
+</p>
+
+<p>The version of me that still believed life was supposed to feel meaningful instead of merely manageable.</p>
+
+<br/><br/>
+
+<h2>Still Here</h2>
+
+<p>For years, I thought survival was the victory.</p>
+
+<p>Now I think survival was simply the reason I was still here long enough to become myself.</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+“Every scar is restoration.<br/><br/>
+Every breath defies the past.”
+</blockquote>
+
+<p>Maybe that is the real risk of choosing yourself.</p>
+
+<p style="text-align:center;">
+<strong>
+Not that you will fail.<br/><br/>
+But that you might actually find the life that was waiting for you on the other side of fear.
+</strong>
+</p>
+
+<p>And maybe healing is not becoming someone entirely new.</p>
+
+<p style="text-align:center;">
+<strong>
+Maybe it is finally allowing yourself to stop disappearing.<br/><br/>
+To stop shrinking.<br/><br/>
+To stop surviving your own life.
+</strong>
+</p>
+
+<p>Maybe healing is simply this:</p>
+
+<p style="text-align:center; font-size: 1.2rem; font-style: italic; margin-top: 2rem;">
+returning to yourself slowly enough that your nervous system finally believes you are safe to exist there.
+</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 3rem 0 1rem 0; font-style: italic; color: #d1d5db; font-size: 1.1rem;">
+“Not healed.<br/><br/>
+Not hopeless.<br/><br/>
+Still here.”
+</blockquote>
+
+<p style="margin-top: 3rem;">— Jen</p>
+
+`
 }
 ];
 
