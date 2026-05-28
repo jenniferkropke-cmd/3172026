@@ -1570,7 +1570,7 @@ I’m still here.
 
 `
 },
-  {
+{
   slug: "the-risk-of-choosing-yourself",
   title: "The Risk Of Choosing Yourself",
   date: "2026-05-28",
@@ -1581,7 +1581,7 @@ I’m still here.
 
 <p>A few days ago I came across a tweet that asked:</p>
 
-<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8;">
 “Have you ever quit a job before having another one lined up? Was it worth it?”
 </blockquote>
 
@@ -1625,7 +1625,7 @@ The fear of disappearing.
 
 <p>There is a line in <em>Still Here</em> that says:</p>
 
-<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8;">
 “I learned how to disappear before I knew what leaving meant.”
 </blockquote>
 
@@ -1647,7 +1647,7 @@ How to emotionally detach from yourself in order to function.
 </strong>
 </p>
 
-<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8;">
 “Stillness isn’t weakness.<br/><br/>
 It’s survival wearing thin.”
 </blockquote>
@@ -1713,7 +1713,7 @@ I returned.
 
 <p>There is another lyric in <em>Still Here</em> that says:</p>
 
-<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8;">
 “They didn’t end my story.<br/><br/>
 They only marked the page.”
 </blockquote>
@@ -1744,7 +1744,7 @@ Even while terrified.
 
 <p>When I wrote <em>The Endless Powers of Me</em>, one lyric became the center of everything for me:</p>
 
-<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8;">
 “Maybe power isn’t lightning.<br/><br/>
 Maybe it’s the choice to stay.”
 </blockquote>
@@ -1793,7 +1793,7 @@ The dreamer.
 
 <p>Now I think survival was simply the reason I was still here long enough to become myself.</p>
 
-<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #d1d5db;">
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8;">
 “Every scar is restoration.<br/><br/>
 Every breath defies the past.”
 </blockquote>
@@ -1823,7 +1823,7 @@ To stop surviving your own life.
 returning to yourself slowly enough that your nervous system finally believes you are safe to exist there.
 </p>
 
-<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 3rem 0 1rem 0; font-style: italic; color: #d1d5db; font-size: 1.1rem;">
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 3rem 0 1rem 0; font-style: italic; color: #4b5563; line-height: 1.8; font-size: 1.1rem;">
 “Not healed.<br/><br/>
 Not hopeless.<br/><br/>
 Still here.”
