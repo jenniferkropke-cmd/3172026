@@ -1,4 +1,5 @@
 import { Mail, Phone } from "lucide-react";
+import { MetricoolTracker } from "./MetricoolTracker";
 
 export function Footer() {
   return (
@@ -24,6 +25,7 @@ export function Footer() {
           <p className="text-sm text-gray-500">©2018 by Jennifer Kropke</p>
         </div>
       </div>
+      <MetricoolTracker />
     </footer>
   );
 }
