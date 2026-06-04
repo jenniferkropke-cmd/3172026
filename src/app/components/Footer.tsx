@@ -1,4 +1,4 @@
-import { Mail, Phone } from "lucide-react";
+import { Mail, Phone, Rss } from "lucide-react";
 import { MetricoolTracker } from "./MetricoolTracker";
 
 export function Footer() {
@@ -20,6 +20,14 @@ export function Footer() {
             >
               <Phone className="w-4 h-4" />
               847-691-3699
+            </a>
+            <a
+              href="/api/rss.xml"
+              className="flex items-center gap-2 hover:text-gray-900 transition-colors"
+              title="Subscribe to RSS feed"
+            >
+              <Rss className="w-4 h-4" />
+              RSS Feed
             </a>
           </div>
           <p className="text-sm text-gray-500">©2018 by Jennifer Kropke</p>
