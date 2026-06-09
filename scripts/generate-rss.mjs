@@ -1,12 +1,11 @@
 import fs from 'fs';
 import path from 'path';
-import matter from 'gray-matter';
 import { fileURLToPath } from 'url';
+import { blogPosts } from '../src/app/data/blog-posts.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const blogDir = path.join(__dirname, '../public/blog');
 const publicDir = path.join(__dirname, '../public');
 
 function escapeXml(str) {
@@ -65,36 +64,13 @@ ${rssItems}
 </rss>`;
 }
 
-// Read blog posts
-if (!fs.existsSync(blogDir)) {
-  console.log('⚠️  No blog directory found. Skipping RSS generation');
-  process.exit(0);
-}
-
-const files = fs.readdirSync(blogDir).filter(file => file.endsWith('.md'));
-
-if (files.length === 0) {
+// Generate RSS from blogPosts array
+if (blogPosts.length === 0) {
   console.log('⚠️  No blog posts found. Skipping RSS generation');
   process.exit(0);
 }
 
-const posts = files
-  .map(filename => {
-    const filePath = path.join(blogDir, filename);
-    const fileContents = fs.readFileSync(filePath, 'utf8');
-    const { data, content } = matter(fileContents);
-
-    return {
-      slug: filename.replace('.md', ''),
-      title: data.title || 'Untitled',
-      date: data.date || new Date().toISOString(),
-      excerpt: data.excerpt || content.substring(0, 150) + '...',
-      tags: data.tags || [],
-    };
-  })
-  .sort((a, b) => new Date(b.date) - new Date(a.date));
-
-const rss = generateRssFeed(posts);
+const rss = generateRssFeed(blogPosts);
 fs.writeFileSync(path.join(publicDir, 'rss.xml'), rss);
 
-console.log(`✅ Generated RSS feed with ${posts.length} post(s)`);
+console.log(`✅ Generated RSS feed with ${blogPosts.length} post(s)`);
