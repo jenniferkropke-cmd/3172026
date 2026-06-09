@@ -1832,6 +1832,230 @@ Still here.”
 <p style="margin-top: 3rem;">— Jen</p>
 
 `
+},
+  {
+  slug: "before-anyone-believed-in-me",
+  title: "Before Anyone Believed In Me",
+  date: "2026-06-11",
+  excerpt: "Most people see the moment something becomes visible. They don't see the years spent building it when nobody was watching.",
+  featuredImage: "/images/uploads/before-anyone-believed-in-me.jpg",
+  tags: ["Personal Growth", "Creativity", "Music", "Life Lessons", "Self Development"],
+  content: `
+
+<p>Lately I've been thinking a lot about timing.</p>
+
+<p>Not because anything major happened this week.</p>
+
+<p>But because it feels like I'm standing in a season of my life where a lot of things are finally becoming visible.</p>
+
+<p>The music.</p>
+
+<p>The degree.</p>
+
+<p>The creative projects.</p>
+
+<p>The opportunities that seem to be showing up all at once.</p>
+
+<p>And every time someone says something encouraging, I find myself thinking the same thing:</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563;">
+Most of this started long before anyone believed in me.
+</blockquote>
+
+<h2>The Parts Nobody Sees</h2>
+
+<p>I started dancing when I was three years old.</p>
+
+<p>For most of my childhood and young adulthood, dance was where I felt most like myself.</p>
+
+<p>Competitions.</p>
+
+<p>Rehearsals.</p>
+
+<p>Classes.</p>
+
+<p>Performances.</p>
+
+<p>Hours and hours spent working toward something that often existed only inside my own head.</p>
+
+<p>People saw the performance.</p>
+
+<p>They didn't see the practice.</p>
+
+<p>And honestly, I've realized that pattern has followed me through most of my life.</p>
+
+<p>People see the finished thing.</p>
+
+<p>The visible thing.</p>
+
+<p>The successful thing.</p>
+
+<p>But they rarely see the years before it.</p>
+
+<h2>The Years In Between</h2>
+
+<p>Life didn't unfold the way I imagined it would.</p>
+
+<p>I became a mom young.</p>
+
+<p>I put school on hold.</p>
+
+<p>I worked jobs that paid the bills but left parts of me feeling disconnected from who I was.</p>
+
+<p>There were seasons where creativity became something I squeezed into whatever time was left over.</p>
+
+<p>Sometimes that meant writing after everyone went to bed.</p>
+
+<p>Sometimes it meant singing in the car.</p>
+
+<p>Sometimes it meant carrying dreams that had nowhere to go yet.</p>
+
+<p>And if I'm being honest, there were years where I wasn't sure any of it would matter.</p>
+
+<p>Not because I stopped wanting it.</p>
+
+<p>But because life gets loud.</p>
+
+<p>Responsibilities get heavy.</p>
+
+<p>And eventually you start wondering if maybe that version of yourself belonged to another chapter.</p>
+
+<p>Looking back now, some of those years were probably closer to what I described in <a href="/blog/what-survival-mode-looks-like-when-youre-high-functioning">What Survival Mode Looks Like When You're High Functioning</a> than I realized at the time.</p>
+
+<p>I was functioning.</p>
+
+<p>Working.</p>
+
+<p>Parenting.</p>
+
+<p>Checking boxes.</p>
+
+<p>But there were parts of myself quietly waiting for space to come back to life.</p>
+
+<p style="text-align:center;">
+<strong>
+The dancer.<br/><br/>
+The artist.<br/><br/>
+The songwriter.<br/><br/>
+The dreamer.
+</strong>
+</p>
+
+<h2>The Quiet Work</h2>
+
+<p>I think one of the hardest things about pursuing anything creative is how much of it happens in private.</p>
+
+<p>Nobody sees the songs you never release.</p>
+
+<p>Nobody sees the ideas that don't work.</p>
+
+<p>Nobody sees the applications, auditions, projects, or plans that quietly fall apart.</p>
+
+<p>And nobody really celebrates persistence while you're still in the middle of it.</p>
+
+<p>People celebrate outcomes.</p>
+
+<p>Not attempts.</p>
+
+<p>Not effort.</p>
+
+<p>Not the version of you that keeps showing up when there is absolutely no proof it's leading anywhere.</p>
+
+<p>Most people hear a finished song and assume that's where the story begins.</p>
+
+<p>But as I talked about in <a href="/blog/writing-still-here-songwriting-trauma-metaphor">Writing Still Here</a>, the finished version is often years removed from where the story actually started.</p>
+
+<p>Long before the release.</p>
+
+<p>Long before the recording.</p>
+
+<p>Long before anyone else even knew it existed.</p>
+
+<p>Looking back now, I think those years mattered more than anything that's happened recently.</p>
+
+<p>Because that's where belief was built.</p>
+
+<p>Not from success.</p>
+
+<p>From repetition.</p>
+
+<p>From continuing anyway.</p>
+
+<h2>Before The Proof</h2>
+
+<p>I graduated college a few weeks ago.</p>
+
+<p>Magna Cum Laude.</p>
+
+<p>At 36 years old.</p>
+
+<p>And while that moment meant a lot to me, it wasn't really about the diploma.</p>
+
+<p>It was about every version of me that kept going long before there was any guarantee I'd ever finish.</p>
+
+<p>The same thing is true with music.</p>
+
+<p>The same thing is true with every creative opportunity that has shown up recently.</p>
+
+<p>None of it happened overnight.</p>
+
+<p>And honestly, I don't think I could have appreciated this season without some of the harder ones that came before it.</p>
+
+<p>Including the seasons where I had to make difficult choices about what kind of life I wanted to build.</p>
+
+<p>The choices I wrote about in <a href="/blog/the-risk-of-choosing-yourself">The Risk Of Choosing Yourself</a>.</p>
+
+<p>The moments where staying comfortable would have been easier than trusting myself.</p>
+
+<p>The moments where there was no guarantee things would work out.</p>
+
+<p>Only a feeling that I couldn't keep shrinking.</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563;">
+Most success stories begin long before anyone notices them.
+</blockquote>
+
+<h2>Still Becoming</h2>
+
+<p>I don't think this is a story about finally making it.</p>
+
+<p>Honestly, I don't even know what "making it" means anymore.</p>
+
+<p>What I do know is this:</p>
+
+<p>The older I get, the more grateful I am for the versions of myself that kept showing up before there was evidence.</p>
+
+<p>Before there was validation.</p>
+
+<p>Before there was proof.</p>
+
+<p>Before anyone believed in me.</p>
+
+<p>Because the truth is, those versions of me carried everything that exists today.</p>
+
+<p>And maybe that's what belief really is.</p>
+
+<p>Not confidence.</p>
+
+<p>Not certainty.</p>
+
+<p>Just continuing to build something while nobody is watching.</p>
+
+<p>Trusting that one day the invisible work will become visible.</p>
+
+<p>And understanding that even if it doesn't...</p>
+
+<p>The work was still worth doing.</p>
+
+<p style="text-align:center;">
+<strong><em>
+Because some dreams begin long before anyone else can see them.
+</em></strong>
+</p>
+
+<p>— Jen</p>
+
+`
 }
 ];
 
