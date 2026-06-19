@@ -2056,6 +2056,323 @@ Because some dreams begin long before anyone else can see them.
 <p>— Jen</p>
 
 `
+},
+  {
+  slug: "the-other-side-of-creativity",
+  title: "The Other Side of Creativity",
+  date: "2026-06-19",
+  excerpt: "Most people know me as a dancer, musician, or mom. But some of my favorite creative work happens behind the scenes through marketing, design, storytelling, and helping organizations grow.",
+  featuredImage: "/images/uploads/other-side-creativity.png",
+  tags: ["Creativity", "Marketing", "Design", "Music", "Personal Growth"],
+  content: `
+
+<h1>The Other Side of Creativity</h1>
+
+<p>When people think of me, they usually think dance.</p>
+
+<p>Or music.</p>
+
+<p>Or being a mom.</p>
+
+<p>Those are probably the three things I talk about most often, so it makes sense.</p>
+
+<p>They're also three of the most important parts of who I am.</p>
+
+<p>But lately I've been realizing there's another side of my creativity that most people never really see.</p>
+
+<p>The side sitting behind a computer screen.</p>
+
+<p>The side designing graphics.</p>
+
+<p>Building websites.</p>
+
+<p>Writing content.</p>
+
+<p>Planning social media strategies.</p>
+
+<p>Helping organizations tell their stories.</p>
+
+<p>And honestly?</p>
+
+<p>I love that side just as much.</p>
+
+<br/><br/>
+
+<h2>It Took Me Longer To See It As Creativity</h2>
+
+<p>For years, I viewed these parts of my life as completely separate.</p>
+
+<p>Dance was creativity.</p>
+
+<p>Music was creativity.</p>
+
+<p>Writing was creativity.</p>
+
+<p>Marketing and design were simply skills.</p>
+
+<p>Useful skills.</p>
+
+<p>Valuable skills.</p>
+
+<p>But not creative in the same way.</p>
+
+<p>At least that's what I told myself.</p>
+
+<p>Then one day I realized I was using the exact same muscles.</p>
+
+<p>The same storytelling instincts.</p>
+
+<p>The same desire to connect with people.</p>
+
+<p>The same drive to create something meaningful.</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563;">
+The medium changed.<br/><br/>
+The mission didn't.
+</blockquote>
+
+<p>Whether I'm writing a song, building a website, creating a graphic, or planning a social media campaign, I'm ultimately doing the same thing.</p>
+
+<p>Trying to tell a story.</p>
+
+<p>Trying to create a connection.</p>
+
+<p>Trying to make someone feel something.</p>
+
+<br/><br/>
+
+<h2>It All Comes Back To Storytelling</h2>
+
+<p>The older I get, the more I realize that creativity doesn't belong to a single category.</p>
+
+<p>It's not limited to stages.</p>
+
+<p>Or recording studios.</p>
+
+<p>Or notebooks filled with lyrics.</p>
+
+<p>Creativity shows up anywhere we're trying to build something meaningful.</p>
+
+<p>That's something I've been writing about throughout this blog for months now.</p>
+
+<p>Whether I was reflecting on <a href="/blog/before-anyone-believed-in-me" style="color:#7c3aed; text-decoration:none; font-weight:600;">Before Anyone Believed In Me</a> or sharing what I learned in <a href="/blog/the-risk-of-choosing-yourself" style="color:#7c3aed; text-decoration:none; font-weight:600;">The Risk Of Choosing Yourself</a>, the common thread has always been creativity.</p>
+
+<p>Not just artistic creativity.</p>
+
+<p>The creativity required to build a life.</p>
+
+<p>The creativity required to reinvent yourself.</p>
+
+<p>The creativity required to take everything you've learned and apply it somewhere new.</p>
+
+<br/><br/>
+
+<p style="text-align:center;">
+<strong>
+Storytelling.<br/><br/>
+Connection.<br/><br/>
+Creativity.
+</strong>
+</p>
+
+<p style="text-align:center;">
+Those three things seem to follow me no matter what project I'm working on.
+</p>
+
+<br/><br/>
+
+<h2>Using Creativity In My Day Job</h2>
+
+<p>One of the places where I get to use these skills every day is at Wesley Child Care Center.</p>
+
+<p>While my role officially falls under administration, creativity somehow finds its way into almost everything I do.</p>
+
+<p>One day I might be working on enrollment paperwork.</p>
+
+<p>The next day I'm writing website content.</p>
+
+<p>Designing flyers.</p>
+
+<p>Creating brochures.</p>
+
+<p>Building social media posts.</p>
+
+<p>Writing blogs.</p>
+
+<p>Or helping communicate important information to hundreds of families.</p>
+
+<p>What I've learned is that communication matters.</p>
+
+<p>A lot.</p>
+
+<p>A website isn't just a website.</p>
+
+<p>For a parent searching for childcare, it might be their first impression.</p>
+
+<p>A blog isn't just a blog.</p>
+
+<p>It might be the reason a family decides to learn more.</p>
+
+<p>A social media post isn't just content.</p>
+
+<p>It's an opportunity to tell a story.</p>
+
+<p>And I genuinely love being part of that process.</p>
+
+<br/><br/>
+
+<h2>Helping Organizations Grow</h2>
+
+<p>Over the years, I've realized I enjoy helping organizations find their voice just as much as I enjoy finding my own.</p>
+
+<p>Every organization has a story.</p>
+
+<p>Every brand has a personality.</p>
+
+<p>The challenge is figuring out how to communicate it in a way that feels authentic.</p>
+
+<p>That's where design, strategy, storytelling, and creativity all come together.</p>
+
+<p>And honestly, I find that process fascinating.</p>
+
+<br/><br/>
+
+<h2>Working With Barry Edwards Productions</h2>
+
+<p>One of the projects I've been especially excited about recently is working with Barry Edwards Productions.</p>
+
+<p>Barry has decades of experience in broadcasting and entertainment.</p>
+
+<p>There are incredible stories behind that history.</p>
+
+<p>Relationships.</p>
+
+<p>Experiences.</p>
+
+<p>Moments that deserve to be shared.</p>
+
+<p>Part of my role is helping bring those stories into today's digital world.</p>
+
+<p>Creating content.</p>
+
+<p>Designing promotional materials.</p>
+
+<p>Building consistency across platforms.</p>
+
+<p>Helping people understand not just who Barry is, but what Barry Edwards Productions represents.</p>
+
+<p>It's storytelling.</p>
+
+<p>Just through a different medium.</p>
+
+<br/><br/>
+
+<h2>The ADP Kids Show</h2>
+
+<p>The ADP Kids Show has been especially fun because it combines both sides of my creative world.</p>
+
+<p>On one side, I'm performing.</p>
+
+<p>Dancing.</p>
+
+<p>Hosting.</p>
+
+<p>Being part of the show itself.</p>
+
+<p>But behind the scenes, I'm also helping build the brand.</p>
+
+<p>Creating graphics.</p>
+
+<p>Planning content.</p>
+
+<p>Developing social media strategies.</p>
+
+<p>Thinking about audience growth.</p>
+
+<p>Helping families discover something we're excited to create.</p>
+
+<p>People often see the performance.</p>
+
+<p>What they don't see are the hours spent planning, designing, organizing, creating, and problem-solving before anyone ever presses play.</p>
+
+<p>And honestly?</p>
+
+<p>I love that part too.</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563;">
+For years I thought creativity only counted if it happened on a stage.<br/><br/>
+Now I realize some of my most meaningful creative work happens behind a screen.
+</blockquote>
+
+<br/><br/>
+
+<h2>The Common Thread</h2>
+
+<p>Earlier this year, while releasing music and sharing the stories behind songs like <a href="/blog/writing-still-here-songwriting-trauma-metaphor" style="color:#7c3aed; text-decoration:none; font-weight:600;">Still Here</a>, I spent a lot of time thinking about creativity.</p>
+
+<p>About where it comes from.</p>
+
+<p>About why some people feel called to create in the first place.</p>
+
+<p>And I've realized something important.</p>
+
+<p>None of these things are separate chapters.</p>
+
+<p>They're all connected.</p>
+
+<p>The music.</p>
+
+<p>The dance.</p>
+
+<p>The writing.</p>
+
+<p>The design work.</p>
+
+<p>The marketing.</p>
+
+<p>The websites.</p>
+
+<p>The social media campaigns.</p>
+
+<p>They're all different expressions of the same thing.</p>
+
+<p style="text-align:center;">
+<strong>
+Whether it's a song.<br/><br/>
+A website.<br/><br/>
+A social media campaign.<br/><br/>
+A graphic.<br/><br/>
+Or a story.<br/><br/>
+
+I'm still doing the same thing I've always done:
+creating connection.
+</strong>
+</p>
+
+<p>And while dance, music, and motherhood will always be important parts of who I am, I'm grateful for this side of my creativity too.</p>
+
+<p>Because some of my favorite work happens behind the scenes.</p>
+
+<p>In the places most people never see.</p>
+
+<p>And that's a story worth telling too.</p>
+
+<hr style="margin: 3rem 0;" />
+
+<p><strong>Continue Reading:</strong></p>
+
+<ul>
+<li><a href="/blog/before-anyone-believed-in-me">Before Anyone Believed In Me</a></li>
+<li><a href="/blog/the-risk-of-choosing-yourself">The Risk Of Choosing Yourself</a></li>
+<li><a href="/blog/writing-still-here-songwriting-trauma-metaphor">Writing Still Here: When Metaphor Says What Literal Words Cannot</a></li>
+<li><a href="/about">About Me</a></li>
+<li><a href="/music">Music</a></li>
+<li><a href="/contact">Contact</a></li>
+</ul>
+
+<p>— Jen</p>
+
+`
 }
 ];
 
