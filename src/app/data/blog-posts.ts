@@ -2377,7 +2377,7 @@ creating connection.
   {
   slug: "the-story-behind-my-shame",
   title: "The Story Behind My Shame",
-  date: "2026-07-10",
+  date: "2026-07-1",
   excerpt: "I wrote My Shame in 2007 when I was 17 years old. Nearly twenty years later, I'm finally releasing it exactly as it was written.",
   featuredImage: "/images/uploads/my-shame-blog.png",
   tags: ["Music", "Songwriting", "Behind the Song", "Personal Growth"],
