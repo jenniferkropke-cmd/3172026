@@ -2373,6 +2373,184 @@ creating connection.
 <p>— Jen</p>
 
 `
+},
+  {
+  slug: "the-story-behind-my-shame",
+  title: "The Story Behind My Shame",
+  date: "2026-07-10",
+  excerpt: "I wrote My Shame in 2007 when I was 17 years old. Nearly twenty years later, I'm finally releasing it exactly as it was written.",
+  featuredImage: "/images/uploads/my-shame-blog.png",
+  tags: ["Music", "Songwriting", "Behind the Song", "Personal Growth"],
+  content: `
+
+<h1>The Story Behind <em>My Shame</em></h1>
+
+<p>Some songs are written in a day.</p>
+
+<p>Some sit on your computer for years.</p>
+
+<p><strong>Mine sat for almost twenty.</strong></p>
+
+<p>On <strong>July 24</strong>, I'll finally be releasing <em>My Shame</em>.</p>
+
+<p>The funny thing is, this isn't a new song.</p>
+
+<p>I wrote it in 2007.</p>
+
+<p>So if you hear a little bit of that early 2000s emo influence... that's why. 😂</p>
+
+<p>I could have rewritten it.</p>
+
+<p>Changed the melody.</p>
+
+<p>Updated the lyrics.</p>
+
+<p>Tried to make it sound like something I wrote at 36 instead of 17.</p>
+
+<p>But then it wouldn't really be <em>My Shame</em> anymore.</p>
+
+<p>It would be a different song.</p>
+
+<p>And this one deserves to exist exactly the way 17 year old me wrote it.</p>
+
+<br/>
+
+<h2>The Story Behind The Song</h2>
+
+<p>Back then, I was in an on again off again relationship with my first boyfriend.</p>
+
+<p>He was my first love.</p>
+
+<p>My first serious relationship.</p>
+
+<p>My first sexual partner.</p>
+
+<p>Basically... my first everything.</p>
+
+<p>Looking back now, I can see how unhealthy that relationship really was.</p>
+
+<p>We both had tempers.</p>
+
+<p>Neither of us knew what a healthy relationship looked like, so we accepted a lot of things that we never should have.</p>
+
+<p>At the time though?</p>
+
+<p><strong>I thought that was just what relationships looked like.</strong></p>
+
+<br/>
+
+<p>One day we were broken up, and I was a mess.</p>
+
+<p>I skipped dance practice.</p>
+
+<p>I was captain of my high school dance team, and the girls knew I wasn't doing well.</p>
+
+<p>So they decided to surprise me.</p>
+
+<p>They showed up at my parents' house with some of my favorite snacks to cheer me up.</p>
+
+<p>Only...</p>
+
+<p style="text-align:center;"><strong>I wasn't home.</strong></p>
+
+<p style="text-align:center;"><strong>I was down the block.</strong></p>
+
+<p style="text-align:center;"><strong>At his house.</strong></p>
+
+<p>Needless to say... they weren't exactly thrilled.</p>
+
+<p>At 17, I remember feeling embarrassed.</p>
+
+<p>Not because I was with him.</p>
+
+<p>Because I knew what they were thinking.</p>
+
+<p>They had shown up to help me move forward, and there I was... right back where I started.</p>
+
+<p>That feeling stayed with me.</p>
+
+<p>Long enough that I wrote a song about it.</p>
+
+<p><strong>That's where the title <em>My Shame</em> came from.</strong></p>
+
+<br/>
+
+<h2>Listening Through Adult Ears</h2>
+
+<p>When I listen to the song today, I don't hear shame anymore.</p>
+
+<p>I hear a 17 year old girl who thought she had to keep going back because she didn't know there was another option.</p>
+
+<p>I think a lot of us have been there.</p>
+
+<p>Maybe not in the exact same situation.</p>
+
+<p>But we've all stayed somewhere longer than we should have.</p>
+
+<p>We've all ignored people who were trying to help us.</p>
+
+<p>We've all looked back at an older version of ourselves and thought...</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563;">
+I wish I knew then what I know now.
+</blockquote>
+
+<p>As I've gotten older, I've realized how much our past shapes the choices we make before we even realize it.</p>
+
+<p>I've written about that a lot here on the blog, especially in <a href="/blog/inherited-weather-introduction" style="color:#7c3aed; text-decoration:none; font-weight:600;"><em>Inherited Weather</em></a> and <a href="/blog/breaking-patterns-personal-growth" style="color:#7c3aed; text-decoration:none; font-weight:600;"><em>Breaking Patterns</em></a>.</p>
+
+<p>At 17, I didn't have that perspective yet.</p>
+
+<p>I just knew how I felt.</p>
+
+<p>So I wrote a song.</p>
+
+<br/>
+
+<h2>Why I Never Changed It</h2>
+
+<p>One of the reasons I wanted to release this song exactly as I wrote it is because it reminds me how much I've grown.</p>
+
+<p>It's honest.</p>
+
+<p>It's imperfect.</p>
+
+<p>It's emotional.</p>
+
+<p>And it's a snapshot of exactly who I was in 2007.</p>
+
+<p>That same idea has come up a lot while writing this album.</p>
+
+<p>In <a href="/blog/writing-the-songs-changed-the-memory-too" style="color:#7c3aed; text-decoration:none; font-weight:600;"><em>Writing the Songs Changed the Memory Too</em></a>, I talked about how revisiting old songs didn't just bring back memories. It actually changed the way I understood them.</p>
+
+<p><strong><em>My Shame</em> is part of that journey.</strong></p>
+
+<p>It's not a song about who I am today.</p>
+
+<p>It's a song about who I was.</p>
+
+<p>And I think there's something really beautiful about letting that version of me finally have her voice heard.</p>
+
+<br/>
+
+<p style="text-align:center;">
+<strong>
+Sometimes we outgrow the pain.<br/><br/>
+But the story is still worth telling.
+</strong>
+</p>
+
+<br/>
+
+<p>I can't wait to finally share <em>My Shame</em> with you on <strong>July 24</strong>.</p>
+
+<p>I hope when you hear it, you don't just hear the heartbreak.</p>
+
+<p>I hope you hear the growth too.</p>
+
+<p>— Jen</p>
+
+`
 }
 ];
 
