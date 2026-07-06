@@ -107,7 +107,7 @@ export default function Home() {
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 md:gap-8">
             {/* Facebook */}
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/profile.php?id=61563168034809"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 text-gray-600 hover:text-blue-600 transition-all duration-300 hover:scale-110"
@@ -121,7 +121,7 @@ export default function Home() {
 
             {/* Instagram */}
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/mrs._dancing_queen"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 text-gray-600 hover:text-pink-600 transition-all duration-300 hover:scale-110"
@@ -135,7 +135,7 @@ export default function Home() {
 
             {/* TikTok */}
             <a
-              href="https://tiktok.com"
+              href="https://www.tiktok.com/@mrsdancingqueen"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 text-gray-600 hover:text-black transition-all duration-300 hover:scale-110"
@@ -149,7 +149,7 @@ export default function Home() {
 
             {/* LinkedIn */}
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/jenniferkropke/"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 text-gray-600 hover:text-blue-700 transition-all duration-300 hover:scale-110"
@@ -163,7 +163,7 @@ export default function Home() {
 
             {/* YouTube */}
             <a
-              href="https://youtube.com"
+              href="https://www.youtube.com/@JenniferKropke"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 text-gray-600 hover:text-red-600 transition-all duration-300 hover:scale-110"
@@ -177,7 +177,7 @@ export default function Home() {
 
             {/* Pinterest */}
             <a
-              href="https://pinterest.com"
+              href="https://www.pinterest.com/jenniferkropke1/"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 text-gray-600 hover:text-red-700 transition-all duration-300 hover:scale-110"
@@ -193,7 +193,7 @@ export default function Home() {
 
             {/* Spotify */}
             <a
-              href="https://open.spotify.com"
+              href="https://open.spotify.com/artist/3Bjg3nwgTBbIs4ApBk7gs4?si=91gqPHshR3KnUgZ9gnZgzQ"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 text-gray-600 hover:text-green-600 transition-all duration-300 hover:scale-110"
@@ -201,7 +201,7 @@ export default function Home() {
             >
               <div className="p-4 bg-gradient-to-br from-green-100 to-emerald-100 rounded-full group-hover:from-green-200 group-hover:to-emerald-200 transition-all shadow-sm">
                 <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.122-.9-.52-.12-.403.052-.821.52-.92 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-12.009-1.379-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.06 9.26 14.4 9.921 17.821 12.181c.35.21.540.659.25 1.081zm.12-3.36C15.312 8.322 8.926 8.052 5.4 9.291c-.6.179-1.2-.181-1.38-.781-.18-.6.18-1.2.78-1.38 4.26-1.429 11.07-1.119 15.721 1.921.539.33.719 1.02.389 1.559-.329.54-1.02.72-1.56.39z"/>
+                  <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.122-.9-.52-.12-.403.052-.821.52-.92 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-12.009-1.379-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.06 9.26 14.4 9.921 17.821 12.181c.35.21.54.659.25 1.081zm.12-3.36C15.312 8.322 8.926 8.052 5.4 9.291c-.6.179-1.2-.181-1.38-.781-.18-.6.18-1.2.78-1.38 4.26-1.429 11.07-1.119 15.721 1.921.539.33.719 1.02.389 1.559-.329.54-1.02.72-1.56.39z"/>
                 </svg>
               </div>
               <span className="text-sm font-medium text-center">Spotify</span>
@@ -209,7 +209,7 @@ export default function Home() {
 
             {/* Apple Music */}
             <a
-              href="https://music.apple.com"
+              href="https://music.apple.com/us/artist/jennifer-kropke/1887719017"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 text-gray-600 hover:text-pink-500 transition-all duration-300 hover:scale-110"
@@ -223,7 +223,7 @@ export default function Home() {
 
             {/* Google Business */}
             <a
-              href="https://google.com/business"
+              href="https://share.google/ncKyRj3xIk1ah66tX"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 text-gray-600 hover:text-blue-600 transition-all duration-300 hover:scale-110"
