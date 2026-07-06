@@ -3,7 +3,7 @@ import { Footer } from "../components/Footer";
 import { FeaturedWorkSlider } from "../components/FeaturedWorkSlider";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
 import { SEO } from "../components/SEO";
-import { Instagram, Linkedin, Youtube, Music2, Mail, Facebook, TikTok, MapPin, Music } from "lucide-react";
+import { Instagram, Linkedin, Youtube, Music2, Mail, Facebook, MapPin, Music } from "lucide-react";
 import { useState } from "react";
 import { getAllPosts } from "../data/blog-posts";
 
@@ -133,7 +133,7 @@ export default function Home() {
               <span className="text-sm font-medium text-center">Instagram</span>
             </a>
 
-            {/* TikTok */}
+            {/* TikTok - Using custom SVG */}
             <a
               href="https://www.tiktok.com/@mrsdancingqueen"
               target="_blank"
@@ -142,7 +142,9 @@ export default function Home() {
               title="TikTok"
             >
               <div className="p-4 bg-gradient-to-br from-gray-100 to-black/10 rounded-full group-hover:from-gray-200 group-hover:to-black/20 transition-all shadow-sm">
-                <TikTok className="w-8 h-8" />
+                <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.68v13.7a2.4 2.4 0 0 1-2.54 2.4 2.4 2.4 0 0 1-2.54-2.4 2.4 2.4 0 0 1 5.02 0v-3.66a7.04 7.04 0 0 0-4.93 1.88 7.04 7.04 0 0 0 4.93 1.88V22a10.6 10.6 0 0 0 10.6-10.6 10.6 10.6 0 0 0-10.6-10.6"/>
+                </svg>
               </div>
               <span className="text-sm font-medium text-center">TikTok</span>
             </a>
