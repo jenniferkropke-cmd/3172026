@@ -389,7 +389,7 @@ export default function Home() {
             </div>
             <div className="order-first md:order-last">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1603400938371-d030ad03505b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGVkaXRpbmclMjB3b3Jrc3BhY2Ul[...]
+                src="https://images.unsplash.com/photo-1603400938371-d030ad03505b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGVkaXRpbmclMjB3b3Jrc3BhY2Ul"
                 alt="Creative workspace with music and design tools"
                 className="w-full h-auto rounded-lg shadow-md"
               />
