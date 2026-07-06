@@ -3,6 +3,7 @@ import { Footer } from "../components/Footer";
 import { FeaturedWorkSlider } from "../components/FeaturedWorkSlider";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
 import { SEO } from "../components/SEO";
+import { Instagram, Linkedin, Youtube, Music2, Mail, Facebook, TikTok, MapPin, Music } from "lucide-react";
 import { useState } from "react";
 import { getAllPosts } from "../data/blog-posts";
 
@@ -88,6 +89,162 @@ export default function Home() {
               className="bg-white text-teal-600 py-4 px-6 rounded-lg font-semibold hover:bg-teal-50 transition-all shadow-lg hover:shadow-xl transform hover:scale-105"
             >
               ✨ Let's Collaborate
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Social Media Links Section - Prominent & Accessible */}
+      <section className="py-16 bg-white border-b-2 border-gray-100">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-2 text-gray-800">
+            Connect With Me
+          </h2>
+          <p className="text-center text-gray-600 mb-12">
+            Follow my journey across platforms
+          </p>
+          
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 md:gap-8">
+            {/* Facebook */}
+            <a
+              href="https://facebook.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-blue-600 transition-all duration-300 hover:scale-110"
+              title="Facebook"
+            >
+              <div className="p-4 bg-gradient-to-br from-blue-100 to-blue-50 rounded-full group-hover:from-blue-200 group-hover:to-blue-100 transition-all shadow-sm">
+                <Facebook className="w-8 h-8" />
+              </div>
+              <span className="text-sm font-medium text-center">Facebook</span>
+            </a>
+
+            {/* Instagram */}
+            <a
+              href="https://instagram.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-pink-600 transition-all duration-300 hover:scale-110"
+              title="Instagram"
+            >
+              <div className="p-4 bg-gradient-to-br from-pink-100 to-purple-100 rounded-full group-hover:from-pink-200 group-hover:to-purple-200 transition-all shadow-sm">
+                <Instagram className="w-8 h-8" />
+              </div>
+              <span className="text-sm font-medium text-center">Instagram</span>
+            </a>
+
+            {/* TikTok */}
+            <a
+              href="https://tiktok.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-black transition-all duration-300 hover:scale-110"
+              title="TikTok"
+            >
+              <div className="p-4 bg-gradient-to-br from-gray-100 to-black/10 rounded-full group-hover:from-gray-200 group-hover:to-black/20 transition-all shadow-sm">
+                <TikTok className="w-8 h-8" />
+              </div>
+              <span className="text-sm font-medium text-center">TikTok</span>
+            </a>
+
+            {/* LinkedIn */}
+            <a
+              href="https://linkedin.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-blue-700 transition-all duration-300 hover:scale-110"
+              title="LinkedIn"
+            >
+              <div className="p-4 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-full group-hover:from-blue-200 group-hover:to-indigo-200 transition-all shadow-sm">
+                <Linkedin className="w-8 h-8" />
+              </div>
+              <span className="text-sm font-medium text-center">LinkedIn</span>
+            </a>
+
+            {/* YouTube */}
+            <a
+              href="https://youtube.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-red-600 transition-all duration-300 hover:scale-110"
+              title="YouTube"
+            >
+              <div className="p-4 bg-gradient-to-br from-red-100 to-orange-100 rounded-full group-hover:from-red-200 group-hover:to-orange-200 transition-all shadow-sm">
+                <Youtube className="w-8 h-8" />
+              </div>
+              <span className="text-sm font-medium text-center">YouTube</span>
+            </a>
+
+            {/* Pinterest */}
+            <a
+              href="https://pinterest.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-red-700 transition-all duration-300 hover:scale-110"
+              title="Pinterest"
+            >
+              <div className="p-4 bg-gradient-to-br from-red-100 to-pink-100 rounded-full group-hover:from-red-200 group-hover:to-pink-200 transition-all shadow-sm">
+                <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M12 0C5.373 0 0 5.373 0 12c0 5.302 3.438 9.834 8.207 11.387.6-.111.82-.481.82-1.069 0-.53-.019-1.921-.03-3.776-3.338.726-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.73.083-.73 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.304 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.467-1.334-5.467-5.93 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222 0 1.604-.015 2.896-.015 3.286 0 .592.219.961.824 1.07 4.763-1.559 8.195-6.085 8.195-11.384C24 5.373 18.627 0 12 0z"/>
+                </svg>
+              </div>
+              <span className="text-sm font-medium text-center">Pinterest</span>
+            </a>
+
+            {/* Spotify */}
+            <a
+              href="https://open.spotify.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-green-600 transition-all duration-300 hover:scale-110"
+              title="Spotify"
+            >
+              <div className="p-4 bg-gradient-to-br from-green-100 to-emerald-100 rounded-full group-hover:from-green-200 group-hover:to-emerald-200 transition-all shadow-sm">
+                <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.122-.9-.52-.12-.403.052-.821.52-.92 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-12.009-1.379-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.06 9.26 14.4 9.921 17.821 12.181c.35.21.540.659.25 1.081zm.12-3.36C15.312 8.322 8.926 8.052 5.4 9.291c-.6.179-1.2-.181-1.38-.781-.18-.6.18-1.2.78-1.38 4.26-1.429 11.07-1.119 15.721 1.921.539.33.719 1.02.389 1.559-.329.54-1.02.72-1.56.39z"/>
+                </svg>
+              </div>
+              <span className="text-sm font-medium text-center">Spotify</span>
+            </a>
+
+            {/* Apple Music */}
+            <a
+              href="https://music.apple.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-pink-500 transition-all duration-300 hover:scale-110"
+              title="Apple Music"
+            >
+              <div className="p-4 bg-gradient-to-br from-pink-100 to-red-100 rounded-full group-hover:from-pink-200 group-hover:to-red-200 transition-all shadow-sm">
+                <Music className="w-8 h-8" />
+              </div>
+              <span className="text-sm font-medium text-center">Apple Music</span>
+            </a>
+
+            {/* Google Business */}
+            <a
+              href="https://google.com/business"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-blue-600 transition-all duration-300 hover:scale-110"
+              title="Google Business"
+            >
+              <div className="p-4 bg-gradient-to-br from-yellow-100 to-red-100 rounded-full group-hover:from-yellow-200 group-hover:to-red-200 transition-all shadow-sm">
+                <MapPin className="w-8 h-8" />
+              </div>
+              <span className="text-sm font-medium text-center">Google Business</span>
+            </a>
+
+            {/* Email */}
+            <a
+              href="mailto:jenniferkropke@gmail.com"
+              className="group flex flex-col items-center gap-3 text-gray-600 hover:text-purple-600 transition-all duration-300 hover:scale-110"
+              title="Email"
+            >
+              <div className="p-4 bg-gradient-to-br from-purple-100 to-pink-100 rounded-full group-hover:from-purple-200 group-hover:to-pink-200 transition-all shadow-sm">
+                <Mail className="w-8 h-8" />
+              </div>
+              <span className="text-sm font-medium text-center">Email</span>
             </a>
           </div>
         </div>
@@ -232,7 +389,7 @@ export default function Home() {
             </div>
             <div className="order-first md:order-last">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1603400938371-d030ad03505b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGVkaXRpbmclMjB3b3Jrc3BhY2Ul[...]"
+                src="https://images.unsplash.com/photo-1603400938371-d030ad03505b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGVkaXRpbmclMjB3b3Jrc3BhY2Ul[...]
                 alt="Creative workspace with music and design tools"
                 className="w-full h-auto rounded-lg shadow-md"
               />
