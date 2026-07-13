@@ -2551,7 +2551,167 @@ But the story is still worth telling.
 <p>— Jen</p>
 
 `
+},
+  {
+  slug: "choosing-my-kids-over-the-algorithm",
+  title: "Choosing My Kids Over the Algorithm: A Working Mom's Battle With Mom Guilt",
+  date: "2026-07-13",
+  excerpt: "After realizing I was spending every evening creating content instead of making memories with my children, I chose one exhausting Saturday over a summer full of regret. This is what work-life balance really looked like for me.",
+  featuredImage: "/images/uploads/choosing-my-kids-over-the-algorithm.png",
+  tags: [
+    "Motherhood",
+    "Working Mom",
+    "Mom Guilt",
+    "Work Life Balance",
+    "Parenting",
+    "Personal Growth",
+    "Creativity",
+    "Family"
+  ],
+  content: `
+<h1>Choosing My Kids Over the Algorithm</h1>
+
+<p>Lately, I've felt like I'm failing at everything.</p>
+
+<p>Not because I'm not trying. If anything, I'm trying too hard.</p>
+
+<p>By the time I get home from work, I switch into <strong>mom mode</strong>.</p>
+
+<p>Dinner. Laundry. Camp stories. Lost shoes. Hugs. Questions. Then...</p>
+
+<p>I open my laptop.</p>
+
+<p>For the next two or three hours, I'm editing videos, writing captions, scheduling posts, answering messages, researching ideas, creating graphics, and trying to stay ahead of an algorithm that never sleeps.</p>
+
+<p>On paper, I'm sitting on the couch with my kids.</p>
+
+<p>In reality... I'm somewhere else.</p>
+
+<blockquote style="border-left:4px solid #7c3aed;padding-left:1rem;margin:2rem 0;font-style:italic;color:#4b5563;">
+I wasn't choosing work over my kids.<br/><br/>
+I was choosing work during the hours my kids were choosing me.
+</blockquote>
+
+<h2>Wearing Too Many Hats</h2>
+
+<p>As working moms, we wear so many hats that sometimes we don't even realize which one we're wearing anymore.</p>
+
+<ul>
+<li>Employee</li>
+<li>Mom</li>
+<li>Content Creator</li>
+<li>Marketer</li>
+<li>Problem Solver</li>
+<li>Friend</li>
+<li>Daughter</li>
+</ul>
+
+<p>Somewhere along the way, the most important job started getting squeezed into whatever time was left over.</p>
+
+<p>The mom guilt has been loud lately.</p>
+
+<p>Summer only lasts so long.</p>
+
+<p>My daughter is six exactly once.</p>
+
+<p>My son is seventeen. The moments when he wanders upstairs to spend time with me are becoming fewer and farther between.</p>
+
+<p>I don't want to miss either of them because I was making another Reel.</p>
+
+<h2>One Very Long Saturday</h2>
+
+<p>So this weekend, I made a decision.</p>
+
+<p>I spent almost the entire day Saturday at my computer.</p>
+
+<p>From around <strong>3:00 PM until nearly 2:00 AM</strong>, I worked.</p>
+
+<p>Video after video.</p>
+<p>Caption after caption.</p>
+<p>Hashtag after hashtag.</p>
+
+<p>By the time I finally shut my laptop, I had every piece of content finished through the end of August.</p>
+
+<p>Was it exhausting?</p>
+<p>Absolutely.</p>
+
+<p>Was it worth it?</p>
+
+<p><strong>Completely.</strong></p>
+
+<p>Now, when I get home from work, I get to close my computer.</p>
+
+<p>I get to be present.</p>
+
+<p>Not pretending to watch a movie while secretly answering comments.</p>
+
+<p>Not checking analytics every fifteen minutes.</p>
+
+<p>Just...</p>
+
+<p><strong>Mom.</strong></p>
+
+<h2>The Internet Can Wait</h2>
+
+<p>The internet will always want more.</p>
+
+<p>Another post.</p>
+<p>Another video.</p>
+<p>Another trend.</p>
+
+<p>But my kids won't always be six and seventeen.</p>
+
+<p>I don't want my memories of this summer measured in views, reach, and engagement.</p>
+
+<p>I want them measured in bike rides, belly laughs, movie nights, and late-night ice cream runs.</p>
+
+<p>Balance isn't something I've mastered.</p>
+
+<p>Honestly, I'm not even sure it exists.</p>
+
+<p>Sometimes balance looks like doing a little every day.</p>
+
+<p>Sometimes it looks like working eleven straight hours on a Saturday so you can be fully present for the weeks that follow.</p>
+
+<blockquote style="border-left:4px solid #7c3aed;padding-left:1rem;margin:2rem 0;font-style:italic;color:#4b5563;">
+Maybe work-life balance isn't found.<br/><br/>
+Maybe it's created.<br/><br/>
+One intentional decision at a time.
+</blockquote>
+
+<p>This weekend, that's what balance looked like for me.</p>
+
+<p>Because careers matter.</p>
+
+<p>Dreams matter.</p>
+
+<p>Goals matter.</p>
+
+<p><strong>But these summers?<br/>These moments?<br/>These kids?</strong></p>
+
+<p><strong>They matter more.</strong></p>
+
+<hr/>
+
+<h2>Related Posts</h2>
+
+<ul>
+<li><a href="/blog/what-survival-mode-looks-like-when-youre-high-functioning">What Survival Mode Looks Like When You're High Functioning</a></li>
+<li><a href="/blog/the-other-side-of-creativity">The Other Side of Creativity</a></li>
+<li><a href="/blog/the-risk-of-choosing-yourself">The Risk of Choosing Yourself</a></li>
+</ul>
+
+<h2>Helpful Resources</h2>
+
+<ul>
+<li><a href="https://www.aap.org" target="_blank">American Academy of Pediatrics</a></li>
+<li><a href="https://www.commonsensemedia.org" target="_blank">Common Sense Media</a></li>
+</ul>
+
+<p>— Jen</p>
+`
 }
+  
 ];
 
 // Helper function to get a post by slug
