@@ -2710,6 +2710,153 @@ One intentional decision at a time.
 
 <p>— Jen</p>
 `
+},
+  {
+  slug: "why-adults-forget-how-to-play",
+  title: "Why Adults Forget How to Play",
+  date: "2026-07-22",
+  excerpt: "A quiet evening with my children reminded me that play isn't a distraction from life. Sometimes it is life.",
+  featuredImage: "/images/uploads/why-adults-forget-how-to-play.png",
+  tags: ["Motherhood","Parenting","Personal Growth","Presence","Family"],
+  content: `
+<h1>Why Adults Forget How to Play</h1>
+
+<p>There was a moment recently that stopped me in my tracks.</p>
+
+<p>Not because something terrible happened.</p>
+
+<p>I was simply making dinner.</p>
+
+<p>Like so many evenings, my body was in the kitchen while my mind was somewhere else entirely. I was already thinking about work waiting for me after dinner, social media to schedule, projects to finish, emails to answer, and all the little responsibilities that quietly pile up in adulthood.</p>
+
+<p>Then my daughter walked into the kitchen.</p>
+
+<p>"Mom, will you play with me?"</p>
+
+<p>Without thinking, I answered, <strong>"Not right now, Mads. I'm making dinner."</strong></p>
+
+<p>She paused.</p>
+
+<p>Then she quietly said, <strong>"I don't want to play alone."</strong></p>
+
+<p>I finished making dinner.</p>
+
+<p>But I couldn't stop thinking about those six words.</p>
+
+<h2>It Was Never About the Game</h2>
+
+<p>Looking back, I don't think she was asking me to play a game.</p>
+
+<p>She was asking for me.</p>
+
+<p>Somewhere between deadlines, dishes, laundry, work, music, and trying to build a future for my family, I'd forgotten something children seem to know instinctively.</p>
+
+<p><strong>How to play.</strong></p>
+
+<p>It reminded me of something I wrote in <a href="/blog/what-survival-mode-looks-like-when-youre-high-functioning"><em>What Survival Mode Looks Like When You're High Functioning</em></a>. Sometimes we become so productive that we mistake constant motion for a life well lived.</p>
+
+<blockquote style="border-left:4px solid #7c3aed;padding-left:1rem;margin:1.5rem 0;font-style:italic;color:#4b5563;">
+Children don't remember how productive you were.<br/><br/>
+They remember whether you sat on the floor.
+</blockquote>
+
+<h2>This Wasn't the First Time</h2>
+
+<p>The hardest realization was that this wasn't the first reminder I'd been given.</p>
+
+<p>Years ago, when Aiden was about nine, he tried to teach me the same lesson.</p>
+
+<p>Different house.</p>
+<p>Different season.</p>
+<p>Same mom.</p>
+
+<p>Always believing I'd play after I finished one more thing.</p>
+
+<p>There is always one more thing.</p>
+
+<p>Looking back, I realize this connects to what I've been exploring in <a href="/blog/breaking-patterns-personal-growth"><em>Breaking Patterns: The Moment You Realize You Can Choose Differently</em></a>. Not every inherited pattern is dramatic. Sometimes it's simply believing our value comes from being productive instead of being present.</p>
+
+<h2>Choosing Differently</h2>
+
+<p>That night, after dinner, I made a different choice.</p>
+
+<p>The dishes could wait.</p>
+
+<p>The emails could wait.</p>
+
+<p>The content calendar could wait.</p>
+
+<p>I sat on the living room floor with Mads.</p>
+
+<p>We pulled out the Mancala board.</p>
+
+<p>First it was Mads versus me.</p>
+
+<p>Then Aiden joined us.</p>
+
+<p>Watching my seventeen-year-old son happily sit on the floor and play Mancala with his little sister is a memory I'll carry for a long time.</p>
+
+<p>Afterward we picked a movie and watched it together.</p>
+
+<p>Later that night we colored pictures.</p>
+
+<p>Nothing extraordinary happened.</p>
+
+<p>No expensive outing.</p>
+
+<p>No elaborate plans.</p>
+
+<p>Just ordinary moments that somehow felt more important than everything on my to-do list.</p>
+
+<h2>Maybe Adults Need Play Too</h2>
+
+<p>I realized something unexpected.</p>
+
+<p>I needed that night every bit as much as my kids did.</p>
+
+<p>Play didn't distract me from my responsibilities.</p>
+
+<p>It reminded me why those responsibilities matter in the first place.</p>
+
+<p>In my first post, <a href="/blog/inherited-weather-introduction"><em>Inherited Weather: Why I'm Finally Sharing My Story</em></a>, I wrote about the emotional patterns we inherit without choosing. Maybe forgetting how to play is one of those patterns too. Maybe adulthood quietly teaches us that rest has to be earned and joy has to be scheduled.</p>
+
+<blockquote style="border-left:4px solid #7c3aed;padding-left:1rem;margin:1.5rem 0;font-style:italic;color:#4b5563;">
+The to-do list will still be there tomorrow.<br/><br/>
+Your child won't always ask you to play.
+</blockquote>
+
+<p>Research consistently shows that unstructured play supports children's emotional, social, and cognitive development, while shared play strengthens parent-child relationships. If you'd like to learn more, the <a href="https://developingchild.harvard.edu/">Harvard Center on the Developing Child</a> and the <a href="https://publications.aap.org/pediatrics/article/142/3/e20182058/37558/The-Power-of-Play-A-Pediatric-Role-in-Enhancing">American Academy of Pediatrics' article on the power of play</a> are excellent resources.</p>
+
+<h2>The Lesson I'll Carry Forward</h2>
+
+<p>I don't think my children will remember whether dinner was five minutes late.</p>
+
+<p>They probably won't remember another email I answered.</p>
+
+<p>But maybe they'll remember sitting on the living room floor playing Mancala.</p>
+
+<p>Watching a movie together.</p>
+
+<p>Coloring pictures before bed.</p>
+
+<p>Maybe they'll remember that, for one ordinary evening, Mom chose them over her to-do list.</p>
+
+<p>Sometimes the biggest lessons don't come from books.</p>
+
+<p>Sometimes they come from a six-year-old standing in the kitchen saying, <strong>"I don't want to play alone."</strong></p>
+
+<p>I don't think she realized she was changing me.</p>
+
+<p>But she did.</p>
+
+<p>Because somewhere between Mancala, a movie, and a box of crayons...</p>
+
+<p>I remembered something I didn't even realize I'd lost.</p>
+
+<p><strong>How to play.</strong></p>
+
+<p>— Jen</p>
+`
 }
   
 ];
