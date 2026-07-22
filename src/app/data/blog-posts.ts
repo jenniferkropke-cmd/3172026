@@ -2711,7 +2711,7 @@ One intentional decision at a time.
 <p>— Jen</p>
 `
 },
-  {
+{
   slug: "why-adults-forget-how-to-play",
   title: "Why Adults Forget How to Play",
   date: "2026-07-22",
@@ -2753,7 +2753,7 @@ One intentional decision at a time.
 
 <p><strong>How to play.</strong></p>
 
-<p>It reminded me of something I wrote in <a href="/blog/what-survival-mode-looks-like-when-youre-high-functioning"><em>What Survival Mode Looks Like When You're High Functioning</em></a>. Sometimes we become so productive that we mistake constant motion for a life well lived.</p>
+<p>It reminded me of something I wrote in <a href="/blog/what-survival-mode-looks-like-when-youre-high-functioning" style="color:#7c3aed;font-weight:700;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px;"><strong><em>What Survival Mode Looks Like When You're High Functioning</em></strong></a>. Sometimes we become so productive that we mistake constant motion for a life well lived.</p>
 
 <blockquote style="border-left:4px solid #7c3aed;padding-left:1rem;margin:1.5rem 0;font-style:italic;color:#4b5563;">
 Children don't remember how productive you were.<br/><br/>
@@ -2774,16 +2774,14 @@ They remember whether you sat on the floor.
 
 <p>There is always one more thing.</p>
 
-<p>Looking back, I realize this connects to what I've been exploring in <a href="/blog/breaking-patterns-personal-growth"><em>Breaking Patterns: The Moment You Realize You Can Choose Differently</em></a>. Not every inherited pattern is dramatic. Sometimes it's simply believing our value comes from being productive instead of being present.</p>
+<p>Looking back, I realize this connects to what I've been exploring in <a href="/blog/breaking-patterns-personal-growth" style="color:#7c3aed;font-weight:700;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px;"><strong><em>Breaking Patterns: The Moment You Realize You Can Choose Differently</em></strong></a>.</p>
 
 <h2>Choosing Differently</h2>
 
 <p>That night, after dinner, I made a different choice.</p>
 
 <p>The dishes could wait.</p>
-
 <p>The emails could wait.</p>
-
 <p>The content calendar could wait.</p>
 
 <p>I sat on the living room floor with Mads.</p>
@@ -2800,14 +2798,6 @@ They remember whether you sat on the floor.
 
 <p>Later that night we colored pictures.</p>
 
-<p>Nothing extraordinary happened.</p>
-
-<p>No expensive outing.</p>
-
-<p>No elaborate plans.</p>
-
-<p>Just ordinary moments that somehow felt more important than everything on my to-do list.</p>
-
 <h2>Maybe Adults Need Play Too</h2>
 
 <p>I realized something unexpected.</p>
@@ -2818,41 +2808,29 @@ They remember whether you sat on the floor.
 
 <p>It reminded me why those responsibilities matter in the first place.</p>
 
-<p>In my first post, <a href="/blog/inherited-weather-introduction"><em>Inherited Weather: Why I'm Finally Sharing My Story</em></a>, I wrote about the emotional patterns we inherit without choosing. Maybe forgetting how to play is one of those patterns too. Maybe adulthood quietly teaches us that rest has to be earned and joy has to be scheduled.</p>
+<p>In my first post, <a href="/blog/inherited-weather-introduction" style="color:#7c3aed;font-weight:700;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px;"><strong><em>Inherited Weather: Why I'm Finally Sharing My Story</em></strong></a>, I wrote about the emotional patterns we inherit without choosing.</p>
 
 <blockquote style="border-left:4px solid #7c3aed;padding-left:1rem;margin:1.5rem 0;font-style:italic;color:#4b5563;">
 The to-do list will still be there tomorrow.<br/><br/>
 Your child won't always ask you to play.
 </blockquote>
 
-<p>Research consistently shows that unstructured play supports children's emotional, social, and cognitive development, while shared play strengthens parent-child relationships. If you'd like to learn more, the <a href="https://developingchild.harvard.edu/">Harvard Center on the Developing Child</a> and the <a href="https://publications.aap.org/pediatrics/article/142/3/e20182058/37558/The-Power-of-Play-A-Pediatric-Role-in-Enhancing">American Academy of Pediatrics' article on the power of play</a> are excellent resources.</p>
+<p>Research consistently shows that unstructured play supports children's emotional, social, and cognitive development, while shared play strengthens parent-child relationships. Learn more from the <a href="https://developingchild.harvard.edu/" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:700;text-decoration:underline;"><strong>Harvard Center on the Developing Child</strong></a> and the <a href="https://publications.aap.org/pediatrics/article/142/3/e20182058/37558/The-Power-of-Play-A-Pediatric-Role-in-Enhancing" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:700;text-decoration:underline;"><strong>American Academy of Pediatrics' article on the power of play</strong></a>.</p>
 
 <h2>The Lesson I'll Carry Forward</h2>
 
 <p>I don't think my children will remember whether dinner was five minutes late.</p>
-
 <p>They probably won't remember another email I answered.</p>
-
 <p>But maybe they'll remember sitting on the living room floor playing Mancala.</p>
-
 <p>Watching a movie together.</p>
-
 <p>Coloring pictures before bed.</p>
-
 <p>Maybe they'll remember that, for one ordinary evening, Mom chose them over her to-do list.</p>
-
 <p>Sometimes the biggest lessons don't come from books.</p>
-
 <p>Sometimes they come from a six-year-old standing in the kitchen saying, <strong>"I don't want to play alone."</strong></p>
-
 <p>I don't think she realized she was changing me.</p>
-
 <p>But she did.</p>
-
 <p>Because somewhere between Mancala, a movie, and a box of crayons...</p>
-
 <p>I remembered something I didn't even realize I'd lost.</p>
-
 <p><strong>How to play.</strong></p>
 
 <p>— Jen</p>
