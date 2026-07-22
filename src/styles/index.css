@@ -3,3 +3,16 @@
 @import './theme.css';
 @import 'slick-carousel/slick/slick.css';
 @import 'slick-carousel/slick/slick-theme.css';
+.blog-content a {
+  color: #7c3aed;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: rgba(124, 58, 237, 0.35);
+  text-underline-offset: 3px;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+.blog-content a:hover {
+  color: #6d28d9;
+  text-decoration-color: #6d28d9;
+}
