@@ -2835,6 +2835,295 @@ Your child won't always ask you to play.
 
 <p>— Jen</p>
 `
+},
+  {
+  slug: "somehow-shes-six",
+  title: "Somehow, She's Six",
+  date: "2026-08-12",
+  excerpt: "We spend so much time raising our children that sometimes we don't notice they're raising us, too. Aiden changed me at 19. Madelyn changed me all over again six years ago.",
+  featuredImage: "/images/uploads/somehow-shes-six.png",
+  tags: ["Motherhood", "Parenting", "Personal Growth", "Family"],
+  content: `
+
+<h1>Somehow, She's Six</h1>
+
+<p>My daughter turned six today.</p>
+
+<p>And even typing that feels strange.</p>
+
+<p style="text-align:center; font-size:1.4rem;"><strong>Six.</strong></p>
+
+<p>Not a baby. Not a toddler. Not even really a <em>little</em> little kid anymore.</p>
+
+<p>Six years ago, Madelyn Rose came barreling into our lives with absolutely no intention of being a quiet presence in them.</p>
+
+<p>And honestly, that tracks.</p>
+
+<p>She's funny and fearless, stubborn and spunky, loving and completely unapologetically herself.</p>
+
+<p>She challenges me constantly, sometimes in ways that make me question every parenting decision I've ever made.</p>
+
+<p>But she also challenges me in the best possible way.</p>
+
+<p><strong>She makes me grow.</strong></p>
+
+<p>And maybe that's the part of parenting we don't talk about enough.</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563;">
+We spend so much time raising our children that sometimes we don't notice they're raising us, too.
+</blockquote>
+
+<br/>
+
+<h2>The First Person Who Raised Me</h2>
+
+<p>I know that because Madelyn isn't the first person who raised me.</p>
+
+<p><strong>Aiden was.</strong></p>
+
+<p>I was 19 when I became his mom.</p>
+
+<p>Nineteen.</p>
+
+<p>At 19, I was still figuring out who I was supposed to be.</p>
+
+<p>I didn't have some fully formed version of myself waiting in the wings, ready to step gracefully into motherhood.</p>
+
+<p>I was still growing up.</p>
+
+<p>And suddenly, I was responsible for helping another human being grow up, too.</p>
+
+<p>So we did it together.</p>
+
+<p>I raised Aiden, but in so many ways, Aiden raised me.</p>
+
+<p>He taught me how to put another person before myself.</p>
+
+<p>He taught me patience and persistence.</p>
+
+<p>He taught me how to advocate, how to keep going when things were hard and how much strength you can somehow find when someone you love needs you to find it.</p>
+
+<p><strong>Every new stage of his life required a new version of me.</strong></p>
+
+<br/>
+
+<h2>Then Madelyn Came Along</h2>
+
+<p>And then, twelve years later, I had Madelyn.</p>
+
+<p>By then, I thought I understood motherhood.</p>
+
+<p>I'd been doing this for more than a decade.</p>
+
+<p>I wasn't the scared 19 year old trying to figure everything out anymore.</p>
+
+<p>Then Madelyn showed up and basically said...</p>
+
+<p style="text-align:center;"><strong><em>That's adorable. Anyway...</em></strong> 😂</p>
+
+<p>And she changed me all over again.</p>
+
+<p>Because here's the thing no one really tells you about having a second child:</p>
+
+<p style="text-align:center; font-size:1.25rem;"><strong>You don't just get another baby.</strong></p>
+
+<p style="text-align:center; font-size:1.25rem;"><strong>You get another teacher.</strong></p>
+
+<br/>
+
+<h2>She Needed a Different Mom</h2>
+
+<p>Madelyn didn't need the same mom Aiden needed.</p>
+
+<p>She needed me to learn new things about patience.</p>
+
+<p>She needed me to loosen my grip on some things and stand firmer on others.</p>
+
+<p>She needed me to understand that sometimes the qualities that make parenting a child challenging are the exact qualities you hope they never lose.</p>
+
+<p>That stubbornness?</p>
+
+<p><strong>Someday, I hope it means she refuses to let someone walk all over her.</strong></p>
+
+<p>That independence that occasionally makes me want to pull my hair out?</p>
+
+<p><strong>I hope she keeps every ounce of it.</strong></p>
+
+<p>That huge personality that enters a room approximately three minutes before the rest of her?</p>
+
+<p><strong>I hope nobody ever convinces her to make herself smaller.</strong></p>
+
+<p>And that's where she has changed me.</p>
+
+<p>Because raising Madelyn isn't just about teaching her how to behave or make good choices or become a good person.</p>
+
+<p>Sometimes it's about learning when <strong>not</strong> to change her.</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563;">
+Sometimes my job isn't to mold her into the easiest version of herself to parent.<br/><br/>
+It's to help her become the strongest version of herself to send out into the world.
+</blockquote>
+
+<p>And that has required me to grow, too.</p>
+
+<br/>
+
+<h2>Two Kids. Two Versions of Me.</h2>
+
+<p>It's funny when I think about the fact that my children are twelve years apart.</p>
+
+<p>Aiden met me at 19.</p>
+
+<p>Madelyn met me at 31.</p>
+
+<p>Two completely different versions of me.</p>
+
+<p>But neither of those versions stayed around for very long.</p>
+
+<p>Because Aiden changed the 19 year old who held him for the first time.</p>
+
+<p>And Madelyn changed the 31 year old who thought she already knew what being a mom meant.</p>
+
+<p><strong>They're still changing me now.</strong></p>
+
+<p>My first baby is 18.</p>
+
+<p>My youngest is six.</p>
+
+<p>One is standing at the beginning of adulthood while the other is standing at the beginning of this whole new chapter of childhood.</p>
+
+<p>And somehow I'm supposed to know how to mother both of those things at the same time.</p>
+
+<p style="text-align:center;"><strong>Spoiler alert: I do not.</strong></p>
+
+<p>I'm still figuring it out.</p>
+
+<br/>
+
+<h2>Maybe That's What Motherhood Actually Is</h2>
+
+<p>Maybe motherhood isn't reaching some magical point where you finally know what you're doing.</p>
+
+<p>Maybe it's becoming the person your children need during whatever season you're all in.</p>
+
+<p>Sometimes you get it right.</p>
+
+<p>Sometimes you absolutely do not.</p>
+
+<p>Sometimes you apologize.</p>
+
+<p>Sometimes you change your approach.</p>
+
+<p>Sometimes you lie awake wondering if you're doing any of this correctly.</p>
+
+<p>And then occasionally, you look at the people your children are becoming and think...</p>
+
+<p style="text-align:center; font-size:1.2rem;"><strong><em>Okay. Maybe I'm not doing so bad.</em></strong></p>
+
+<br/>
+
+<h2>And Somehow, She's Six</h2>
+
+<p>Today, though, I'm thinking mostly about six.</p>
+
+<p><strong>Six years of Madelyn Rose.</strong></p>
+
+<p>Six years of an enormous personality packed into a tiny person.</p>
+
+<p>Six years of laughter, sass, dancing, questions, opinions, hugs, negotiations and stories that I know I'll still be telling when she's 30.</p>
+
+<p>And six years of watching her become more and more herself.</p>
+
+<p>That's the bittersweet part of birthdays.</p>
+
+<p><strong>We celebrate every new year while secretly mourning the version of them we're leaving behind.</strong></p>
+
+<p>I miss baby Madelyn.</p>
+
+<p>I miss toddler Madelyn.</p>
+
+<p>Someday, I'm going to desperately miss the six year old Madelyn standing in front of me right now.</p>
+
+<p>But I also can't wait to meet seven year old Madelyn.</p>
+
+<p>And ten year old Madelyn.</p>
+
+<p>And sixteen year old Madelyn.</p>
+
+<p>And thirty year old Madelyn.</p>
+
+<p>I want to know what she does with all this fire inside of her.</p>
+
+<p>I want to see where that confidence takes her.</p>
+
+<p>I want to see what happens when this funny, fearless, stubborn, loving little girl realizes just how capable she is.</p>
+
+<br/>
+
+<h2>I'm Still Becoming, Too</h2>
+
+<p>And I hope that as she grows, I remember that I'm allowed to keep growing, too.</p>
+
+<p>Because becoming a mother didn't finish the story of who I am.</p>
+
+<p><strong>It became part of it.</strong></p>
+
+<p>Aiden made me a mom at 19.</p>
+
+<p>Madelyn made me a different one at 31.</p>
+
+<p>And both of them have spent their entire lives teaching me that motherhood isn't a person you become once.</p>
+
+<p style="text-align:center;">
+<strong>
+You keep becoming her.<br/><br/>
+At 19.<br/>
+At 31.<br/>
+At 37.<br/><br/>
+At every birthday, every milestone, every hard season and every completely ordinary day in between.
+</strong>
+</p>
+
+<p>I've spent eighteen years raising my children.</p>
+
+<p><strong>It took me a long time to realize they've spent eighteen years raising me, too.</strong></p>
+
+<br/>
+
+<h2>Happy Birthday, Madelyn Rose</h2>
+
+<p>So happy sixth birthday, Madelyn Rose.</p>
+
+<p>You are one of the funniest, coolest, spunkiest people I know.</p>
+
+<p>You challenge me in ways I never expected, and somehow you always seem to teach me something in the process.</p>
+
+<p>I hope you never lose that fire.</p>
+
+<p>I hope you never make yourself smaller to make somebody else more comfortable.</p>
+
+<p>I hope you stay curious and loud and weird and hilarious and completely, unapologetically you.</p>
+
+<p>And someday, when you're old enough to read all the things your mom wrote about you on the internet and be appropriately embarrassed, I hope you know this:</p>
+
+<blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563;">
+I thought I was supposed to spend my life teaching you how to become a person.<br/><br/>
+Turns out, you've been teaching me, too.
+</blockquote>
+
+<p style="text-align:center;">
+<strong>
+Somehow, you're six.<br/><br/>
+And somehow, after eighteen years of being somebody's mom, I'm still becoming one.<br/><br/>
+I think maybe I always will be.
+</strong>
+</p>
+
+<br/>
+
+<p>— Jen</p>
+
+`
 }
   
 ];
