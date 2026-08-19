@@ -3124,6 +3124,508 @@ I think maybe I always will be.
 <p>— Jen</p>
 
 `
+},
+  {
+  slug: "before-i-wrote-songs-i-lived-in-8-counts",
+  title: "Before I Wrote Songs, I Lived in 8 Counts",
+  date: "2026-08-19",
+  excerpt: "Dance was never just an activity in my life. It shaped my childhood, carried me across the world, became my career, and eventually taught me how to write songs.",
+  featuredImage: "/images/uploads/in-8-counts-blog.png",
+  tags: ["Music", "Dance", "Songwriting", "Choreography", "Personal Growth", "Behind the Scenes"],
+  content: `
+
+<h1>Before I Wrote Songs, I Lived in 8 Counts</h1>
+
+<p style="text-align:center; font-size:1.3rem;">
+<strong>Before I ever wrote songs, I lived in 8 counts.</strong>
+</p>
+
+<p>Dance was not simply an activity I did growing up.</p>
+
+<p>It was not one hobby among many or a class I attended once a week.</p>
+
+<p><strong>Dance was my life.</strong></p>
+
+<p>It determined where I went after school, what I did on weekends, who my friends were, what I dreamed about, and how I understood myself.</p>
+
+<p>My childhood can be measured in rehearsals, recitals, competitions, costumes, performances, and counts of eight.</p>
+
+<p>Long before I knew how to explain what I was feeling, I knew how to move through it.</p>
+
+<blockquote style="border-left:4px solid #7c3aed; padding-left:1rem; margin:2rem 0; font-style:italic; color:#4b5563;">
+Dance was my first language.<br/><br/>
+Songwriting eventually became another way to speak.
+</blockquote>
+
+<br/>
+
+<h2>Where It All Began</h2>
+
+<p>My relationship with dance began when I was three years old and my mom enrolled me in park district classes.</p>
+
+<p>I fell in love with it almost immediately.</p>
+
+<p>In those early years, I studied ballet, tap, and jazz. I had my first recital when I was five. I loved the costumes, the music, the excitement backstage, and the feeling of stepping onto a stage.</p>
+
+<p>Even then, performing felt natural to me.</p>
+
+<p>The stage was a place where I could be bigger, braver, and more expressive than I always knew how to be in everyday life.</p>
+
+<p>As I grew, dance became more serious.</p>
+
+<p>It was no longer only about putting on a costume and remembering the steps. It became about technique, discipline, musicality, expression, and learning how to keep going when something did not go perfectly.</p>
+
+<p>I learned how to listen for the count and trust my body.</p>
+
+<p>I learned how to take corrections without allowing them to destroy my confidence.</p>
+
+<p>I learned that being strong did not mean never making mistakes. It meant recovering quickly enough that the audience never knew one happened.</p>
+
+<p><strong>Dance was teaching me how to live long before I realized those lessons extended beyond the studio.</strong></p>
+
+<br/>
+
+<h2>Tiny but Fierce</h2>
+
+<p>By high school, dance had completely taken over my life.</p>
+
+<p>I danced with Orchesis. I was part of the Maine West Poms team. I trained, rehearsed, performed, and pushed myself constantly.</p>
+
+<p>I wanted to be better, stronger, sharper, and more expressive.</p>
+
+<p>This was also when I earned the nickname <strong>“Mighty Mouse.”</strong></p>
+
+<p>I may have been tiny, but I danced fiercely.</p>
+
+<p>Dance gave me a kind of confidence that I did not always have anywhere else. When the music started, I did not need to apologize for taking up space.</p>
+
+<p>I could be powerful.</p>
+
+<p>I could be bold.</p>
+
+<p>I could command attention.</p>
+
+<p><strong>I could be completely myself.</strong></p>
+
+<p>Those years also taught me how much work exists behind a few minutes onstage.</p>
+
+<p>An audience sees the finished performance. They do not see the hours spent drilling the same section, fixing formations, cleaning transitions, stretching tired muscles, or repeating eight counts until an entire group finally moves as one.</p>
+
+<p>They do not see the nerves before an audition or the disappointment when something does not go your way.</p>
+
+<p>They see the performance.</p>
+
+<blockquote style="border-left:4px solid #7c3aed; padding-left:1rem; margin:2rem 0; font-style:italic; color:#4b5563;">
+Dance taught me that the magic people experience is usually built from hundreds of moments they will never see.
+</blockquote>
+
+<br/>
+
+<h2>From Maine West to Paris</h2>
+
+<p>One of the most unforgettable moments of my dance life came when I was selected for the <a href="https://www.varsity.com/uda/" target="_blank" rel="noopener noreferrer" style="color:#2563eb; font-weight:700; text-decoration:underline; text-decoration-thickness:2px; text-underline-offset:3px;"><strong>Universal Dance Association</strong></a> All Star Team.</p>
+
+<p>I was the only member of the Maine West Poms team chosen for the opportunity.</p>
+
+<p>I was selected to represent my school and Illinois in a New Year’s Day parade in Paris, France.</p>
+
+<p style="text-align:center; font-size:1.25rem;">
+<strong>Dance took me all the way to the Eiffel Tower.</strong>
+</p>
+
+<p>I performed in my UDA uniform with my pom poms, surrounded by dancers from around the world.</p>
+
+<p>Something that had started in a park district class had carried me across an ocean.</p>
+
+<p>That experience showed me that dance could make my world bigger.</p>
+
+<p>It could take me beyond what was familiar. It could introduce me to people, places, and possibilities I might never have experienced otherwise.</p>
+
+<p>All of the rehearsals, corrections, sore muscles, early mornings, and long days had led to something I once could not have imagined.</p>
+
+<p><strong>I was not simply a girl who liked to dance.</strong></p>
+
+<p style="text-align:center; font-size:1.35rem;">
+<strong>I was a dancer.</strong>
+</p>
+
+<br/>
+
+<h2>Living Backstage</h2>
+
+<p>Competitive dance and performing taught me to thrive inside a very specific kind of chaos.</p>
+
+<p>There were rehearsals, competitions, quick changes, missing costume pieces, stage entrances, last minute corrections, and the constant mental calculation of how much time remained before the next number.</p>
+
+<p>In one show, I performed in 22 out of 29 dances.</p>
+
+<p style="text-align:center; font-size:1.25rem;">
+<strong>That meant 22 costume changes.</strong>
+</p>
+
+<p>I moved from lyrical dresses to hip hop costumes, character pieces, jazz numbers, and salsa.</p>
+
+<p>I barely had time to finish one dance before I was backstage changing into the next version of myself.</p>
+
+<p>It was exhausting.</p>
+
+<p><strong>It was also exhilarating.</strong></p>
+
+<p>Every costume represented a different story. Every style asked me to access a different emotion, energy, and part of my personality.</p>
+
+<ul>
+  <li><strong>Contemporary</strong> allowed me to express emotional depth.</li>
+  <li><strong>Hip hop</strong> allowed me to be fierce, confident, and free.</li>
+  <li><strong>Ballet</strong> demanded precision and control.</li>
+  <li><strong>Jazz</strong> brought performance, energy, and joy.</li>
+</ul>
+
+<p>I did not simply perform choreography.</p>
+
+<p><strong>I lived inside it.</strong></p>
+
+<p>Dance taught me that one person can contain many different stories.</p>
+
+<p>That lesson would eventually follow me into my songwriting.</p>
+
+<br/>
+
+<h2>Dance as an Art Form</h2>
+
+<p>When I entered college and studied dance and performing arts, my understanding of dance grew again.</p>
+
+<p>Dance was no longer only something I trained to do well. It was an art form I could study, question, create, and use to communicate.</p>
+
+<p>I received a dance scholarship. I studied modern dance, performed in repertory ensembles, participated in workshops and conferences, and experienced dance in a more expansive way.</p>
+
+<p>College challenged me to think about movement differently.</p>
+
+<p style="text-align:center;">
+<strong>
+Why this movement?<br/><br/>
+Why this song?<br/><br/>
+What are we trying to communicate?<br/><br/>
+What should the audience feel?
+</strong>
+</p>
+
+<p>Dance could tell a story without using a single word.</p>
+
+<p>A reach, a turn, a fall, or even a pause could communicate something language could not.</p>
+
+<p>I began to understand that choreography was not about filling every second with movement.</p>
+
+<p>Sometimes the most meaningful choice was stillness.</p>
+
+<p>Sometimes the audience needed a moment to sit with what had just happened.</p>
+
+<p><strong>Years later, I would discover that songwriting works the same way.</strong></p>
+
+<br/>
+
+<h2>Becoming the Teacher</h2>
+
+<p>Eventually, I moved from being the student taking corrections to the teacher giving them.</p>
+
+<p>I began teaching dance in Chicago in 2012. I taught children, teenagers, and adults. I worked with beginners taking their first steps and experienced dancers preparing for auditions and performances.</p>
+
+<p>Teaching made me fall in love with dance in an entirely new way.</p>
+
+<p>As a dancer, I had spent years focusing on my own body, technique, and performance. As a teacher, I had to learn how to see dance through someone else’s eyes.</p>
+
+<p>Every student learns differently.</p>
+
+<p>A direction that makes perfect sense to one dancer might confuse another. Some students need to hear the count. Some need to see the movement. Some need to understand the story behind it.</p>
+
+<p>Others need someone to believe in them until they are ready to believe in themselves.</p>
+
+<p><strong>My job was never only to teach steps.</strong></p>
+
+<p>It was to help students build confidence. It was to create a place where they could take risks, make mistakes, and discover what they were capable of doing.</p>
+
+<p>There is nothing quite like seeing the expression on a student’s face when they finally accomplish something they once believed they could not do.</p>
+
+<p><strong>Those moments are priceless.</strong></p>
+
+<br/>
+
+<h2>Building T3</h2>
+
+<p>Teaching eventually led me to create and own <a href="https://twinkletoes2day.com/#/from-owner" target="_blank" rel="noopener noreferrer" style="color:#2563eb; font-weight:700; text-decoration:underline; text-decoration-thickness:2px; text-underline-offset:3px;"><strong>Twinkle Toes Today, or T3</strong></a>.</p>
+
+<p>T3 brought so many pieces of my dance life together.</p>
+
+<p>I became the owner, director, instructor, choreographer, mentor, and person responsible for turning a creative vision into something real.</p>
+
+<p>Owning T3 was about more than running a dance business. It was about creating the kind of environment I believed dancers deserved.</p>
+
+<p>I wanted students to feel encouraged while still being challenged.</p>
+
+<p>I wanted dance to build self esteem instead of tearing it down.</p>
+
+<p>I wanted every student, regardless of age or ability, to feel that dance could belong to them.</p>
+
+<p>Through T3, I was able to take everything dance had given me and offer it to someone else.</p>
+
+<p style="text-align:center; font-size:1.15rem;">
+<strong>
+The confidence.<br/><br/>
+The creativity.<br/><br/>
+The discipline.<br/><br/>
+The joy.<br/><br/>
+The freedom of hearing music and allowing your body to answer it.
+</strong>
+</p>
+
+<p>Dance had shaped nearly every version of me.</p>
+
+<p>The little girl in her first costume.</p>
+
+<p>The Mighty Mouse who danced bigger than her body.</p>
+
+<p>The Poms dancer representing Illinois in Paris.</p>
+
+<p>The college performer.</p>
+
+<p>The choreographer.</p>
+
+<p>The teacher.</p>
+
+<p>The business owner.</p>
+
+<blockquote style="border-left:4px solid #7c3aed; padding-left:1rem; margin:2rem 0; font-style:italic; color:#4b5563;">
+It was never just what I did.<br/><br/>
+It was who I was.<br/><br/>
+It is still part of who I am.
+</blockquote>
+
+<br/>
+
+<h2>Choreography Was My First Songwriting</h2>
+
+<p>Long before I started writing songs, I was already telling stories through choreography.</p>
+
+<p>My choreography process usually begins with an emotion, an image, or a story.</p>
+
+<p>I listen to the music and wait for something to reveal itself. Sometimes I see a specific movement immediately. Sometimes I hear one part of the song over and over before I understand what it is asking me to create.</p>
+
+<p>Then I begin building.</p>
+
+<p>One movement becomes a phrase.</p>
+
+<p>One phrase becomes a section.</p>
+
+<p>Sections begin connecting until there is a complete piece.</p>
+
+<p><strong>Songwriting feels incredibly similar.</strong></p>
+
+<p>A lyric can appear the same way a movement does. It might be one line, one image, or one feeling that refuses to leave me alone.</p>
+
+<p>I build around it until the rest of the story begins to emerge.</p>
+
+<ul>
+  <li>A verse establishes where we are.</li>
+  <li>A chorus returns us to the emotion at the center of everything.</li>
+  <li>A bridge changes the movement of the story.</li>
+</ul>
+
+<p>Choreography has formations, transitions, repetition, contrast, and moments of stillness.</p>
+
+<p>Songs have arrangements, transitions, repeated melodies, changing dynamics, and silence.</p>
+
+<p>Both processes require editing.</p>
+
+<p>Sometimes I create a movement or write a lyric that I love, but it does not serve the full piece. I have to be willing to change it, move it, or remove it.</p>
+
+<p>Both require me to ask the same question:</p>
+
+<p style="text-align:center; font-size:1.25rem;">
+<strong><em>What am I trying to make people feel?</em></strong>
+</p>
+
+<p>The medium may be different, but the goal is the same. I am taking something that exists inside of me and turning it into something another person can experience.</p>
+
+<p>I explored that transformation in <a href="/blog/writing-the-songs-changed-the-memory-too" style="color:#7c3aed; font-weight:700; text-decoration:underline; text-decoration-thickness:2px; text-underline-offset:3px;"><strong><em>Writing the Songs Changed the Memory Too</em></strong></a>.</p>
+
+<p>Dance was my first language.</p>
+
+<p><strong>Songwriting became another way to speak.</strong></p>
+
+<br/>
+
+<h2>The Story Behind “In 8 Counts”</h2>
+
+<p>“In 8 Counts” brings those two parts of my life together.</p>
+
+<p>Dance is the language of the song, but the song is about much more than dance.</p>
+
+<p style="text-align:center; font-size:1.3rem;">
+<strong>It is about survival.</strong>
+</p>
+
+<p>It is about resilience, healing, and finding your way forward when life has knocked you out of rhythm.</p>
+
+<p>Dance was often a refuge for me.</p>
+
+<p>When other parts of my life felt confusing or outside of my control, dance gave me something solid.</p>
+
+<p>I could listen for the music.</p>
+
+<p>I could find the count.</p>
+
+<p>I could take the next step.</p>
+
+<p style="text-align:center; font-size:1.4rem; line-height:1.8;">
+<strong>
+One, two, three, four.<br/>
+Five, six, seven, eight.
+</strong>
+</p>
+
+<p style="text-align:center;"><strong>Then I could begin again.</strong></p>
+
+<p>Everyone has an eight count.</p>
+
+<p>Maybe yours is starting over after a loss.</p>
+
+<p>Maybe it is finally chasing the dream you have continued to postpone.</p>
+
+<p>Maybe it is learning who you are outside of the roles other people have assigned to you.</p>
+
+<p>Maybe it is simply getting through today so you can try again tomorrow.</p>
+
+<blockquote style="border-left:4px solid #7c3aed; padding-left:1rem; margin:2rem 0; font-style:italic; color:#4b5563;">
+You do not always need to know the entire routine.<br/><br/>
+Sometimes you only need to find the next count.
+</blockquote>
+
+<br/>
+
+<h2>When the Vision Takes Longer Than Expected</h2>
+
+<p>I had a very specific vision for the “In 8 Counts” music video.</p>
+
+<p>I imagined dancers representing different stages, emotions, and experiences. I wanted them to bring their own stories to the movement.</p>
+
+<p>I wanted individual pieces to come together and show how differently people can experience pain, growth, healing, and resilience.</p>
+
+<p><strong>I could see it clearly in my mind.</strong></p>
+
+<p>Turning that vision into a finished video has been much more difficult than I expected.</p>
+
+<p>There are dancers’ schedules to coordinate, choreography to create, locations to arrange, footage to collect, group scenes to film, and an entire story to edit together.</p>
+
+<p>A music video is not simply a matter of pressing record.</p>
+
+<p><strong>It is a production.</strong></p>
+
+<p>I have been trying to build it while also working, parenting, creating, promoting my music, and managing every other part of life.</p>
+
+<p>My original timeline was not realistic.</p>
+
+<p>That has been difficult for me to accept because the dancer in me wants everything to land exactly on the count.</p>
+
+<p>I want the song, choreography, filming, editing, and release to come together at precisely the right moment.</p>
+
+<p>But life does not always follow the choreography we planned.</p>
+
+<p>This is the part of creativity people do not always see, something I wrote about in <a href="/blog/the-other-side-of-creativity" style="color:#7c3aed; font-weight:700; text-decoration:underline; text-decoration-thickness:2px; text-underline-offset:3px;"><strong><em>The Other Side of Creativity</em></strong></a>.</p>
+
+<p>Sometimes the music changes.</p>
+
+<p>Sometimes someone misses an entrance.</p>
+
+<p>Sometimes the costume zipper breaks backstage while you are supposed to be preparing for your next number.</p>
+
+<p>And sometimes the dream takes longer than you thought it would.</p>
+
+<p><strong>That does not mean you walk off the stage.</strong></p>
+
+<p>You breathe.</p>
+
+<p>You listen.</p>
+
+<p>You find the count again.</p>
+
+<br/>
+
+<h2>I Am Not Giving Up</h2>
+
+<p>“In 8 Counts” comes out Friday, August 21.</p>
+
+<p>The music video will not be completed on the timeline I originally imagined.</p>
+
+<p>I am disappointed about that, but I am not giving up on the vision.</p>
+
+<p>The song can be released now, and the visual story can follow when it is ready.</p>
+
+<p style="text-align:center; font-size:1.35rem;">
+<strong>A delayed dream is not a dead dream.</strong>
+</p>
+
+<p>Dance has taught me that progress does not always look perfect.</p>
+
+<p>Sometimes progress is finishing the routine exactly as planned.</p>
+
+<p>Sometimes it is recovering after a mistake.</p>
+
+<p>Sometimes it is standing backstage, exhausted and overwhelmed, changing into your twenty second costume because the next dance is about to begin.</p>
+
+<p>And sometimes progress is admitting that something is harder than you expected while choosing to continue anyway.</p>
+
+<p>This song exists because dance taught me how to survive difficult things.</p>
+
+<p>It taught me how to fall without allowing the fall to become the ending.</p>
+
+<p>It taught me how to work, create, adjust, and begin again.</p>
+
+<p>The little girl in the park district class could never have imagined all the places dance would take her.</p>
+
+<p>She could not have known that she would perform in Paris, dance in 22 numbers in one show, study performing arts in college, teach generations of students, own a dance business, choreograph original work, or eventually write and release a song inspired by everything dance had taught her.</p>
+
+<p>But she knew she loved to move.</p>
+
+<p>She heard the music.</p>
+
+<p>She found the count.</p>
+
+<p><strong>And she began.</strong></p>
+
+<br/>
+
+<h2>I Am Still Dancing</h2>
+
+<p>All these years later, that is still what I am doing.</p>
+
+<p>The timeline may not be perfect.</p>
+
+<p>The video may take longer.</p>
+
+<p>The dream may continue to change as I bring it to life.</p>
+
+<p>But I am still listening.</p>
+
+<p>I am still creating.</p>
+
+<p>I am still finding my way forward.</p>
+
+<blockquote style="border-left:4px solid #7c3aed; padding-left:1rem; margin:2rem 0; font-style:italic; color:#4b5563; text-align:center;">
+<strong>
+The music is still playing.<br/><br/>
+The dream is still alive.<br/><br/>
+And I am not done dancing yet.
+</strong>
+</blockquote>
+
+<p style="text-align:center; font-size:1.5rem;">
+<strong>Five, six, seven, eight.</strong>
+</p>
+
+<br/>
+
+<p>— Jen</p>
+
+`
 }
   
 ];
