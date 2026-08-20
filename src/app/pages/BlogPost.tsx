@@ -3,6 +3,7 @@ import { Footer } from "../components/Footer";
 import { useParams, Link } from "react-router";
 import { Calendar, ArrowLeft, Tag } from "lucide-react";
 import { SEO } from "../components/SEO";
+import { BlogComments } from "../components/BlogComments";
 import { getPostBySlug } from "../data/blog-posts";
 
 export default function BlogPost() {
@@ -107,6 +108,8 @@ export default function BlogPost() {
               className="prose prose-lg max-w-none"
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
+
+            <BlogComments slug={post.slug} title={post.title} />
           </div>
 
           <div className="mt-8 text-center">
