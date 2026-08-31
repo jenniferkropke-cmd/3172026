@@ -6,6 +6,47 @@ import { SEO } from "../components/SEO";
 const projects = [
   {
     number: "01",
+    title: "Seeds of Service",
+    description: "Seeds of Service: Sowing Change is an immersive pop-up museum at Southwest Creative Studio celebrating servant leadership through art, history, storytelling, workshops, and community engagement. My work on the project spans exhibition development, educational content, creative direction, programming, and promotion.",
+    image: "https://images.squarespace-cdn.com/content/v1/61ec502f80be7a2b22a1a0bf/a4216c28-b1c4-40d8-88b0-e400d5c55470/Add%2Ba%2Bheading.png",
+    link: "https://www.southwestcreativestudio.com/seeds-of-service",
+    highlights: [
+      {
+        text: "🌱 Exhibition Development & Curation — Helped shape the pop-up museum experience and organize content around the core principles of servant leadership.",
+        url: "https://www.southwestcreativestudio.com/seeds-of-service"
+      },
+      {
+        text: "✍️ Historical & Educational Writing — Researched and wrote featured leader profiles connecting artists, activists, educators, and changemakers to servant-leadership principles.",
+        url: "https://jenniferkropke.com/blog/seeds-of-service-grand-opening/"
+      },
+      {
+        text: "🎨 Graphic Design & Museum Materials — Created and contributed to promotional, educational, and exhibition visuals supporting the museum experience.",
+        url: "https://www.southwestcreativestudio.com/seeds-of-service"
+      },
+      {
+        text: "📚 Workshop Development — Developed five interactive community workshops connected to the museum's themes of listening, empathy, healing, community, hopeful vision, and stewardship.",
+        url: "https://luma.com/seedsofservice"
+      },
+      {
+        text: "📣 Marketing & Promotion — Created digital storytelling, social content, launch materials, event promotion, and outreach supporting the grand opening and ongoing programming.",
+        url: "https://luma.com/seedsofservice"
+      },
+      {
+        text: "🎥 Photo, Video & Event Content — Documented and promoted the opening and ongoing Seeds of Service programming through multimedia content.",
+        url: "https://jenniferkropke.com/blog/seeds-of-service-grand-opening/"
+      },
+      {
+        text: "🌐 Digital Content & Blogging — Extended the project beyond the physical exhibition through web content, event information, and reflective storytelling.",
+        url: "https://jenniferkropke.com/blog/seeds-of-service-grand-opening/"
+      },
+      {
+        text: "🤝 Community Engagement — Supported an experience designed to invite visitors into conversation, reflection, learning, and service.",
+        url: "https://dehfoundation.org/international-servant-leaders-museum/"
+      },
+    ],
+  },
+  {
+    number: "02",
     title: "Dehkhoda Education Foundation",
     description: "The Dehkhoda Educational Foundation promotes peace, progress, and prosperity through cultural and educational initiatives. My creative work with Dehkhoda focuses on multimedia sto[...]",
     image: "https://images.unsplash.com/photo-1764032758859-634187751c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtdXNldW0lMjBlZHVjYXRpb24lMjBjdWx0dXJhbCUyMGxlYX[...]",
@@ -46,7 +87,7 @@ const projects = [
     ],
   },
   {
-    number: "02",
+    number: "03",
     title: "Say Yes To Childcare",
     description: "Say Yes To Childcare is a community initiative dedicated to increasing access to the Child Care Assistance Program (CCAP) and supporting childcare centers that serve low-income f[...]",
     image: "https://images.unsplash.com/photo-1761208663763-c4d30657c910?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZGNhcmUlMjBraWRzJTIwcGxheWluZyUyMGNvbG9yZj[...]",
@@ -95,7 +136,7 @@ const projects = [
     ],
   },
   {
-    number: "03",
+    number: "04",
     title: "Kids Academy Early Learning Center",
     description: "Kids Academy is an early learning center dedicated to nurturing young minds in a creative and structured environment. My projects support communication, organization, and staff c[...]",
     image: "https://images.unsplash.com/photo-1564429238817-393bd4286b2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcmVzY2hvb2wlMjBjbGFzc3Jvb20lMjBsZWFybmluZyUyM[...]",
@@ -128,7 +169,7 @@ const projects = [
     ],
   },
   {
-    number: "04",
+    number: "05",
     title: "Twinkle Toes Today",
     description: "Twinkle Toes Today offers creative dance education and online learning opportunities for children. My work elevated their online presence and streamlined digital interaction.",
     image: "https://images.unsplash.com/photo-1596315458574-d99efaea3b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGJhbGxldCUyMGRhbmNlJTIwY2xhc3N8Z[...]",
@@ -157,7 +198,7 @@ const projects = [
     ],
   },
   {
-    number: "05",
+    number: "06",
     title: "Prestige Transportation Group",
     description: "Prestige Transportation Group is a professional driving and logistics company providing safe, reliable, and high-end transportation services. My work focused on creating a cohes[...]",
     image: "https://images.unsplash.com/photo-1653464138788-621777596fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBsaW1vdXNpbmUlMjBibGFjayUyMGNhciUyM[...]",
@@ -180,7 +221,7 @@ export default function Projects() {
     <div className="min-h-screen flex flex-col">
       <SEO
         title="Projects - Jennifer Kropke | Creative Direction & Digital Media"
-        description="Portfolio of creative direction, digital media, and design work including video production, web design, social campaigns, and educational storytelling for mission-driven organizations."
+        description="Portfolio of creative direction, museum and exhibition work, digital media, web design, social campaigns, video production, and educational storytelling for mission-driven organizations."
         canonical="https://jenniferkropke.com/projects"
         keywords="portfolio, projects, creative direction, digital media, video production, web design, nonprofit marketing, educational content"
       />
