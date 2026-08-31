@@ -1,91 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://jenniferkropke.com/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
   <url>
     <loc>https://jenniferkropke.com/projects</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://jenniferkropke.com/services</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://jenniferkropke.com/music</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
     <loc>https://jenniferkropke.com/contact</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
-
   <url>
     <loc>https://jenniferkropke.com/blog</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
-    <loc>https://jenniferkropke.com/blog/inherited-weather-introduction</loc>
-    <lastmod>2026-03-17</lastmod>
+    <loc>https://jenniferkropke.com/blog/seeds-of-service-grand-opening</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
-
   <url>
-    <loc>https://jenniferkropke.com/blog/breaking-patterns-personal-growth</loc>
-    <lastmod>2026-04-02</lastmod>
+    <loc>https://jenniferkropke.com/blog/before-i-wrote-songs-i-lived-in-8-counts</loc>
+    <lastmod>2026-08-19</lastmod>
   </url>
-
   <url>
-    <loc>https://jenniferkropke.com/blog/the-line-between-pushing-and-protecting</loc>
-    <lastmod>2026-04-08</lastmod>
+    <loc>https://jenniferkropke.com/blog/somehow-shes-six</loc>
+    <lastmod>2026-08-12</lastmod>
   </url>
-
   <url>
-    <loc>https://jenniferkropke.com/blog/when-your-childs-reaction-triggers-your-past</loc>
-    <lastmod>2026-04-15</lastmod>
+    <loc>https://jenniferkropke.com/blog/why-adults-forget-how-to-play</loc>
+    <lastmod>2026-07-22</lastmod>
   </url>
-
   <url>
-    <loc>https://jenniferkropke.com/blog/the-aftermath-of-letting-go</loc>
-    <lastmod>2026-04-29</lastmod>
+    <loc>https://jenniferkropke.com/blog/choosing-my-kids-over-the-algorithm</loc>
+    <lastmod>2026-07-13</lastmod>
   </url>
-
   <url>
-    <loc>https://jenniferkropke.com/blog/what-survival-mode-looks-like-when-youre-high-functioning</loc>
-    <lastmod>2026-05-07</lastmod>
+    <loc>https://jenniferkropke.com/blog/the-story-behind-my-shame</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
-
   <url>
-    <loc>https://jenniferkropke.com/blog/writing-the-songs-changed-the-memory-too</loc>
-    <lastmod>2026-05-14</lastmod>
+    <loc>https://jenniferkropke.com/blog/the-other-side-of-creativity</loc>
+    <lastmod>2026-06-19</lastmod>
   </url>
-
   <url>
-    <loc>https://jenniferkropke.com/blog/writing-still-here-songwriting-trauma-metaphor</loc>
-    <lastmod>2026-05-21</lastmod>
+    <loc>https://jenniferkropke.com/blog/before-anyone-believed-in-me</loc>
+    <lastmod>2026-06-11</lastmod>
   </url>
-
   <url>
     <loc>https://jenniferkropke.com/blog/the-risk-of-choosing-yourself</loc>
     <lastmod>2026-05-28</lastmod>
   </url>
-
+  <url>
+    <loc>https://jenniferkropke.com/blog/writing-still-here-songwriting-trauma-metaphor</loc>
+    <lastmod>2026-05-21</lastmod>
+  </url>
+  <url>
+    <loc>https://jenniferkropke.com/blog/writing-the-songs-changed-the-memory-too</loc>
+    <lastmod>2026-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://jenniferkropke.com/blog/what-survival-mode-looks-like-when-youre-high-functioning</loc>
+    <lastmod>2026-05-07</lastmod>
+  </url>
+  <url>
+    <loc>https://jenniferkropke.com/blog/the-aftermath-of-letting-go</loc>
+    <lastmod>2026-04-29</lastmod>
+  </url>
+  <url>
+    <loc>https://jenniferkropke.com/blog/when-your-childs-reaction-triggers-your-past</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://jenniferkropke.com/blog/the-line-between-pushing-and-protecting</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://jenniferkropke.com/blog/breaking-patterns-personal-growth</loc>
+    <lastmod>2026-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://jenniferkropke.com/blog/inherited-weather-introduction</loc>
+    <lastmod>2026-03-17</lastmod>
+  </url>
 </urlset>
