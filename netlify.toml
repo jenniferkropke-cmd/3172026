@@ -2,6 +2,20 @@
   command = "npm run build"
   publish = "dist"
 
+# Serve the prebuilt Seeds of Service social/SEO page before the SPA fallback.
+[[redirects]]
+  from = "/blog/seeds-of-service-grand-opening"
+  to = "/blog/seeds-of-service-grand-opening/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/blog/seeds-of-service-grand-opening/"
+  to = "/blog/seeds-of-service-grand-opening/index.html"
+  status = 200
+  force = true
+
+# React SPA fallback for every other route.
 [[redirects]]
   from = "/*"
   to = "/index.html"
