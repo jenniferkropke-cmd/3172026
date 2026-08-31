@@ -252,6 +252,97 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Seeds of Service Featured Section */}
+      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-teal-50 via-white to-green-50">
+        <div className="max-w-6xl mx-auto">
+          <div className="text-center mb-12">
+            <p className="text-sm md:text-base font-bold tracking-widest uppercase text-pink-600 mb-3">
+              Now Open • Chicago
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-teal-600 via-green-600 to-pink-600 bg-clip-text text-transparent">
+              🌱 Seeds of Service
+            </h2>
+            <p className="text-xl md:text-2xl font-semibold text-gray-700">
+              Sowing Change: Celebrating Community Leaders in Action
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-12 items-center">
+            <div className="bg-white rounded-2xl shadow-xl overflow-hidden p-6">
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/61ec502f80be7a2b22a1a0bf/a4216c28-b1c4-40d8-88b0-e400d5c55470/Add%2Ba%2Bheading.png"
+                alt="Seeds of Service: Sowing Change"
+                className="w-full h-auto object-contain rounded-xl"
+                loading="lazy"
+              />
+            </div>
+
+            <div>
+              <p className="text-lg text-gray-700 mb-6 leading-relaxed">
+                I’m proud to be part of <strong>Seeds of Service</strong>, an immersive pop-up museum
+                celebrating the leaders, advocates, educators, artists, organizers, and changemakers
+                whose service has shaped Chicago and inspired communities around the world.
+              </p>
+
+              <p className="text-gray-600 mb-6 leading-relaxed">
+                Created by <strong>Southwest Creative Studio</strong> in partnership with the
+                <strong> International Servant Leaders Museum</strong>, the exhibition brings servant
+                leadership to life through interactive exhibits, historical artifacts, local stories,
+                workshops, community conversations, and hands-on experiences.
+              </p>
+
+              <div className="bg-white rounded-xl shadow-md border-l-4 border-teal-500 p-6 mb-6 space-y-2 text-gray-700">
+                <p className="font-bold text-teal-700">August 29 – November 13, 2026</p>
+                <p><strong>Open Thursdays:</strong> 11 AM – 2 PM + by appointment</p>
+                <p><strong>Southwest Creative Studio</strong> • 2609 W. 63rd St., Chicago</p>
+                <p className="font-semibold">Free &amp; open to the public</p>
+              </div>
+
+              <p className="text-gray-600 mb-8 leading-relaxed">
+                Come explore the stories of people who chose to listen, serve, create, advocate,
+                and lead — and discover what servant leadership can look like in your own community.
+              </p>
+
+              <div className="grid sm:grid-cols-2 gap-3">
+                <a
+                  href="https://luma.com/seedsofservice"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-center bg-gradient-to-r from-teal-600 to-green-600 text-white py-3 px-5 rounded-lg font-semibold hover:opacity-90 transition-all shadow-md hover:shadow-lg"
+                >
+                  View the Event Calendar →
+                </a>
+
+                <a
+                  href="/blog/seeds-of-service-grand-opening"
+                  className="text-center bg-gradient-to-r from-pink-600 to-purple-600 text-white py-3 px-5 rounded-lg font-semibold hover:opacity-90 transition-all shadow-md hover:shadow-lg"
+                >
+                  Read My Blog →
+                </a>
+
+                <a
+                  href="https://www.southwestcreativestudio.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-center bg-white border-2 border-teal-600 text-teal-700 py-3 px-5 rounded-lg font-semibold hover:bg-teal-50 transition-all"
+                >
+                  Southwest Creative Studio
+                </a>
+
+                <a
+                  href="https://dehfoundation.org/international-servant-leaders-museum/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-center bg-white border-2 border-pink-600 text-pink-700 py-3 px-5 rounded-lg font-semibold hover:bg-pink-50 transition-all"
+                >
+                  International Servant Leaders Museum
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Featured Music Section */}
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-purple-50 to-pink-50">
         <div className="max-w-5xl mx-auto">
