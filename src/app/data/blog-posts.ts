@@ -673,7 +673,7 @@ export const blogPosts: BlogPost[] = [
       </section>
 
       <figure class="blog-media blog-wide blog-closing-image">
-        <img src="/images/uploads/community-tree-wide.jpg" alt="The interactive community tree inside Seeds of Service" loading="lazy" />
+        <img src="/images/uploads/empathy-detail.jpg" alt="A detailed view of the Empathy section inside Seeds of Service" loading="lazy" />
       </figure>
 
       <h2>Maybe That Is What a Seed Does</h2>
