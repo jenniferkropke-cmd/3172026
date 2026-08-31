@@ -15,7 +15,7 @@ export const blogPosts: BlogPost[] = [
     title: "Seeds of Service: What We Planted, What Grew, and What Stayed With Me",
     date: "2026-08-31",
     excerpt: "How an empty room, a connection between two communities, and one unforgettable opening night became Seeds of Service—and sent me home with a poem I never planned to write.",
-    featuredImage: "/images/blog/seeds-of-service/grand-opening-hero.jpg",
+    featuredImage: "/images/uploads/grand-opening-hero.jpg",
     tags: ["Seeds of Service", "Servant Leadership", "Southwest Creative Studio", "Spoken Word", "Community"],
     readTime: "15 min read",
     content: `
@@ -58,7 +58,7 @@ export const blogPosts: BlogPost[] = [
       <p class="blog-pullquote"><strong>What would these ideas look like if people could actually walk inside them?</strong></p>
 
       <figure class="blog-media blog-wide">
-        <img src="/images/blog/seeds-of-service/before-seeds-of-service.jpg" alt="The empty Southwest Creative Studio space before Seeds of Service was installed" loading="lazy" />
+        <img src="/images/uploads/before-seeds-of-service.jpg" alt="The empty Southwest Creative Studio space before Seeds of Service was installed" loading="lazy" />
         <figcaption>Before Seeds of Service took shape, this was the space we had to imagine into something entirely new.</figcaption>
       </figure>
 
@@ -70,11 +70,11 @@ export const blogPosts: BlogPost[] = [
 
       <div class="blog-grid blog-grid-2 blog-wide" aria-label="Before and after views of the Seeds of Service museum">
         <figure class="blog-media">
-          <img src="/images/blog/seeds-of-service/listening-room-wide.jpg" alt="The completed Listening section of Seeds of Service" loading="lazy" />
+          <img src="/images/uploads/listening-room-wide.jpg" alt="The completed Listening section of Seeds of Service" loading="lazy" />
           <figcaption>The completed Listening section.</figcaption>
         </figure>
         <figure class="blog-media">
-          <img src="/images/blog/seeds-of-service/stewardship-room-wide.jpg" alt="The completed Stewardship section of Seeds of Service" loading="lazy" />
+          <img src="/images/uploads/stewardship-room-wide.jpg" alt="The completed Stewardship section of Seeds of Service" loading="lazy" />
           <figcaption>The completed Stewardship section.</figcaption>
         </figure>
       </div>
@@ -113,19 +113,19 @@ export const blogPosts: BlogPost[] = [
 
       <div class="blog-grid blog-grid-4 blog-wide" aria-label="Servant leadership principles inside Seeds of Service">
         <figure class="blog-media">
-          <img src="/images/blog/seeds-of-service/listening-wall-detail.jpg" alt="Listening exhibit wall inside Seeds of Service" loading="lazy" />
+          <img src="/images/uploads/listening-wall-detail.jpg" alt="Listening exhibit wall inside Seeds of Service" loading="lazy" />
           <figcaption>Listening</figcaption>
         </figure>
         <figure class="blog-media">
-          <img src="/images/blog/seeds-of-service/empathy-room-wide.jpg" alt="Empathy exhibit inside Seeds of Service" loading="lazy" />
+          <img src="/images/uploads/empathy-room-wide.jpg" alt="Empathy exhibit inside Seeds of Service" loading="lazy" />
           <figcaption>Empathy</figcaption>
         </figure>
         <figure class="blog-media">
-          <img src="/images/blog/seeds-of-service/hopeful-vision-detail.jpg" alt="Hopeful Vision exhibit inside Seeds of Service" loading="lazy" />
+          <img src="/images/uploads/hopeful-vision-detail.jpg" alt="Hopeful Vision exhibit inside Seeds of Service" loading="lazy" />
           <figcaption>Hopeful Vision</figcaption>
         </figure>
         <figure class="blog-media">
-          <img src="/images/blog/seeds-of-service/stewardship-room-wide.jpg" alt="Stewardship exhibit inside Seeds of Service" loading="lazy" />
+          <img src="/images/uploads/stewardship-room-wide.jpg" alt="Stewardship exhibit inside Seeds of Service" loading="lazy" />
           <figcaption>Stewardship</figcaption>
         </figure>
       </div>
@@ -153,7 +153,7 @@ export const blogPosts: BlogPost[] = [
       <p>And then invites visitors to show us using Play-Doh.</p>
 
       <figure class="blog-media">
-        <img src="/images/blog/seeds-of-service/community-playdoh-prompt.jpg" alt="Interactive Play-Doh prompt asking visitors what represents their community" loading="lazy" />
+        <img src="/images/uploads/community-playdoh-prompt.jpg" alt="Interactive Play-Doh prompt asking visitors what represents their community" loading="lazy" />
       </figure>
 
       <p>Elsewhere, visitors can respond to prompts and add their own words to the space.</p>
@@ -161,7 +161,7 @@ export const blogPosts: BlogPost[] = [
       <p>On one enormous painted tree, people literally add leaves containing their thoughts.</p>
 
       <figure class="blog-media blog-wide blog-feature-media">
-        <img src="/images/blog/seeds-of-service/visitor-writing-tree-leaf.jpg" alt="A visitor writing a message on a leaf for the interactive community tree" loading="lazy" />
+        <img src="/images/uploads/visitor-writing-tree-leaf.jpg" alt="A visitor writing a message on a leaf for the interactive community tree" loading="lazy" />
         <figcaption>Visitors became part of the exhibit by adding their own words to the community tree.</figcaption>
       </figure>
 
@@ -174,7 +174,7 @@ export const blogPosts: BlogPost[] = [
       <p>The people who enter it help build it.</p>
 
       <figure class="blog-media blog-wide">
-        <img src="/images/blog/seeds-of-service/community-tree-wide.jpg" alt="The large interactive painted tree inside Seeds of Service covered with visitor leaves" loading="lazy" />
+        <img src="/images/uploads/community-tree-wide.jpg" alt="The large interactive painted tree inside Seeds of Service covered with visitor leaves" loading="lazy" />
       </figure>
 
       <p>And I think that is exactly what a museum about servant leadership should do.</p>
@@ -207,10 +207,10 @@ export const blogPosts: BlogPost[] = [
 
       <div class="blog-grid blog-grid-2 blog-wide" aria-label="Visitors exploring Seeds of Service during the grand opening">
         <figure class="blog-media">
-          <img src="/images/blog/seeds-of-service/visitor-exploring-listening.jpg" alt="A visitor exploring and photographing the Listening exhibit during the Seeds of Service grand opening" loading="lazy" />
+          <img src="/images/uploads/visitor-exploring-listening.jpg" alt="A visitor exploring and photographing the Listening exhibit during the Seeds of Service grand opening" loading="lazy" />
         </figure>
         <figure class="blog-media">
-          <img src="/images/blog/seeds-of-service/visitor-exploring-stewardship.jpg" alt="A visitor photographing the Stewardship exhibit during the Seeds of Service grand opening" loading="lazy" />
+          <img src="/images/uploads/visitor-exploring-stewardship.jpg" alt="A visitor photographing the Stewardship exhibit during the Seeds of Service grand opening" loading="lazy" />
         </figure>
       </div>
 
@@ -245,8 +245,8 @@ export const blogPosts: BlogPost[] = [
           </div>
         </div>
         <div class="blog-video-wrap">
-          <video controls playsinline preload="metadata" poster="/images/blog/seeds-of-service/vai-shakoor-performance-poster.jpg">
-            <source src="/images/blog/seeds-of-service/vai-shakoor-performance.mp4" type="video/mp4" />
+          <video controls playsinline preload="metadata" poster="/images/uploads/vai-shakoor-performance-poster.jpg">
+            <source src="/images/uploads/vai-shakoor-performance.mp4" type="video/mp4" />
             Your browser does not support embedded video.
           </video>
           <p class="video-caption">Vai Shakoor performing at the Seeds of Service grand opening.</p>
@@ -673,7 +673,7 @@ export const blogPosts: BlogPost[] = [
       </section>
 
       <figure class="blog-media blog-wide blog-closing-image">
-        <img src="/images/blog/seeds-of-service/community-tree-wide.jpg" alt="The interactive community tree inside Seeds of Service" loading="lazy" />
+        <img src="/images/uploads/community-tree-wide.jpg" alt="The interactive community tree inside Seeds of Service" loading="lazy" />
       </figure>
 
       <h2>Maybe That Is What a Seed Does</h2>
