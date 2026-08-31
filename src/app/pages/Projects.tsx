@@ -47,6 +47,55 @@ const projects = [
   },
   {
     number: "02",
+    title: "Barry Edwards Productions LLC",
+    description: "Barry Edwards Productions LLC is a Chicago-based entertainment and media company creating original digital programming, live entertainment, nostalgia-driven content, and family-focused projects. My role spans creative direction, digital media strategy, audience development, show promotion, content development, and multimedia production across the BEP brand and its featured talent.",
+    image: "/images/uploads/barry-edwards-productions.jpg",
+    link: "https://www.youtube.com/@BarryEdwardsPro",
+    highlights: [
+      {
+        text: "📣 Social Media Strategy & Audience Engagement — Direct content strategy, copywriting, scheduling, platform growth, and audience engagement across Facebook, Instagram, TikTok, YouTube, LinkedIn, and Google Business.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+      {
+        text: "🎬 Original Series Development & Production — Support the development, production, and promotion of recurring BEP programming including Choo Choo Larry’s Model Train Show, Inside Chicago with Barry, Asking the Supreme Dream Team, and other original digital series.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+      {
+        text: "🚂 Choo Choo Larry Content & Brand Support — Develop video concepts, promotional campaigns, captions, social content, and audience-facing storytelling supporting Choo Choo Larry’s model train, transit, and Chicago nostalgia programming.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+      {
+        text: "🎤 Live Entertainment Promotion — Create and coordinate digital campaigns for BEP live productions, including Barb Bailey’s The Night That Never Was: Stories & Songs, through event promotion, countdown campaigns, ticket messaging, publicity, and cross-platform content.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+      {
+        text: "✨ Talent & Brand Promotion — Develop promotional content and social strategy that highlights BEP performers and personalities while strengthening their individual identities within the larger company brand.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+      {
+        text: "📺 ADP Kids Show Development — Contribute to the creative development of original children’s programming, including concept development, segment ideas, content direction, and audience experience.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+      {
+        text: "🎥 Video & Multimedia Production — Produce and repurpose reels, shorts, promotional videos, show clips, interviews, graphics, and platform-specific media designed to expand the reach and lifespan of BEP content.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+      {
+        text: "🎨 Graphic Design & Campaign Materials — Create show graphics, promotional assets, campaign visuals, social designs, and digital materials supporting BEP programming and live events.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+      {
+        text: "📰 Press, Publicity & Event Outreach — Support productions through press outreach, event listings, media coordination, promotional partnerships, and digital publicity.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+      {
+        text: "🗓️ Content Planning & Campaign Coordination — Build coordinated publishing calendars that balance original programming, live shows, talent promotion, evergreen content, and major campaign moments.",
+        url: "https://www.youtube.com/@BarryEdwardsPro"
+      },
+    ],
+  },
+  {
+    number: "03",
     title: "Dehkhoda Education Foundation",
     description: "The Dehkhoda Educational Foundation promotes peace, progress, and prosperity through cultural and educational initiatives. My creative work with Dehkhoda focuses on multimedia sto[...]",
     image: "https://images.unsplash.com/photo-1764032758859-634187751c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtdXNldW0lMjBlZHVjYXRpb24lMjBjdWx0dXJhbCUyMGxlYX[...]",
@@ -87,7 +136,7 @@ const projects = [
     ],
   },
   {
-    number: "03",
+    number: "04",
     title: "Say Yes To Childcare",
     description: "Say Yes To Childcare is a community initiative dedicated to increasing access to the Child Care Assistance Program (CCAP) and supporting childcare centers that serve low-income f[...]",
     image: "https://images.unsplash.com/photo-1761208663763-c4d30657c910?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZGNhcmUlMjBraWRzJTIwcGxheWluZyUyMGNvbG9yZj[...]",
@@ -136,7 +185,7 @@ const projects = [
     ],
   },
   {
-    number: "04",
+    number: "05",
     title: "Kids Academy Early Learning Center",
     description: "Kids Academy is an early learning center dedicated to nurturing young minds in a creative and structured environment. My projects support communication, organization, and staff c[...]",
     image: "https://images.unsplash.com/photo-1564429238817-393bd4286b2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcmVzY2hvb2wlMjBjbGFzc3Jvb20lMjBsZWFybmluZyUyM[...]",
@@ -169,7 +218,7 @@ const projects = [
     ],
   },
   {
-    number: "05",
+    number: "06",
     title: "Twinkle Toes Today",
     description: "Twinkle Toes Today offers creative dance education and online learning opportunities for children. My work elevated their online presence and streamlined digital interaction.",
     image: "https://images.unsplash.com/photo-1596315458574-d99efaea3b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGJhbGxldCUyMGRhbmNlJTIwY2xhc3N8Z[...]",
@@ -198,7 +247,7 @@ const projects = [
     ],
   },
   {
-    number: "06",
+    number: "07",
     title: "Prestige Transportation Group",
     description: "Prestige Transportation Group is a professional driving and logistics company providing safe, reliable, and high-end transportation services. My work focused on creating a cohes[...]",
     image: "https://images.unsplash.com/photo-1653464138788-621777596fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBsaW1vdXNpbmUlMjBibGFjayUyMGNhciUyM[...]",
@@ -223,7 +272,7 @@ export default function Projects() {
         title="Projects - Jennifer Kropke | Creative Direction & Digital Media"
         description="Portfolio of creative direction, museum and exhibition work, digital media, web design, social campaigns, video production, and educational storytelling for mission-driven organizations."
         canonical="https://jenniferkropke.com/projects"
-        keywords="portfolio, projects, creative direction, digital media, video production, web design, nonprofit marketing, educational content"
+        keywords="portfolio, projects, creative direction, digital media, entertainment marketing, social media strategy, video production, web design, nonprofit marketing, educational content"
       />
       <Header />
 
@@ -250,6 +299,8 @@ export default function Projects() {
                       className={`w-full h-full min-h-[300px] ${
                         project.title === "Seeds of Service"
                           ? "object-contain bg-white p-8"
+                          : project.title === "Barry Edwards Productions LLC"
+                          ? "object-contain bg-black p-2"
                           : "object-cover"
                       }`}
                     />
