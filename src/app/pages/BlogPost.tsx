@@ -46,18 +46,20 @@ export default function BlogPost() {
     );
   }
 
+  const isMediaFeature = post.slug === "seeds-of-service-grand-opening";
+
   return (
     <div className="min-h-screen flex flex-col">
       <SEO
         title={`${post.title} - Jennifer Kropke`}
-        description={post.excerpt || post.description || "Read this blog post on Jennifer Kropke's blog"}
+        description={post.excerpt || "Read this blog post on Jennifer Kropke's blog"}
         canonical={`https://jenniferkropke.com/blog/${slug}`}
         keywords={post.tags ? post.tags.join(", ") : "blog, creative"}
       />
       <Header />
 
       <main className="flex-1 bg-gray-50 py-16 px-4 sm:px-6 lg:px-8">
-        <article className="max-w-3xl mx-auto">
+        <article className={`${isMediaFeature ? "max-w-5xl" : "max-w-3xl"} mx-auto`}>
           <Link 
             to="/blog" 
             className="inline-flex items-center gap-2 text-gray-600 hover:text-primary mb-8 transition-colors"
@@ -105,7 +107,7 @@ export default function BlogPost() {
             </header>
 
             <div 
-              className="prose prose-lg max-w-none"
+              className="blog-content prose prose-lg max-w-none"
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
 

@@ -72,7 +72,7 @@ export default function Blog() {
                         </div>
                         <div className="flex items-center gap-1">
                           <Clock className="w-4 h-4" />
-                          <span>5 min read</span>
+                          <span>{post.readTime || "5 min read"}</span>
                         </div>
                       </div>
 
