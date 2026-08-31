@@ -5,10 +5,750 @@ export interface BlogPost {
   excerpt: string;
   featuredImage?: string;
   tags?: string[];
+  readTime?: string;
   content: string; // HTML content - you can use <h1>, <h2>, <p>, etc.
 }
 
 export const blogPosts: BlogPost[] = [
+  {
+    slug: "seeds-of-service-grand-opening",
+    title: "Seeds of Service: What We Planted, What Grew, and What Stayed With Me",
+    date: "2026-08-31",
+    excerpt: "How an empty room, a connection between two communities, and one unforgettable opening night became Seeds of Service—and sent me home with a poem I never planned to write.",
+    featuredImage: "/images/blog/seeds-of-service/grand-opening-hero.jpg",
+    tags: ["Seeds of Service", "Servant Leadership", "Southwest Creative Studio", "Spoken Word", "Community"],
+    readTime: "15 min read",
+    content: `
+      <p>On Saturday, August 29, we opened the doors to <strong>Seeds of Service</strong>.</p>
+
+      <p>I had already seen the walls.</p>
+
+      <p>I had already read the stories, moved things around, talked through ideas, watched pieces come together, and stood inside the space more times than I could count.</p>
+
+      <p>But there is a difference between building something and watching people experience it.</p>
+
+      <p>Saturday night, people walked in.</p>
+
+      <p>They stopped. They read. They took pictures. They wrote. They created. They talked to one another.</p>
+
+      <p>And suddenly, something that had existed for months in conversations, ideas, emails, artwork, research, and a lot of <em>what if we tried this?</em> became real.</p>
+
+      <h2>How Seeds of Service Began</h2>
+
+      <p>My part in the story of Seeds of Service really began with two worlds that, at first, had nothing to do with one another.</p>
+
+      <p>I had been working with Hamid and Azara through the <strong>Dehkhoda Educational Foundation</strong>, where I became deeply involved in work surrounding servant leadership and the idea that leadership does not have to begin with power, status, or authority.</p>
+
+      <p>It can begin with service.</p>
+
+      <p>At the same time, there was another connection already sitting in my life.</p>
+
+      <p>Cena and I knew each other from college. Years later, Cena was doing work with <strong>Southwest Creative Studio</strong>, a space rooted in creativity, art, young people, community, and Chicago's Southwest Side.</p>
+
+      <p>And eventually I had one of those thoughts that seems simple after the fact:</p>
+
+      <p class="blog-pullquote"><em>These people need to know each other.</em></p>
+
+      <p>I connected the two worlds.</p>
+
+      <p>And from that connection, Seeds of Service began to grow.</p>
+
+      <p>It became an opportunity to take the ideas behind servant leadership and ask a different question:</p>
+
+      <p class="blog-pullquote"><strong>What would these ideas look like if people could actually walk inside them?</strong></p>
+
+      <figure class="blog-media blog-wide">
+        <img src="/images/blog/seeds-of-service/before-seeds-of-service.jpg" alt="The empty Southwest Creative Studio space before Seeds of Service was installed" loading="lazy" />
+        <figcaption>Before Seeds of Service took shape, this was the space we had to imagine into something entirely new.</figcaption>
+      </figure>
+
+      <p>Not in a traditional museum.</p>
+
+      <p>Not in a quiet room filled only with labels and objects behind glass.</p>
+
+      <p>But in a creative space where art, history, community, participation, and conversation could all live together.</p>
+
+      <div class="blog-grid blog-grid-2 blog-wide" aria-label="Before and after views of the Seeds of Service museum">
+        <figure class="blog-media">
+          <img src="/images/blog/seeds-of-service/listening-room-wide.jpg" alt="The completed Listening section of Seeds of Service" loading="lazy" />
+          <figcaption>The completed Listening section.</figcaption>
+        </figure>
+        <figure class="blog-media">
+          <img src="/images/blog/seeds-of-service/stewardship-room-wide.jpg" alt="The completed Stewardship section of Seeds of Service" loading="lazy" />
+          <figcaption>The completed Stewardship section.</figcaption>
+        </figure>
+      </div>
+
+      <h2>What Does Servant Leadership Actually Mean?</h2>
+
+      <p>Servant leadership turns our usual idea of leadership around.</p>
+
+      <p>Instead of asking, <em>How do I get people to follow me?</em></p>
+
+      <p>It asks:</p>
+
+      <p class="blog-pullquote"><strong>How can I serve?</strong></p>
+
+      <p>Seeds of Service is built around six principles:</p>
+
+      <p class="principles-line"><strong>Listening. Empathy. Healing. Community and Circle Orientation. Hopeful Vision. Stewardship.</strong></p>
+
+      <p><strong>Listening</strong> asks us to hear people fully, especially when their experiences are different from our own.</p>
+
+      <p><strong>Empathy</strong> asks us to care enough to step outside of ourselves.</p>
+
+      <p><strong>Healing</strong> asks us to acknowledge wounds instead of pretending they do not exist.</p>
+
+      <p><strong>Community and Circle Orientation</strong> asks us to build spaces where people belong, where participation matters, and where leadership is not always sitting at the head of the table.</p>
+
+      <p><strong>Hopeful Vision</strong> asks us to imagine something better and then begin doing the work required to create it.</p>
+
+      <p><strong>Stewardship</strong> reminds us that what we have been given is not ours alone. We have a responsibility to take care of it for the people who come after us.</p>
+
+      <p>The words themselves matter.</p>
+
+      <p>But we did not want visitors to simply read definitions.</p>
+
+      <p>We wanted people to <strong>feel what those ideas could mean.</strong></p>
+
+      <div class="blog-grid blog-grid-4 blog-wide" aria-label="Servant leadership principles inside Seeds of Service">
+        <figure class="blog-media">
+          <img src="/images/blog/seeds-of-service/listening-wall-detail.jpg" alt="Listening exhibit wall inside Seeds of Service" loading="lazy" />
+          <figcaption>Listening</figcaption>
+        </figure>
+        <figure class="blog-media">
+          <img src="/images/blog/seeds-of-service/empathy-room-wide.jpg" alt="Empathy exhibit inside Seeds of Service" loading="lazy" />
+          <figcaption>Empathy</figcaption>
+        </figure>
+        <figure class="blog-media">
+          <img src="/images/blog/seeds-of-service/hopeful-vision-detail.jpg" alt="Hopeful Vision exhibit inside Seeds of Service" loading="lazy" />
+          <figcaption>Hopeful Vision</figcaption>
+        </figure>
+        <figure class="blog-media">
+          <img src="/images/blog/seeds-of-service/stewardship-room-wide.jpg" alt="Stewardship exhibit inside Seeds of Service" loading="lazy" />
+          <figcaption>Stewardship</figcaption>
+        </figure>
+      </div>
+
+      <h2>Making It Feel Like Southwest</h2>
+
+      <p>This may be one of my favorite parts of the entire project.</p>
+
+      <p>Seeds of Service could have easily become a traditional exhibition.</p>
+
+      <p>A photograph. A biography. A label. Walk to the next one. Repeat.</p>
+
+      <p>But that would not have felt right inside Southwest Creative Studio.</p>
+
+      <p>So the museum became something else.</p>
+
+      <p>Something more handmade. More colorful. More playful. More human. More alive.</p>
+
+      <p>The walls themselves became art. The stories of servant leaders were surrounded by murals, historical objects, records, photographs, questions, activities, and opportunities for visitors to leave something of themselves behind.</p>
+
+      <p>One area asks:</p>
+
+      <p class="blog-pullquote"><strong>“What represents your community?”</strong></p>
+
+      <p>And then invites visitors to show us using Play-Doh.</p>
+
+      <figure class="blog-media">
+        <img src="/images/blog/seeds-of-service/community-playdoh-prompt.jpg" alt="Interactive Play-Doh prompt asking visitors what represents their community" loading="lazy" />
+      </figure>
+
+      <p>Elsewhere, visitors can respond to prompts and add their own words to the space.</p>
+
+      <p>On one enormous painted tree, people literally add leaves containing their thoughts.</p>
+
+      <figure class="blog-media blog-wide blog-feature-media">
+        <img src="/images/blog/seeds-of-service/visitor-writing-tree-leaf.jpg" alt="A visitor writing a message on a leaf for the interactive community tree" loading="lazy" />
+        <figcaption>Visitors became part of the exhibit by adding their own words to the community tree.</figcaption>
+      </figure>
+
+      <p>That tree became one of my favorite things to watch during the opening.</p>
+
+      <p>Because it changes.</p>
+
+      <p>The museum is not completely finished when someone walks through the door.</p>
+
+      <p>The people who enter it help build it.</p>
+
+      <figure class="blog-media blog-wide">
+        <img src="/images/blog/seeds-of-service/community-tree-wide.jpg" alt="The large interactive painted tree inside Seeds of Service covered with visitor leaves" loading="lazy" />
+      </figure>
+
+      <p>And I think that is exactly what a museum about servant leadership should do.</p>
+
+      <p>It should not only tell you about people who served their communities.</p>
+
+      <p>It should quietly ask:</p>
+
+      <p class="blog-pullquote"><strong>What are you going to do with yours?</strong></p>
+
+      <h2>Then the Doors Opened</h2>
+
+      <p>Saturday night, the museum stopped belonging only to the people who helped create it.</p>
+
+      <p>Visitors began moving through the space, stopping at different stories, reading, photographing exhibits, responding to prompts, and talking.</p>
+
+      <p>And watching people interact with something you helped build is a strange feeling.</p>
+
+      <p>Because you lose control of it a little.</p>
+
+      <p>In the best possible way.</p>
+
+      <p>You know what <em>you</em> intended.</p>
+
+      <p>But now someone else is standing in front of it bringing their own history, experiences, memories, questions, and emotions.</p>
+
+      <p>They may notice something you never noticed. A story may mean something entirely different to them. A question might follow them home.</p>
+
+      <p>That is when the work starts doing something you cannot plan.</p>
+
+      <div class="blog-grid blog-grid-2 blog-wide" aria-label="Visitors exploring Seeds of Service during the grand opening">
+        <figure class="blog-media">
+          <img src="/images/blog/seeds-of-service/visitor-exploring-listening.jpg" alt="A visitor exploring and photographing the Listening exhibit during the Seeds of Service grand opening" loading="lazy" />
+        </figure>
+        <figure class="blog-media">
+          <img src="/images/blog/seeds-of-service/visitor-exploring-stewardship.jpg" alt="A visitor photographing the Stewardship exhibit during the Seeds of Service grand opening" loading="lazy" />
+        </figure>
+      </div>
+
+      <h2>And Then There Was Spoken Word</h2>
+
+      <p>Art was not confined to the museum walls that night.</p>
+
+      <p>We were also incredibly fortunate to experience live spoken word as part of the grand opening.</p>
+
+      <p><strong>Ivan Ramos and the Shake Awake Ensemble</strong> performed Ramos's spoken word piece, <strong>“The People.”</strong></p>
+
+      <p>There was something fitting about hearing a piece called <em>The People</em> inside a space built around service, community, listening, empathy, and our responsibility to one another.</p>
+
+      <p>And later, <strong>Vai Shakoor</strong> performed.</p>
+
+      <p>I wish everyone reading this could have been standing in that room.</p>
+
+      <p>There are some performances you enjoy in the moment, applaud, and move on from.</p>
+
+      <p>And then there are performances that stay somewhere in your body.</p>
+
+      <p>This was one of those for me.</p>
+
+      <section class="artist-spotlight blog-wide" aria-labelledby="vai-shakoor-heading">
+        <div class="artist-spotlight-copy">
+          <p class="artist-kicker">Artist Spotlight</p>
+          <h3 id="vai-shakoor-heading">Vai Shakoor</h3>
+          <p>Vai is a spoken word artist whose performance brought an entirely different energy into the space. If you are not already familiar with her work, please go find her. She was incredible.</p>
+          <div class="artist-links">
+            <a href="https://www.instagram.com/vaishakoor/" target="_blank" rel="noopener noreferrer">Instagram · @vaishakoor</a>
+            <a href="https://www.tiktok.com/@vaishakoor" target="_blank" rel="noopener noreferrer">TikTok · @vaishakoor</a>
+          </div>
+        </div>
+        <div class="blog-video-wrap">
+          <video controls playsinline preload="metadata" poster="/images/blog/seeds-of-service/vai-shakoor-performance-poster.jpg">
+            <source src="/images/blog/seeds-of-service/vai-shakoor-performance.mp4" type="video/mp4" />
+            Your browser does not support embedded video.
+          </video>
+          <p class="video-caption">Vai Shakoor performing at the Seeds of Service grand opening.</p>
+        </div>
+      </section>
+
+      <p>By the time I left Saturday night, there was a lot moving around inside of me.</p>
+
+      <p>The museum.</p>
+
+      <p>The stories.</p>
+
+      <p>The people walking through it.</p>
+
+      <p>Ivan and the Shake Awake Ensemble.</p>
+
+      <p>Vai.</p>
+
+      <p>The conversations.</p>
+
+      <p>The words <strong>listening, empathy, healing, community, hope, stewardship</strong> that I had spent so much time thinking about while helping create this place.</p>
+
+      <p>And then I went home.</p>
+
+      <div class="poem-transition">
+        <h2>The Next Morning, Poetry Started Falling Out of Me</h2>
+
+        <p>I did not wake up Sunday morning intending to write a poem.</p>
+
+        <p>There was no plan.</p>
+
+        <p>No assignment.</p>
+
+        <p>No thought that I needed to produce something because the museum had opened.</p>
+
+        <p>The words just started coming.</p>
+
+        <p>And they kept coming.</p>
+
+        <p>Maybe that is what happens when you spend months helping build something around questions of humanity and leadership and then finally stand inside it while people bring those questions to life.</p>
+
+        <p>Because servant leadership sounds beautiful when it is written on a museum wall.</p>
+
+        <p>But the principles are not abstract.</p>
+
+        <p>Listening matters because people are not being heard.</p>
+
+        <p>Empathy matters because people are hurting.</p>
+
+        <p>Healing matters because wounds do not disappear simply because we stop talking about them.</p>
+
+        <p>Community matters because none of us survive entirely alone.</p>
+
+        <p>Hope matters because there are moments when imagining something better is an act of resistance.</p>
+
+        <p>And stewardship matters because eventually everything we are holding will be handed to someone else.</p>
+
+        <p>By Sunday morning, all of that had become a question I could not stop thinking about:</p>
+
+        <p class="blog-pullquote"><strong>Who deserves to be saved?</strong></p>
+      </div>
+
+      <section class="blog-poem-section blog-wide" aria-labelledby="poem-title">
+        <div class="blog-poem">
+          <h2 id="poem-title">WHO DESERVES TO BE SAVED?</h2>
+      <p>There is a body on the table.</p>
+      <p>It is still breathing.</p>
+      <p>Barely.</p>
+      <p>And somehow,<br/>instead of stopping the bleeding,<br/>we are arguing<br/>about who gets to hold the microphone.</p>
+      <p>Somebody is checking the polls.</p>
+      <p>Somebody is blaming the blood.</p>
+      <p>Somebody is asking<br/>whether the wound<br/>was really that deep.</p>
+      <p>Somebody is selling bandages<br/>with their own name printed on them.</p>
+      <p>And the body—</p>
+      <p>the body is us.</p>
+      <p>A country<br/>with its ribs cracked open,<br/>its pulse stuttering,<br/>its mouth trying to say</p>
+      <p>please</p>
+      <p>while everyone in the room<br/>keeps talking over it.</p>
+      <p>This is what happens<br/>when leadership forgets<br/>that its first job<br/>was never to be admired.</p>
+      <p>It was to serve.</p>
+      <p>Never to stand<br/>at the center of the emergency<br/>and make itself<br/>the story.</p>
+      <p>But to kneel beside the wounded.</p>
+      <p>To listen.</p>
+      <p>To ask where it hurts.</p>
+      <p>To put pressure on the bleeding<br/>without first demanding<br/>to know<br/>whether the person<br/>deserved the wound.</p>
+      <p>But we have built<br/>a culture of leadership<br/>that keeps reaching<br/>for the crown</p>
+      <p>while the country<br/>reaches<br/>for a tourniquet.</p>
+      <p>We have confused<br/>attention with authority.</p>
+      <p>Volume with courage.</p>
+      <p>Cruelty with strength.</p>
+      <p>Domination<br/>with leadership.</p>
+      <p>We keep handing power<br/>to people<br/>who know how to command a room</p>
+      <p>but have never learned<br/>how to enter one<br/>and ask,</p>
+      <p>Who here<br/>has not been heard?</p>
+      <p>Because listening<br/>should have been<br/>the first medicine.</p>
+      <p>Instead,<br/>we learned to listen<br/>for weakness.</p>
+      <p>For ammunition.</p>
+      <p>For the sentence<br/>we can pull<br/>from somebody's mouth<br/>and sharpen<br/>into a weapon.</p>
+      <p>Before they finish speaking,<br/>we are already building<br/>our rebuttal<br/>behind our teeth.</p>
+      <p>We are a nation<br/>with our fingers<br/>in our ears</p>
+      <p>screaming</p>
+      <p>WHY DOESN'T ANYBODY<br/>UNDERSTAND ME?</p>
+      <p>Listening is not waiting<br/>for your turn to speak.</p>
+      <p>It is setting down<br/>your certainty.</p>
+      <p>It is entering<br/>someone else's story<br/>without immediately<br/>trying to rewrite it.</p>
+      <p>It is hearing someone say,</p>
+      <p>I am hurting,</p>
+      <p>and resisting the urge<br/>to explain<br/>why they shouldn't be.</p>
+      <p>Because a country<br/>that cannot listen<br/>becomes a hospital<br/>where everyone<br/>has gone deaf.</p>
+      <p>The monitors are screaming.</p>
+      <p>The patient is bleeding.</p>
+      <p>And everyone<br/>is debating<br/>the definition<br/>of blood.</p>
+      <p>Empathy should have been<br/>our defibrillator.</p>
+      <p>Instead,<br/>we turned compassion<br/>into weakness.</p>
+      <p>As though a heart<br/>is only strong<br/>when it becomes stone.</p>
+      <p>We watch people drown<br/>and critique<br/>the way they are swimming.</p>
+      <p>We stand on shore<br/>with dry shoes</p>
+      <p>and call the drowning<br/>irresponsible.</p>
+      <p>We see somebody<br/>breaking beneath a weight<br/>we have never carried</p>
+      <p>and ask<br/>why they are not<br/>standing straighter.</p>
+      <p>But empathy gets wet.</p>
+      <p>Empathy climbs<br/>into the water.</p>
+      <p>It says,</p>
+      <p>I may never know<br/>the exact shape<br/>of your storm,</p>
+      <p>but I will not stand<br/>under a clear sky<br/>and judge<br/>the way you learned<br/>to survive it.</p>
+      <p>It does not demand<br/>a perfect victim.</p>
+      <p>It does not ask pain<br/>to become polite<br/>before we believe it.</p>
+      <p>It says:</p>
+      <p>You do not have<br/>to bleed more</p>
+      <p>to prove to me<br/>that you are hurt.</p>
+      <p>And maybe<br/>we would become<br/>a different country</p>
+      <p>if before we asked,</p>
+      <p>What is wrong with you?</p>
+      <p>we asked,</p>
+      <p>What happened to you?</p>
+      <p>Who failed you?</p>
+      <p>Who left?</p>
+      <p>What broke?</p>
+      <p>Who taught you<br/>that survival<br/>required armor?</p>
+      <p>Because God,</p>
+      <p>we are wounded.</p>
+      <p>We are a country<br/>walking around<br/>with knives<br/>still inside us,</p>
+      <p>insisting<br/>we are healed<br/>because the blood<br/>has dried.</p>
+      <p>We talk about healing<br/>like it means<br/>moving on.</p>
+      <p>It doesn't.</p>
+      <p>Healing smells<br/>like antiseptic<br/>and confession.</p>
+      <p>Healing means<br/>taking the bandage off.</p>
+      <p>Looking.</p>
+      <p>Not turning away.</p>
+      <p>Saying:</p>
+      <p>This happened.</p>
+      <p>We did this.</p>
+      <p>We allowed this.</p>
+      <p>We inherited this.</p>
+      <p>We ignored this.</p>
+      <p>We buried this.</p>
+      <p>And burying a wound<br/>is not healing.</p>
+      <p>It is infection.</p>
+      <p>We are very good<br/>at putting beautiful words<br/>over bullet holes.</p>
+      <p>Very good<br/>at painting over cracks<br/>in the foundation.</p>
+      <p>Very good<br/>at calling something</p>
+      <p>history</p>
+      <p>as though history<br/>means finished.</p>
+      <p>But an old wound<br/>is still a wound.</p>
+      <p>Pain can be inherited.</p>
+      <p>Silence can be inherited.</p>
+      <p>Fear can be inherited.</p>
+      <p>And so can courage.</p>
+      <p>But first<br/>we have to stop<br/>covering the wound.</p>
+      <p>You cannot stitch<br/>someone's mouth shut<br/>and call it peace.</p>
+      <p>You cannot silence pain<br/>and call the silence<br/>unity.</p>
+      <p>Sometimes healing<br/>sounds like screaming.</p>
+      <p>Sometimes healing<br/>is the sound<br/>of somebody<br/>everyone told to be quiet</p>
+      <p>finally deciding—</p>
+      <p>No.</p>
+      <p>You will hear me.</p>
+      <p>And that is why<br/>we need circles.</p>
+      <p>Not stages.</p>
+      <p>Not towers.</p>
+      <p>Not thrones.</p>
+      <p>Circles.</p>
+      <p>Because circles<br/>terrify people<br/>who need hierarchy<br/>to feel important.</p>
+      <p>There is no head seat<br/>in a circle.</p>
+      <p>No lowest chair.</p>
+      <p>No one condemned<br/>to stare<br/>at everybody else's back.</p>
+      <p>A circle says:</p>
+      <p>Look at each other.</p>
+      <p>Really look.</p>
+      <p>Your story<br/>must survive<br/>being in the same room<br/>as mine.</p>
+      <p>Your humanity<br/>does not disappear<br/>because I am angry.</p>
+      <p>Bring the parts<br/>of yourself<br/>that do not fit<br/>inside a slogan.</p>
+      <p>There is room.</p>
+      <p>And if there isn't—</p>
+      <p>we move the chairs.</p>
+      <p>Because community<br/>is not simply<br/>living beside each other.</p>
+      <p>Bricks<br/>live beside each other.</p>
+      <p>Community<br/>is mortar.</p>
+      <p>It is what holds<br/>the weight.</p>
+      <p>It is knowing<br/>the house next door<br/>is on fire</p>
+      <p>and not asking<br/>who they voted for<br/>before you grab<br/>the hose.</p>
+      <p>There is no such thing<br/>as</p>
+      <p>their children.</p>
+      <p>There are only children.</p>
+      <p>No<br/>their hunger.</p>
+      <p>Only hunger.</p>
+      <p>No<br/>their grief.</p>
+      <p>Only grief.</p>
+      <p>And if freedom<br/>has to be rationed,</p>
+      <p>it was never freedom<br/>to begin with.</p>
+      <p>We have built<br/>so many fences<br/>we have forgotten<br/>we are standing<br/>in the same field.</p>
+      <p>We draw borders<br/>through the roots</p>
+      <p>and act surprised<br/>when the entire garden<br/>begins to die.</p>
+      <p>We call our neighbor<br/>the weed.</p>
+      <p>We convince ourselves<br/>the fence<br/>is more important<br/>than the field.</p>
+      <p>That there is not<br/>enough sunlight<br/>for everyone.</p>
+      <p>But gardens<br/>do not survive<br/>because one flower<br/>becomes king.</p>
+      <p>They survive<br/>because everything underground<br/>understands</p>
+      <p>what we keep forgetting:</p>
+      <p>we are connected.</p>
+      <p>Servant leadership<br/>does not stand<br/>over the garden<br/>with scissors.</p>
+      <p>It gets down<br/>into the soil.</p>
+      <p>Asks:</p>
+      <p>What is missing?</p>
+      <p>What has been poisoned?</p>
+      <p>Who has not<br/>been watered?</p>
+      <p>Who have we called<br/>a weed</p>
+      <p>simply because<br/>we never bothered<br/>to learn<br/>their name?</p>
+      <p>And then<br/>there is hope.</p>
+      <p>Not optimism.</p>
+      <p>I do not want<br/>optimism.</p>
+      <p>Optimism is a poster<br/>hanging crooked<br/>in a burning building.</p>
+      <p>Hope<br/>pulls the fire alarm.</p>
+      <p>Hope<br/>kicks open the door.</p>
+      <p>Hope<br/>gets smoke<br/>in its lungs.</p>
+      <p>Hope has scars.</p>
+      <p>Hope has buried people.</p>
+      <p>Hope has watched promises<br/>rot.</p>
+      <p>Hope has been disappointed<br/>so many times<br/>it should have learned<br/>to stay dead.</p>
+      <p>And somehow—</p>
+      <p>somehow—</p>
+      <p>it gets up.</p>
+      <p>Hope is not saying</p>
+      <p>everything will be fine.</p>
+      <p>Hope is looking directly<br/>at everything<br/>that is not fine</p>
+      <p>and saying:</p>
+      <p>Then we have work<br/>to do.</p>
+      <p>Hope is a blueprint<br/>drawn<br/>with shaking hands.</p>
+      <p>It looks at an empty lot<br/>and sees children<br/>running through sprinklers.</p>
+      <p>Looks at a frightened child<br/>and sees an adult<br/>who may one day<br/>break the cycle.</p>
+      <p>Looks at a table<br/>built for twelve</p>
+      <p>and asks<br/>why there are only<br/>six chairs.</p>
+      <p>Hope does not predict<br/>a better world.</p>
+      <p>Hope becomes<br/>the construction crew.</p>
+      <p>But what we build<br/>does not belong only<br/>to us.</p>
+      <p>That is stewardship.</p>
+      <p>And maybe stewardship<br/>is the most uncomfortable truth<br/>of all.</p>
+      <p>Because none of this<br/>belongs to us.</p>
+      <p>Not really.</p>
+      <p>Not the rivers.</p>
+      <p>Not the soil.</p>
+      <p>Not the institutions.</p>
+      <p>Not the freedoms<br/>people bled<br/>into the ground<br/>for us to inherit.</p>
+      <p>Not even<br/>the future.</p>
+      <p>We are temporary.</p>
+      <p>We are standing<br/>inside a house<br/>built by dead people,</p>
+      <p>holding keys<br/>that belong<br/>to children<br/>who have not<br/>been born yet.</p>
+      <p>And look<br/>at what we are doing<br/>to their inheritance.</p>
+      <p>Burning the furniture<br/>to heat one room.</p>
+      <p>Eating the seed corn.</p>
+      <p>Selling the roof<br/>for applause.</p>
+      <p>Spending tomorrow<br/>like it is money<br/>we earned.</p>
+      <p>When the next generation<br/>walks into this house,</p>
+      <p>what will be left?</p>
+      <p>A table?</p>
+      <p>Or splinters?</p>
+      <p>A garden?</p>
+      <p>Or photographs<br/>of trees?</p>
+      <p>A democracy?</p>
+      <p>Or an exhibit<br/>explaining<br/>what one used to look like?</p>
+      <p>Will they inherit<br/>a country?</p>
+      <p>Or a crime scene?</p>
+      <p>And maybe<br/>that is the lie<br/>we have to kill first—</p>
+      <p>that service<br/>is weakness.</p>
+      <p>That the person<br/>who bends down<br/>must be beneath<br/>the person<br/>who stands over them.</p>
+      <p>That mercy<br/>means surrender.</p>
+      <p>That compassion<br/>makes us fragile.</p>
+      <p>That power<br/>has to leave bruises<br/>before we believe<br/>it is real.</p>
+      <p>No.</p>
+      <p>Maybe strength<br/>was never supposed<br/>to look like a fist.</p>
+      <p>Maybe it was supposed<br/>to look like<br/>an open hand.</p>
+      <p>Maybe courage<br/>is not<br/>how hard<br/>we can become.</p>
+      <p>Maybe courage<br/>is how much<br/>of our humanity<br/>we can keep</p>
+      <p>in a world<br/>that keeps offering us<br/>reasons<br/>to surrender it.</p>
+      <p>Because that<br/>is what scares me.</p>
+      <p>Not that cruelty exists.</p>
+      <p>Cruelty<br/>has always existed.</p>
+      <p>What scares me<br/>is how quickly<br/>we get used to it.</p>
+      <p>How easily<br/>the unbearable<br/>becomes Tuesday.</p>
+      <p>How something<br/>that once would have<br/>stopped our hearts</p>
+      <p>becomes something<br/>we scroll past<br/>while waiting<br/>for the coffee<br/>to brew.</p>
+      <p>A human being<br/>becomes a headline.</p>
+      <p>Then a number.</p>
+      <p>Then a statistic.</p>
+      <p>Then an argument.</p>
+      <p>Then nothing.</p>
+      <p>But somewhere<br/>there is still<br/>a mother<br/>who knows<br/>that number's<br/>middle name.</p>
+      <p>Somewhere<br/>there is a bedroom<br/>nobody has touched.</p>
+      <p>A coat<br/>still hanging<br/>by the door.</p>
+      <p>A phone number<br/>someone cannot bring<br/>themselves to delete.</p>
+      <p>A birthday<br/>that still arrives<br/>every year</p>
+      <p>even though<br/>the person<br/>doesn't.</p>
+      <p>And we call it</p>
+      <p>news.</p>
+      <p>Policy.</p>
+      <p>Collateral.</p>
+      <p>The cost<br/>of doing business.</p>
+      <p>Anything</p>
+      <p>except</p>
+      <p>somebody's life.</p>
+      <p>That is how<br/>a country<br/>loses its soul.</p>
+      <p>Not all at once.</p>
+      <p>Piece by piece.</p>
+      <p>Person by person.</p>
+      <p>Every time<br/>we decide<br/>someone else's suffering<br/>is far enough away</p>
+      <p>that we do not<br/>have to feel it.</p>
+      <p>And our children<br/>are watching.</p>
+      <p>They are watching<br/>what makes us angry.</p>
+      <p>What makes us laugh.</p>
+      <p>Whose pain<br/>we believe.</p>
+      <p>Whose pain<br/>we explain away.</p>
+      <p>Who we call<br/>our neighbor</p>
+      <p>and who we call</p>
+      <p>them.</p>
+      <p>Someday<br/>they will inherit<br/>all of this.</p>
+      <p>Not the speeches.</p>
+      <p>Not the slogans.</p>
+      <p>The consequences.</p>
+      <p>The wounds<br/>we refused<br/>to close.</p>
+      <p>The hatred<br/>we taught<br/>to speak fluently.</p>
+      <p>The silences<br/>we handed down<br/>like family heirlooms.</p>
+      <p>And one day</p>
+      <p>one of them<br/>may ask us:</p>
+      <p>Did you know?</p>
+      <p>Did you know<br/>people were hurting?</p>
+      <p>Did you know<br/>people were afraid?</p>
+      <p>Did you know<br/>the house<br/>was burning?</p>
+      <p>And what<br/>are we going<br/>to say?</p>
+      <p>That we were busy?</p>
+      <p>That it was complicated?</p>
+      <p>That somebody else<br/>was supposed<br/>to fix it?</p>
+      <p>That we thought<br/>the fire<br/>would stop<br/>at our door?</p>
+      <p>I do not want<br/>to hand them<br/>a box of ashes</p>
+      <p>and call it<br/>an inheritance.</p>
+      <p>I want<br/>to be able<br/>to say:</p>
+      <p>We heard them.</p>
+      <p>Not enough<br/>at first.</p>
+      <p>But eventually,</p>
+      <p>we heard them.</p>
+      <p>We opened the door.</p>
+      <p>We moved the chair.</p>
+      <p>We put our hands<br/>on the wound.</p>
+      <p>We stayed<br/>when leaving<br/>would have been easier.</p>
+      <p>We planted something<br/>knowing<br/>we might never<br/>see it bloom.</p>
+      <p>We did not save<br/>everything.</p>
+      <p>But when the world<br/>asked us<br/>to become cruel,</p>
+      <p>we did not.</p>
+      <p>When it asked us<br/>to look away,</p>
+      <p>we looked closer.</p>
+      <p>When it asked us<br/>to decide<br/>which human beings<br/>were worth loving,</p>
+      <p>we refused<br/>the question.</p>
+      <p>And when someone<br/>reached out<br/>from the dark,</p>
+      <p>we reached back.</p>
+      <p>Maybe<br/>that is where<br/>the revolution begins.</p>
+      <p>Not with another crown.</p>
+      <p>Not another throne.</p>
+      <p>Not another<br/>great man<br/>promising<br/>to rescue us<br/>from one another.</p>
+      <p>Maybe revolutions<br/>do not always<br/>sound like shouting.</p>
+      <p>Maybe sometimes</p>
+      <p>they sound<br/>like a door<br/>unlocking.</p>
+      <p>A chair<br/>scraping<br/>across the floor.</p>
+      <p>A shovel<br/>entering soil.</p>
+      <p>A voice saying,</p>
+      <p>I believe you.</p>
+      <p>Another saying,</p>
+      <p>Sit here.</p>
+      <p>Another saying,</p>
+      <p>I brought enough<br/>for both of us.</p>
+      <p>Maybe that<br/>is how<br/>we find our way back.</p>
+      <p>Not in one<br/>magnificent act<br/>of salvation,</p>
+      <p>but in a million<br/>small refusals</p>
+      <p>to abandon<br/>one another.</p>
+      <p>Because leadership<br/>is not<br/>how loudly<br/>you can make the world<br/>say your name.</p>
+      <p>Leadership<br/>is what happens<br/>to everyone else<br/>after you have spoken.</p>
+      <p>Is the wound smaller?</p>
+      <p>Is the circle wider?</p>
+      <p>Can more people breathe?</p>
+      <p>Is the garden alive?</p>
+      <p>Did somebody<br/>who had given up<br/>begin to imagine<br/>tomorrow again?</p>
+      <p>Will the children<br/>inherit something<br/>worth keeping?</p>
+      <p>And if we cannot<br/>remember that now—</p>
+      <p>if we cannot remember<br/>that leadership<br/>was supposed to mean</p>
+      <p>service</p>
+      <p>before it meant</p>
+      <p>power—</p>
+      <p>then one day<br/>our children<br/>will walk<br/>into the ruins<br/>of everything<br/>we swore<br/>we loved.</p>
+      <p>They will step<br/>over the broken chairs.</p>
+      <p>Touch the ashes<br/>of the garden.</p>
+      <p>Look at the empty<br/>water glass.</p>
+      <p>And ask us</p>
+      <p>why.</p>
+      <p>Why,</p>
+      <p>when the body<br/>was still breathing,</p>
+      <p>when there was still<br/>a pulse,</p>
+      <p>when there was still time<br/>to put pressure<br/>on the wound,</p>
+      <p>when there was still water<br/>to carry,</p>
+      <p>when there were still<br/>chairs<br/>we could have pulled<br/>into the circle—</p>
+      <p>why,</p>
+      <p>when the house<br/>was burning,</p>
+      <p>did we spend<br/>so much time</p>
+      <p>deciding</p>
+      <p>who deserved</p>
+      <p>to be saved?</p>
+        </div>
+      </section>
+
+      <figure class="blog-media blog-wide blog-closing-image">
+        <img src="/images/blog/seeds-of-service/community-tree-wide.jpg" alt="The interactive community tree inside Seeds of Service" loading="lazy" />
+      </figure>
+
+      <h2>Maybe That Is What a Seed Does</h2>
+
+      <p>I keep thinking about the name.</p>
+
+      <p><strong>Seeds of Service.</strong></p>
+
+      <p>Seeds are small.</p>
+
+      <p>You can hold one between two fingers.</p>
+
+      <p>You can bury it in the ground and walk away with absolutely no visible proof that anything is happening.</p>
+
+      <p>For a while, there is only dirt.</p>
+
+      <p>You water it anyway.</p>
+
+      <p>You protect it anyway.</p>
+
+      <p>You trust that something may be happening underneath the surface even when you cannot see it yet.</p>
+
+      <p>This project began that way.</p>
+
+      <p>A connection.</p>
+
+      <p>A conversation.</p>
+
+      <p>An idea.</p>
+
+      <p><em>You should meet.</em></p>
+
+      <p><em>What if we tried this?</em></p>
+
+      <p>And eventually, there was a museum.</p>
+
+      <p>Saturday night there were people standing inside it.</p>
+
+      <p>People reading. People creating. People listening. People adding leaves to a tree. People hearing poetry.</p>
+
+      <p>And by Sunday morning, something else had grown too.</p>
+
+      <p>A poem I did not know I was going to write.</p>
+
+      <p>That may be the part of Seeds of Service that means the most to me.</p>
+
+      <p>We can create exhibits about servant leadership. We can preserve stories. We can teach principles. We can put extraordinary people on walls.</p>
+
+      <p>But the real goal was never simply to create something people would look at.</p>
+
+      <p>It was to <strong>plant something.</strong></p>
+
+      <p>A thought.</p>
+
+      <p>A question.</p>
+
+      <p>A conversation.</p>
+
+      <p>A little discomfort.</p>
+
+      <p>A little hope.</p>
+
+      <p>Maybe even the beginning of somebody deciding that leadership does not have to mean being the most powerful person in the room.</p>
+
+      <p>Maybe it can mean being the person willing to listen.</p>
+
+      <p>The person willing to serve.</p>
+
+      <p>The person willing to pull another chair into the circle.</p>
+
+      <p class="blog-ending"><strong>And now that the doors are open, I cannot wait to see what grows next.</strong></p>
+
+      <p>— Jen</p>
+    `
+  },
   {
   slug: "inherited-weather-introduction",
   title: "Inherited Weather: Why I’m Finally Sharing My Story",
