@@ -17,7 +17,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: "How an empty room, a connection between two communities, and one unforgettable opening night became Seeds of Service—and sent me home with a poem I never planned to write.",
     featuredImage: "/images/uploads/grand-opening-hero.jpg",
     tags: ["Seeds of Service", "Servant Leadership", "Southwest Creative Studio", "Spoken Word", "Community"],
-    readTime: "15 min read",
+    readTime: "18 min read",
     content: `
       <p>On Saturday, August 29, we opened the doors to <strong>Seeds of Service</strong>.</p>
 
@@ -747,6 +747,93 @@ export const blogPosts: BlogPost[] = [
       <p class="blog-ending"><strong>And now that the doors are open, I cannot wait to see what grows next.</strong></p>
 
       <p>— Jen</p>
+
+      <section class="visit-seeds-section blog-wide" aria-labelledby="visit-seeds-heading">
+        <p class="visit-seeds-kicker">Come Be Part of What Grows Next</p>
+        <h2 id="visit-seeds-heading">Come Experience Seeds of Service</h2>
+
+        <p>Seeds of Service was created to be experienced, not simply read about. Come explore the pop-up at Southwest Creative Studio, spend time with the exhibits, add your own voice to the interactive pieces, and join us for the events and workshops continuing throughout the season.</p>
+
+        <div class="visit-seeds-links">
+          <a class="visit-seeds-button visit-seeds-button-primary" href="https://luma.com/seedsofservice" target="_blank" rel="noopener noreferrer">View the Seeds of Service Calendar</a>
+          <a class="visit-seeds-button" href="https://www.southwestcreativestudio.com/" target="_blank" rel="noopener noreferrer">Explore Southwest Creative Studio</a>
+          <a class="visit-seeds-button" href="https://dehfoundation.org/" target="_blank" rel="noopener noreferrer">Learn About the International Servant Leaders Museum</a>
+        </div>
+
+        <p class="visit-seeds-note">The calendar has current event times, registration details, and updates.</p>
+
+        <div class="workshops-intro">
+          <h3>Join Me for a Seeds of Service Workshop</h3>
+          <p>I’ll be teaching five interactive workshops inspired by the servant leadership principles inside the museum. Each one is designed for a different community and offers its own way to connect, create, reflect, and practice leadership through service.</p>
+        </div>
+
+        <div class="workshop-list">
+          <article class="workshop-card">
+            <div class="workshop-date">
+              <span class="workshop-month">SEP</span>
+              <span class="workshop-day">19</span>
+            </div>
+            <div class="workshop-copy">
+              <p class="workshop-audience">Bilingual · Moms &amp; Children · Listening</p>
+              <h4>Listening With Ears, Eyes &amp; Heart</h4>
+              <p>A playful, meaningful family workshop exploring the difference between simply hearing and truly listening. Families will practice ways to strengthen communication, connection, and the feeling of being genuinely heard.</p>
+            </div>
+          </article>
+
+          <article class="workshop-card">
+            <div class="workshop-date">
+              <span class="workshop-month">SEP</span>
+              <span class="workshop-day">26</span>
+            </div>
+            <div class="workshop-copy">
+              <p class="workshop-audience">Teens &amp; Artists · Community &amp; Circle Orientation</p>
+              <h4>Create the Circle: Art, Belonging &amp; Community</h4>
+              <p>A creative workshop about belonging, contribution, and what becomes possible when different voices, talents, and perspectives work together instead of competing for space.</p>
+            </div>
+          </article>
+
+          <article class="workshop-card">
+            <div class="workshop-date">
+              <span class="workshop-month">OCT</span>
+              <span class="workshop-day">3</span>
+            </div>
+            <div class="workshop-copy">
+              <p class="workshop-audience">Moms · Healing</p>
+              <h4>You Don’t Have to Carry It All: Healing for Moms</h4>
+              <p>A supportive space for moms to slow down, reflect on the visible and invisible weight they carry, and explore how compassion, connection, encouragement, and community can make the load feel a little lighter.</p>
+            </div>
+          </article>
+
+          <article class="workshop-card">
+            <div class="workshop-date">
+              <span class="workshop-month">OCT</span>
+              <span class="workshop-day">10</span>
+            </div>
+            <div class="workshop-copy">
+              <p class="workshop-audience">Working Adults &amp; Peers · Empathy</p>
+              <h4>Beyond the First Impression: Practicing Empathy at Work and in Life</h4>
+              <p>An interactive look at how quickly assumptions form, what we may be missing beneath the surface, and how choosing curiosity over judgment can change our workplaces, relationships, and communities.</p>
+            </div>
+          </article>
+
+          <article class="workshop-card">
+            <div class="workshop-date">
+              <span class="workshop-month">OCT</span>
+              <span class="workshop-day">17</span>
+            </div>
+            <div class="workshop-copy">
+              <p class="workshop-audience">Seniors · Stewardship &amp; Hopeful Vision</p>
+              <h4>What We Leave Behind: Stewardship, Hope &amp; the Future</h4>
+              <p>A reflective and uplifting workshop celebrating lived experience, the wisdom carried across generations, and the choices we make today to protect what matters for the people who come next.</p>
+            </div>
+          </article>
+        </div>
+
+        <div class="workshop-calendar-cta">
+          <p><strong>Want to join us?</strong> Dates are listed above, and the Seeds of Service calendar has the latest times, details, and registration information.</p>
+          <a class="visit-seeds-button visit-seeds-button-primary" href="https://luma.com/seedsofservice" target="_blank" rel="noopener noreferrer">See All Events &amp; Workshops</a>
+        </div>
+      </section>
     `
   },
   {
