@@ -23,7 +23,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>I had already seen the walls.</p>
 
-      <p>I had already read the stories, moved things around, talked through ideas, watched pieces come together, and stood inside the space more times than I could count.</p>
+      <p>I had already read the stories, talked through ideas, watched pieces come together, and stood inside the space.</p>
 
       <p>But there is a difference between building something and watching people experience it.</p>
 
