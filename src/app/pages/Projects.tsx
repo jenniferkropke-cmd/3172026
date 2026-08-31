@@ -247,7 +247,11 @@ export default function Projects() {
                     <ImageWithFallback
                       src={project.image}
                       alt={project.title}
-                      className="w-full h-full object-cover min-h-[300px]"
+                      className={`w-full h-full min-h-[300px] ${
+                        project.title === "Seeds of Service"
+                          ? "object-contain bg-white p-8"
+                          : "object-cover"
+                      }`}
                     />
                   </div>
                   <div className={`p-8 ${index % 2 === 0 ? "order-2" : "order-1"}`}>
