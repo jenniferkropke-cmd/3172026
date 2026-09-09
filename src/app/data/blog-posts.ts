@@ -4459,7 +4459,7 @@ And I am not done dancing yet.
   title: "When the Kid You Looked Up to Was Just a Kid Too",
   date: "2026-09-09",
   excerpt: "What happens when you grow up and realize the person you looked up to may have been a bad influence? Sometimes the truth is more complicated: they were a kid too, teaching survival skills they didn't yet know were survival skills.",
-  featuredImage: "/images/uploads/bad-influence-blog.jpg",
+  featuredImage: "/images/uploads/bad-influence-blog.png",
   tags: ["Personal Growth", "Healing", "Childhood", "Breaking Patterns", "Self Awareness"],
   readTime: "10 min read",
   content: `
