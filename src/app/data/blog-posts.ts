@@ -4454,31 +4454,39 @@ And I am not done dancing yet.
 
 `
 },
-  {
+{
   slug: "when-the-kid-you-looked-up-to-was-just-a-kid-too",
   title: "When the Kid You Looked Up to Was Just a Kid Too",
   date: "2026-09-09",
   excerpt: "What happens when you grow up and realize the person you looked up to may have been a bad influence? Sometimes the truth is more complicated: they were a kid too, teaching survival skills they didn't yet know were survival skills.",
-  featuredImage: "/images/uploads/bad-influence-blog.png",
+  featuredImage: "/images/uploads/bad-influence-blog.jpg",
   tags: ["Personal Growth", "Healing", "Childhood", "Breaking Patterns", "Self Awareness"],
   readTime: "10 min read",
   content: `
 
     <p>I recently had a conversation with an old friend that kind of fucked with me.</p>
 
-    <p>Not in a dramatic, life altering way.</p>
+    <p>Not because they said something completely new.</p>
 
-    <p>Just in that very specific way where someone says one sentence and your brain decides, <em>Cool. We’re going to think about this for the next several days.</em></p>
+    <p>Actually, part of what made it hit so hard was that it changed the meaning of something they had told me years ago.</p>
 
-    <p>We were talking about who we were when we were younger, and they told me that they used to look up to me.</p>
+    <p>When we were younger, they used to tell me they looked up to me.</p>
 
-    <p>And I was like, <em>aw.</em></p>
+    <p>Even as adults, that came up again. The last time I remember them saying it was probably about five years ago.</p>
 
-    <p>That’s actually really nice.</p>
+    <p>And I carried that with me.</p>
 
-    <p>And then came the second half.</p>
+    <p>Not in some giant ego way.</p>
 
-    <p><strong>Now that they’re older, they can see that I was also kind of a bad influence.</strong></p>
+    <p>Just as one of those strangely meaningful things you learn about yourself through somebody else's eyes.</p>
+
+    <p><em>They looked up to me.</em></p>
+
+    <p>Then, during a recent conversation, we started talking about the past again.</p>
+
+    <p>And this time, after having more years to reflect on who we were back then, they told me something different.</p>
+
+    <p><strong>Looking back now, they think I was a bad influence.</strong></p>
 
     <p style="text-align:center; font-size:1.15rem; margin:2rem 0;">
       <strong>Oh.</strong>
@@ -4486,15 +4494,25 @@ And I am not done dancing yet.
 
     <p>Well then.</p>
 
-    <p>Nothing like receiving a compliment and a character review in the same sentence.</p>
+    <p>There is something especially humbling about realizing that someone can have looked up to you <em>and</em> eventually look back at some of what you influenced and think,</p>
+
+    <p style="text-align:center;">
+      <strong>Yeah... maybe that wasn't actually good for me.</strong>
+    </p>
 
     <p>And the annoying part?</p>
 
     <p><strong>I understood what they meant.</strong></p>
 
-    <p>I didn’t immediately agree with every possible interpretation of it, because I know who I was. I know what I meant. I know how much I cared about the people around me.</p>
+    <p>Not because I suddenly looked back and saw myself as some terrible kid who was deliberately leading people down the wrong path.</p>
 
-    <p>I wasn’t some teenage supervillain standing outside school handing out cigarettes and terrible life advice.</p>
+    <p>I wasn't some teenage supervillain standing outside school handing out cigarettes and terrible life advice.</p>
+
+    <p>I know who I was.</p>
+
+    <p>I know what I meant.</p>
+
+    <p>And I know how much I cared about the people around me.</p>
 
     <p>I loved my friends hard.</p>
 
@@ -4510,7 +4528,13 @@ And I am not done dancing yet.
 
     <p>And sometimes I genuinely thought I was helping.</p>
 
-    <p>But here is the uncomfortable part.</p>
+    <p>But reflection is a strange thing.</p>
+
+    <p>Because when enough time passes, you stop looking only at what you <em>meant</em> to do.</p>
+
+    <p>You start being able to see what you actually modeled.</p>
+
+    <p>And here is the uncomfortable part:</p>
 
     <blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8;">
       You can genuinely love someone and still teach them unhealthy things.<br/><br/>
@@ -4518,9 +4542,9 @@ And I am not done dancing yet.
       You can be somebody’s safe person and still model behaviors they eventually have to unlearn.
     </blockquote>
 
-    <p>And when you are a kid or teenager yourself?</p>
+    <p>Especially when you are a kid yourself.</p>
 
-    <p><strong>You might not even realize you’re teaching anyone anything.</strong></p>
+    <p>Because at that age, you might not even realize you're teaching anyone anything.</p>
 
 
     <h2>Kids Teach Each Other What They Know</h2>
