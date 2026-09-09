@@ -4453,6 +4453,407 @@ And I am not done dancing yet.
 <p>— Jen</p>
 
 `
+},
+  {
+  slug: "when-the-kid-you-looked-up-to-was-just-a-kid-too",
+  title: "When the Kid You Looked Up to Was Just a Kid Too",
+  date: "2026-09-09",
+  excerpt: "What happens when you grow up and realize the person you looked up to may have been a bad influence? Sometimes the truth is more complicated: they were a kid too, teaching survival skills they didn't yet know were survival skills.",
+  featuredImage: "/images/uploads/bad-influence-blog.png",
+  tags: ["Personal Growth", "Healing", "Childhood", "Breaking Patterns", "Self Awareness"],
+  readTime: "10 min read",
+  content: `
+
+    <p>I recently had a conversation with an old friend that kind of fucked with me.</p>
+
+    <p>Not in a dramatic, life altering way.</p>
+
+    <p>Just in that very specific way where someone says one sentence and your brain decides, <em>Cool. We’re going to think about this for the next several days.</em></p>
+
+    <p>We were talking about who we were when we were younger, and they told me that they used to look up to me.</p>
+
+    <p>And I was like, <em>aw.</em></p>
+
+    <p>That’s actually really nice.</p>
+
+    <p>And then came the second half.</p>
+
+    <p><strong>Now that they’re older, they can see that I was also kind of a bad influence.</strong></p>
+
+    <p style="text-align:center; font-size:1.15rem; margin:2rem 0;">
+      <strong>Oh.</strong>
+    </p>
+
+    <p>Well then.</p>
+
+    <p>Nothing like receiving a compliment and a character review in the same sentence.</p>
+
+    <p>And the annoying part?</p>
+
+    <p><strong>I understood what they meant.</strong></p>
+
+    <p>I didn’t immediately agree with every possible interpretation of it, because I know who I was. I know what I meant. I know how much I cared about the people around me.</p>
+
+    <p>I wasn’t some teenage supervillain standing outside school handing out cigarettes and terrible life advice.</p>
+
+    <p>I loved my friends hard.</p>
+
+    <p>I protected people.</p>
+
+    <p>I stood up for people.</p>
+
+    <p>I said the thing everyone else was afraid to say.</p>
+
+    <p>I pushed people to stop taking shit from other people.</p>
+
+    <p>I wanted the people I loved to feel brave.</p>
+
+    <p>And sometimes I genuinely thought I was helping.</p>
+
+    <p>But here is the uncomfortable part.</p>
+
+    <blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8;">
+      You can genuinely love someone and still teach them unhealthy things.<br/><br/>
+      You can mean well and still have a negative impact.<br/><br/>
+      You can be somebody’s safe person and still model behaviors they eventually have to unlearn.
+    </blockquote>
+
+    <p>And when you are a kid or teenager yourself?</p>
+
+    <p><strong>You might not even realize you’re teaching anyone anything.</strong></p>
+
+
+    <h2>Kids Teach Each Other What They Know</h2>
+
+    <p>When adults talk about a “bad influence,” we usually imagine one kid who has everything figured out and is purposely dragging another kid down some dark path.</p>
+
+    <p>The troublemaker.</p>
+
+    <p>The wild one.</p>
+
+    <p>The kid your parents warned you about.</p>
+
+    <p>But I don’t think childhood and adolescence are usually that simple.</p>
+
+    <p>Sometimes the “bad influence” is just another kid trying to survive with whatever tools they happened to have.</p>
+
+    <p><strong>And kids teach each other what they know.</strong></p>
+
+    <p>
+      If the tools you learned were anger, you teach anger.<br/><br/>
+      If you learned that shutting down keeps you safe, you teach avoidance.<br/><br/>
+      If lying kept you out of trouble, you might teach someone how to lie.<br/><br/>
+      If fighting back was the only time anyone listened to you, you might teach someone that aggression is strength.<br/><br/>
+      If adults constantly disappointed you, you might teach your friends not to trust anyone.<br/><br/>
+      If you had to become independent too early, you might convince someone else that needing people is weakness.
+    </p>
+
+    <p>And none of that necessarily comes from cruelty.</p>
+
+    <p><strong>Sometimes it comes from survival.</strong></p>
+
+    <p>Sometimes the advice you give someone is the best advice you know how to give.</p>
+
+    <p>It just isn’t good advice.</p>
+
+    <p>
+      I’ve written before about how much of who we become is shaped before we even realize it in
+      <a href="/blog/breaking-patterns-personal-growth" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+        <em> Breaking Patterns: The Moment You Realize You Can Choose Differently</em>
+      </a>.
+      We learn ways to react, cope, love, protect ourselves, and survive long before we have words for any of it.
+    </p>
+
+
+    <h2>Confidence Can Look a Lot Like Chaos</h2>
+
+    <p>I can understand why someone might have looked up to me when I was younger.</p>
+
+    <p>I was loud.</p>
+
+    <p>I had opinions.</p>
+
+    <p>I wasn’t afraid to challenge people.</p>
+
+    <p>I would defend someone I cared about without thinking twice.</p>
+
+    <p>I didn’t always follow the rules just because someone told me they were the rules.</p>
+
+    <p>To another kid, those things can look like confidence.</p>
+
+    <p>And some of them <em>were</em> confidence.</p>
+
+    <p>But adulthood has taught me that qualities we admire can become destructive when we don’t know how to regulate them.</p>
+
+    <p style="text-align:center; line-height:2; margin:2rem 0;">
+      <strong>
+        Courage without judgment can become recklessness.<br/><br/>
+        Loyalty without boundaries can become enabling.<br/><br/>
+        Independence without support can become isolation.<br/><br/>
+        Honesty without emotional regulation can become cruelty.<br/><br/>
+        Standing up for yourself without conflict resolution skills can become aggression.
+      </strong>
+    </p>
+
+    <p>Being fearless can sometimes just mean you haven’t learned to recognize danger yet.</p>
+
+    <p>At fifteen, sixteen, seventeen years old, you don't know the difference.</p>
+
+    <p>You just know what works.</p>
+
+    <p><em>Or at least what feels like it works.</em></p>
+
+
+    <h2>Survival Skills Aren't Always Life Skills</h2>
+
+    <p>This might be the biggest thing I have learned as an adult.</p>
+
+    <p><strong>Some of the behaviors we eventually have to unlearn were once incredibly useful to us.</strong></p>
+
+    <p>Maybe being hyper independent protected you from being disappointed.</p>
+
+    <p>Maybe anger helped you feel powerful when you actually felt helpless.</p>
+
+    <p>Maybe humor helped you survive situations you weren't emotionally prepared to process.</p>
+
+    <p>Maybe running away from conflict worked better than staying in a situation where you felt unsafe.</p>
+
+    <p>Maybe becoming the loudest person in the room was the only way you knew how to make sure you weren't invisible.</p>
+
+    <p>Those things can keep a kid moving.</p>
+
+    <p class="blog-pullquote">
+      <strong>But survival skills aren't always life skills.</strong>
+    </p>
+
+    <p>Eventually you grow up and realize the coping mechanism that protected you at fourteen might be destroying your relationships at thirty.</p>
+
+    <p>And that realization is hard enough when you're thinking about yourself.</p>
+
+    <p>It becomes even harder when you realize someone else may have learned those same behaviors from you.</p>
+
+    <p>That is where accountability gets complicated.</p>
+
+    <p>
+      I’ve talked about another side of this in
+      <a href="/blog/what-survival-mode-looks-like-when-youre-high-functioning" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+        <em>What Survival Mode Looks Like When You’re High Functioning</em>
+      </a>.
+      Survival does not always look like falling apart. Sometimes the behaviors that once kept us functioning become so normal that we mistake them for personality.
+    </p>
+
+
+    <h2>Intention Doesn't Erase Impact</h2>
+
+    <p>I think we sometimes believe there are only two options.</p>
+
+    <p>Either:</p>
+
+    <p style="text-align:center;">
+      <strong>“I meant well, so I did nothing wrong.”</strong>
+    </p>
+
+    <p>Or:</p>
+
+    <p style="text-align:center;">
+      <strong>“I hurt someone, so I must have been a terrible person.”</strong>
+    </p>
+
+    <p>But neither one feels true.</p>
+
+    <p>I can know that my younger self loved people deeply.</p>
+
+    <p>I can know that she was doing the best she could with the emotional tools she had.</p>
+
+    <p>And I can also acknowledge that some of the things she modeled probably weren't healthy.</p>
+
+    <p class="blog-pullquote">
+      <strong>Both can exist at the same time.</strong>
+    </p>
+
+    <p>Good intention does not erase impact.</p>
+
+    <p>But impact doesn't erase intention either.</p>
+
+    <p>Accountability doesn't require me to hate the kid I used to be.</p>
+
+    <p><strong>It just requires me to be honest about her.</strong></p>
+
+    <p>
+      That difference between what we <em>mean</em> and what another person actually <em>feels</em> from us is something I’ve wrestled with before in
+      <a href="/blog/when-your-childs-reaction-triggers-your-past" style="color:#7c3aed; text-decoration:none; font-weight:600;">
+        <em>When Your Child’s Reaction Triggers Your Past</em>
+      </a>.
+      Intention matters. But it is not the only thing that matters.
+    </p>
+
+
+    <h2>Maybe I Was Giving People Survival Skills</h2>
+
+    <p>The thought I keep coming back to is this:</p>
+
+    <blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8; font-size:1.1rem;">
+      <strong>Maybe I was giving people survival skills when none of us realized they were survival skills.</strong>
+    </blockquote>
+
+    <p>Maybe I thought I was teaching someone confidence when I was actually teaching them defensiveness.</p>
+
+    <p>Maybe I thought I was teaching someone independence when I was teaching them not to ask for help.</p>
+
+    <p>Maybe I thought I was teaching someone to stand up for themselves when I hadn't yet learned that not every disagreement has to become a battle.</p>
+
+    <p>Maybe I thought loyalty meant standing beside someone no matter what.</p>
+
+    <p>Maybe I didn't understand yet that real loyalty sometimes means telling someone they're wrong.</p>
+
+    <p>And when I look at it that way, I don't feel the need to defend everything I did.</p>
+
+    <p>But I also don't feel the need to condemn the child who did it.</p>
+
+    <p>She didn't have the vocabulary I have now.</p>
+
+    <p>She didn't have the perspective I have now.</p>
+
+    <p>She didn't have decades of hindsight.</p>
+
+    <p><strong>She was learning while she was teaching other people.</strong></p>
+
+    <p>Just like they were learning from her.</p>
+
+
+    <h2>The People We Looked Up To Were Growing Too</h2>
+
+    <p>There is something strangely comforting about realizing this applies to almost everyone.</p>
+
+    <p>The older sibling you idolized.</p>
+
+    <p>The older cousin.</p>
+
+    <p>The cool teenager down the street.</p>
+
+    <p>The friend who seemed fearless.</p>
+
+    <p>The person you thought had everything figured out.</p>
+
+    <p><strong>They probably didn't.</strong></p>
+
+    <p>They were probably making it up as they went.</p>
+
+    <p>Maybe they were only two years older than you.</p>
+
+    <p>Maybe they were drowning in things you knew nothing about.</p>
+
+    <p>Maybe the traits you admired most were adaptations they developed because they had to.</p>
+
+    <p>We tend to remember childhood in roles.</p>
+
+    <p style="text-align:center; line-height:2;">
+      The good kid.<br/>
+      The troublemaker.<br/>
+      The quiet one.<br/>
+      The wild one.<br/>
+      The smart one.<br/>
+      <strong>The bad influence.</strong>
+    </p>
+
+    <p>But adulthood has made me suspicious of those labels.</p>
+
+    <p>Children are much more complicated than the roles adults assign them.</p>
+
+    <p>Sometimes the “bad kid” was hurting.</p>
+
+    <p>Sometimes the “wild kid” had never been taught boundaries.</p>
+
+    <p>Sometimes the “angry kid” had very good reasons to be angry.</p>
+
+    <p class="blog-pullquote">
+      <strong>Sometimes the kid everyone else followed had absolutely no idea where she was going.</strong>
+    </p>
+
+
+    <h2>I Can Be Sorry Without Being Ashamed</h2>
+
+    <p>There are things I would do differently now.</p>
+
+    <p>There are things I would tell my younger self.</p>
+
+    <p>There are ways I would handle conflict differently.</p>
+
+    <p>Ways I would protect people differently.</p>
+
+    <p>Ways I would love people differently.</p>
+
+    <p>I can look back and think:</p>
+
+    <p style="text-align:center; font-size:1.15rem;">
+      <strong>Yeah.<br/><br/>That probably wasn't great.</strong>
+    </p>
+
+    <p>And I can mean that without turning my younger self into a villain.</p>
+
+    <blockquote style="border-left: 4px solid #7c3aed; padding-left: 1rem; margin: 2rem 0; font-style: italic; color: #4b5563; line-height: 1.8;">
+      <strong>I can be sorry for what I modeled without being ashamed of the child who didn't know another way.</strong>
+    </blockquote>
+
+    <p>Because growth shouldn't require us to hate every previous version of ourselves.</p>
+
+    <p>It should require us to learn from them.</p>
+
+
+    <h2>Keep the Fire. Learn Better Tools.</h2>
+
+    <p>The goal isn't to erase everything about who we were.</p>
+
+    <p>I don't want to become less passionate.</p>
+
+    <p>Less protective.</p>
+
+    <p>Less outspoken.</p>
+
+    <p>Less willing to challenge something I believe is wrong.</p>
+
+    <p><strong>I don't want to trade fire for obedience.</strong></p>
+
+    <p>I just want better tools.</p>
+
+    <p style="text-align:center; line-height:2; margin:2rem 0;">
+      <strong>
+        Courage with judgment.<br/><br/>
+        Loyalty with boundaries.<br/><br/>
+        Independence that still knows how to ask for help.<br/><br/>
+        Honesty with compassion.<br/><br/>
+        Anger that knows what to do with itself.<br/><br/>
+        Strength that doesn't require destruction.
+      </strong>
+    </p>
+
+    <p>Maybe that's what growing up really is.</p>
+
+    <p>Not becoming an entirely different person.</p>
+
+    <p>Just learning how to carry the same parts of yourself in healthier ways.</p>
+
+    <br/>
+
+    <p>So yes.</p>
+
+    <p>Maybe somebody looked up to me.</p>
+
+    <p>And maybe I was a bad influence sometimes.</p>
+
+    <p><strong>Those two things can both be true.</strong></p>
+
+    <p>But there is one more thing that is true now.</p>
+
+    <p class="blog-ending" style="font-size:1.2rem;">
+      <strong>The kid they looked up to was just a kid too.</strong>
+    </p>
+
+    <p class="blog-ending"><strong>And she was still learning.</strong></p>
+
+    <p style="margin-top:3rem;">— Jen</p>
+
+  `
 }
   
 ];
