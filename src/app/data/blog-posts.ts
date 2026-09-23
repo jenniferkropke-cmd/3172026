@@ -4879,13 +4879,13 @@ And I am not done dancing yet.
 
   `
 },
-  {
+{
   slug: "inherited-weather-the-stories-behind-my-first-album",
   title: "Inherited Weather: The Stories Behind My First Album",
   date: "2026-09-23",
   excerpt:
-    "My first album, Inherited Weather: Part I, is finally here. These songs hold pieces of my childhood, my family, love, trauma, survival, dance, healing, and the person I became through all of it. Here is a little of the story behind each song.",
-  featuredImage: "/images/uploads/inherited-weather-album.png",
+    "My first album, Inherited Weather: Pt. 1, is finally here. These songs hold pieces of my childhood, my family, love, trauma, survival, dance, healing, and the person I became through all of it.",
+  featuredImage: "/images/uploads/inherited-weather-blog-banner.png",
   tags: [
     "Music",
     "Inherited Weather",
@@ -4894,20 +4894,28 @@ And I am not done dancing yet.
     "Personal"
   ],
   content: `
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/inherited-weather-blog-banner.png"
+        alt="Inherited Weather: The Stories Behind My First Album by Jennifer Kropke"
+        style="width:100%;height:auto;border-radius:12px;margin-bottom:24px;"
+      />
+    </a>
+
     <h1>Inherited Weather: The Stories Behind My First Album</h1>
 
     <p>
       On September 18, 2026, I released my first album,
-      <strong><em>Inherited Weather: Part I</em></strong>.
+      <strong><em>Inherited Weather: Pt. 1</em></strong>.
     </p>
 
-    <p>
-      It still feels strange to type that.
-    </p>
+    <p>It still feels strange to type that.</p>
 
-    <p>
-      My first album.
-    </p>
+    <p><strong>My first album.</strong></p>
 
     <p>
       These songs were not written all at once. Some of them began with
@@ -4920,10 +4928,9 @@ And I am not done dancing yet.
 
     <p>
       Earlier this year, when I wrote
-      <a
-        href="/blog/inherited-weather-introduction"
-        style="color:#7c3aed;text-decoration:none;font-weight:600;"
-      >Inherited Weather: Why I’m Finally Sharing My Story</a>,
+      <a href="/blog/inherited-weather-introduction">
+        Inherited Weather: Why I’m Finally Sharing My Story
+      </a>,
       this album was still something I was preparing to put into the
       world. Now it is actually here.
     </p>
@@ -4934,13 +4941,69 @@ And I am not done dancing yet.
       little bit about what each one means to me.
     </p>
 
+    <p>
+      You can listen to the album while you read. The four interludes
+      are part of the full album experience, but for this blog I am
+      focusing on the eleven full songs and the stories behind them.
+    </p>
 
-    <h2>Here I Am Untrue</h2>
+    <div style="margin:32px 0;">
+      <iframe
+        style="border-radius:12px;"
+        src="https://open.spotify.com/embed/album/3TiuLJZ6KD0UWWoyWypbgu"
+        width="100%"
+        height="352"
+        frameborder="0"
+        allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"
+      ></iframe>
+    </div>
 
-    <img
-      src="/images/uploads/here-i-am-untrue.jpg"
-      alt="Childhood family photo for Here I Am Untrue"
-    />
+    <p style="text-align:center;margin:24px 0 40px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="font-weight:700;"
+      >
+        🎧 Open Inherited Weather: Pt. 1 on Spotify
+      </a>
+    </p>
+
+
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        Here I Am Untrue
+      </a>
+    </h2>
+
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/here-i-am-untrue.jpg"
+        alt="Childhood family photo for Here I Am Untrue"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
+
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “Here I Am Untrue” on Spotify
+      </a>
+    </p>
 
     <p>
       <em>Here I Am Untrue</em> looks back at the home I grew up in and
@@ -4955,8 +5018,8 @@ And I am not done dancing yet.
       villains. They aren't. They are two imperfect people who have
       loved me, inspired me, and shaped an enormous part of who I am.
       Growing up meant eventually realizing that our parents are human
-      too. They have their own struggles, histories, mistakes, and ways
-      of surviving.
+      too. They have their own struggles, their own histories, their
+      own mistakes, and their own ways of surviving.
     </p>
 
     <p>
@@ -4989,16 +5052,40 @@ And I am not done dancing yet.
     </p>
 
 
-    <h2>Fire &amp; Glitter</h2>
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        Fire &amp; Glitter
+      </a>
+    </h2>
 
-    <img
-      src="/images/uploads/fire-and-glitter.jpg"
-      alt="Childhood photo with my mom for Fire and Glitter"
-    />
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/fire-and-glitter.jpg"
+        alt="Childhood photo with my mom for Fire and Glitter"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
 
-    <p>
-      My mom was my first hero.
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “Fire &amp; Glitter” on Spotify
+      </a>
     </p>
+
+    <p>My mom was my first hero.</p>
 
     <p>
       <em>Fire &amp; Glitter</em> is about the complicated reality of
@@ -5039,9 +5126,7 @@ And I am not done dancing yet.
       Even imperfectly.”
     </blockquote>
 
-    <p>
-      And maybe the simplest lyric says the most:
-    </p>
+    <p>And maybe the simplest lyric says the most:</p>
 
     <blockquote>
       “She’s still my first<br/>
@@ -5054,12 +5139,38 @@ And I am not done dancing yet.
     </p>
 
 
-    <h2>The Ways We Cracked</h2>
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        The Ways We Cracked
+      </a>
+    </h2>
 
-    <img
-      src="/images/uploads/the-ways-we-cracked.png"
-      alt="Childhood photo with my brother for The Ways We Cracked"
-    />
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/the-ways-we-cracked.png"
+        alt="Childhood photo with my brother for The Ways We Cracked"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
+
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “The Ways We Cracked” on Spotify
+      </a>
+    </p>
 
     <p>
       My brother and I grew up in the same house. We heard the same
@@ -5068,9 +5179,7 @@ And I am not done dancing yet.
       those experiences did not shape us in the same way.
     </p>
 
-    <p>
-      <em>The Ways We Cracked</em> is about that difference.
-    </p>
+    <p><em>The Ways We Cracked</em> is about that difference.</p>
 
     <p>
       I became loud. I learned to fill rooms, chase connection, say
@@ -5111,27 +5220,48 @@ And I am not done dancing yet.
     </p>
 
 
-    <h2>In 8 Counts</h2>
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        In 8 Counts
+      </a>
+    </h2>
 
-    <img
-      src="/images/uploads/in-8-counts.jpg"
-      alt="Dance performance photo for In 8 Counts"
-    />
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/in-8-counts.jpg"
+        alt="Dance performance photo for In 8 Counts"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
 
-    <p>
-      Dance has never been just a hobby for me.
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “In 8 Counts” on Spotify
+      </a>
     </p>
+
+    <p>Dance has never been just a hobby for me.</p>
 
     <p>
       <em>In 8 Counts</em> is about the place movement has held in my
       life, especially during the times when I did not know what else
-      to do with everything I was feeling.
-    </p>
-
-    <p>
-      When life felt loud, unpredictable, or painful, dance gave me
-      something I could control. There was always another count.
-      Another step. Another piece of choreography to learn.
+      to do with everything I was feeling. When life felt loud,
+      unpredictable, or painful, dance gave me something I could
+      control. There was always another count. Another step. Another
+      piece of choreography to learn.
     </p>
 
     <blockquote>
@@ -5142,9 +5272,10 @@ And I am not done dancing yet.
     <p>
       As I got older, I kept returning to movement through different
       kinds of pain. Fear could become movement. Anger could become
-      movement. Heartbreak could become movement. Dance gave all of it
-      somewhere to go.
+      movement. Heartbreak could become movement.
     </p>
+
+    <p>Dance gave all of it somewhere to go.</p>
 
     <blockquote>
       “Every eight counts keeps me breathing<br/>
@@ -5154,7 +5285,9 @@ And I am not done dancing yet.
     <p>
       When I look at this photograph, I don't just see myself
       performing. I see one of the places where I learned how powerful
-      my own body could be.
+      my own body could be. Dance taught me that even when I could not
+      control what was happening around me, I could still choose what
+      happened on the next count.
     </p>
 
     <blockquote>
@@ -5169,12 +5302,38 @@ And I am not done dancing yet.
     </p>
 
 
-    <h2>My Shame</h2>
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        My Shame
+      </a>
+    </h2>
 
-    <img
-      src="/images/uploads/my-shame.jpg"
-      alt="Photo from the period of my life that inspired My Shame"
-    />
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/my-shame.jpg"
+        alt="Photo from the period of my life that inspired My Shame"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
+
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “My Shame” on Spotify
+      </a>
+    </p>
 
     <p>
       <em>My Shame</em> is one of the oldest pieces of myself on this
@@ -5194,8 +5353,7 @@ And I am not done dancing yet.
     </blockquote>
 
     <p>
-      There is another lyric in this song that is deliberately
-      uncomfortable:
+      There is a lyric in this song that is deliberately uncomfortable:
     </p>
 
     <blockquote>
@@ -5207,7 +5365,10 @@ And I am not done dancing yet.
       That contradiction is really the heart of <em>My Shame</em>.
       It captures how confusing an unhealthy relationship can become
       when the person causing you pain is also the person you
-      desperately want comfort from.
+      desperately want comfort from. At that age, I did not have the
+      perspective or language I have now. I only knew that I loved
+      someone, I was hurting, and somehow I kept wanting the person
+      connected to that hurt to make it better.
     </p>
 
     <p>
@@ -5215,12 +5376,8 @@ And I am not done dancing yet.
       life, before hindsight could make any of it clearer. I was young,
       trying to understand relationships, wanting to be wanted, and
       carrying far more complicated feelings about love than I
-      understood at the time.
-    </p>
-
-    <p>
-      Even the caption on the photograph feels like a little time
-      capsule of who I was then.
+      understood at the time. Even the caption on the photo feels like
+      a little time capsule of who I was then.
     </p>
 
     <p>
@@ -5237,12 +5394,38 @@ And I am not done dancing yet.
     </p>
 
 
-    <h2>Let’s Restart</h2>
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        Let’s Restart
+      </a>
+    </h2>
 
-    <img
-      src="/images/uploads/lets-restart.jpg"
-      alt="Photo from the period of my life that inspired Let's Restart"
-    />
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/lets-restart.jpg"
+        alt="Photo from the period of my life that inspired Let's Restart"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
+
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “Let’s Restart” on Spotify
+      </a>
+    </p>
 
     <p>
       <em>Let’s Restart</em> is about knowing a relationship is hurting
@@ -5267,7 +5450,9 @@ And I am not done dancing yet.
       This song has anger in it too. There is jealousy, resentment,
       sadness, and that very young feeling of wanting someone back at
       the exact same time you want to hate them for what they did to
-      you.
+      you. It isn't meant to present a healthy version of love. It
+      captures what it actually felt like while I was inside that
+      cycle.
     </p>
 
     <blockquote>
@@ -5289,17 +5474,41 @@ And I am not done dancing yet.
       will change.
     </p>
 
-    <p>
-      But she didn't know any of that yet.
+    <p>But she didn't know any of that yet.</p>
+
+
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        I Am
+      </a>
+    </h2>
+
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/i-am.jpg"
+        alt="Photo representing identity and self perception for I Am"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
+
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “I Am” on Spotify
+      </a>
     </p>
-
-
-    <h2>I Am</h2>
-
-    <img
-      src="/images/uploads/i-am.jpg"
-      alt="Photo representing identity and self perception for I Am"
-    />
 
     <p>
       <em>I Am</em> is about trying to figure out who I am when so many
@@ -5327,16 +5536,19 @@ And I am not done dancing yet.
     </blockquote>
 
     <p>
-      There are things that happened to me, choices I made,
-      expectations placed on me, and labels other people tried to give
-      me. None of those things, individually, get to define the whole
-      person.
+      There are parts of myself I am proud of and parts I am still
+      learning to understand. There are things that happened to me,
+      choices I made, expectations placed on me, and labels other
+      people tried to give me. None of those things, individually, get
+      to define the whole person.
     </p>
 
     <p>
-      That is why I love this particular photograph for the song. Even
+      That is why I love this particular picture for the song. Even
       the words across the top, “beauty is in the eyes of the
-      beholder,” feel connected to the person I was becoming.
+      beholder,” feel connected to the person I was becoming. Beauty,
+      identity, worth, and even the idea of who we are can look
+      completely different depending on who is doing the looking.
     </p>
 
     <blockquote>
@@ -5347,8 +5559,8 @@ And I am not done dancing yet.
     </blockquote>
 
     <p>
-      Eventually, the song stops asking permission to contain all of
-      those contradictions.
+      Eventually, the song stops asking for permission to contain all
+      of those contradictions.
     </p>
 
     <blockquote>
@@ -5356,17 +5568,41 @@ And I am not done dancing yet.
       Everything becoming flame.”
     </blockquote>
 
-    <p>
-      I am not one thing. I never was.
+    <p>I am not one thing. I never was.</p>
+
+
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        Bleed In Stereo
+      </a>
+    </h2>
+
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/bleed-in-stereo.jpg"
+        alt="Photo from the period of my life represented in Bleed In Stereo"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
+
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “Bleed In Stereo” on Spotify
+      </a>
     </p>
-
-
-    <h2>Bleed In Stereo</h2>
-
-    <img
-      src="/images/uploads/bleed-in-stereo.jpg"
-      alt="Photo from the period of my life represented in Bleed In Stereo"
-    />
 
     <p>
       <em>Bleed In Stereo</em> is about the kind of love that becomes
@@ -5421,12 +5657,38 @@ And I am not done dancing yet.
     </p>
 
 
-    <h2>Ignorant</h2>
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        Ignorant
+      </a>
+    </h2>
 
-    <img
-      src="/images/uploads/ignorant.jpg"
-      alt="Photo representing the period of my life that inspired Ignorant"
-    />
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/ignorant.jpg"
+        alt="Photo representing the period of my life that inspired Ignorant"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
+
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “Ignorant” on Spotify
+      </a>
+    </p>
 
     <p>
       <em>Ignorant</em> came after that relationship ended.
@@ -5446,9 +5708,7 @@ And I am not done dancing yet.
       had been through and turning it into armor.
     </p>
 
-    <p>
-      This song is what that armor sounded like.
-    </p>
+    <p>This song is what that armor sounded like.</p>
 
     <blockquote>
       “You don’t lose women<br/>
@@ -5482,16 +5742,40 @@ And I am not done dancing yet.
     </p>
 
 
-    <h2>Still Here</h2>
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        Still Here
+      </a>
+    </h2>
 
-    <img
-      src="/images/uploads/still-here.jpg"
-      alt="Photo representing the story behind Still Here"
-    />
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/still-here.jpg"
+        alt="Photo representing the story behind Still Here"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
 
-    <p>
-      <em>Still Here</em> is about surviving sexual assault.
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “Still Here” on Spotify
+      </a>
     </p>
+
+    <p><em>Still Here</em> is about surviving sexual assault.</p>
 
     <p>
       For a long time, one of the hardest parts for me to understand
@@ -5524,10 +5808,9 @@ And I am not done dancing yet.
 
     <p>
       I wrote more about why I chose metaphor to tell this story in
-      <a
-        href="/blog/writing-still-here-songwriting-trauma-metaphor"
-        style="color:#7c3aed;text-decoration:none;font-weight:600;"
-      >Writing Still Here: When Metaphor Says What Literal Words Cannot</a>.
+      <a href="/blog/writing-still-here-songwriting-trauma-metaphor">
+        Writing Still Here: When Metaphor Says What Literal Words Cannot
+      </a>.
       This song needed to tell the truth without turning the most
       painful experience into spectacle.
     </p>
@@ -5554,12 +5837,38 @@ And I am not done dancing yet.
     </p>
 
 
-    <h2>The Endless Powers of Me</h2>
+    <h2>
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color:inherit;text-decoration:none;"
+      >
+        The Endless Powers of Me
+      </a>
+    </h2>
 
-    <img
-      src="/images/uploads/the-endless-powers-of-me.jpg"
-      alt="Photo representing The Endless Powers of Me"
-    />
+    <a
+      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/uploads/the-endless-powers-of-me.jpg"
+        alt="Photo representing The Endless Powers of Me"
+        style="width:100%;height:auto;border-radius:10px;"
+      />
+    </a>
+
+    <p style="text-align:center;font-size:0.95rem;margin-top:10px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        🎧 Listen to “The Endless Powers of Me” on Spotify
+      </a>
+    </p>
 
     <p>
       <em>The Endless Powers of Me</em> is the conclusion to this part
@@ -5589,9 +5898,7 @@ And I am not done dancing yet.
       heart of the entire album.
     </p>
 
-    <p>
-      Maybe I already had the power I kept wishing for.
-    </p>
+    <p>Maybe I already had the power I kept wishing for.</p>
 
     <blockquote>
       “Maybe flying isn’t leaving<br/>
@@ -5609,12 +5916,11 @@ And I am not done dancing yet.
     </p>
 
     <p>
-      That realization is connected to something I have written about
+      That realization connects to something I have written about
       throughout this year:
-      <a
-        href="/blog/breaking-patterns-personal-growth"
-        style="color:#7c3aed;text-decoration:none;font-weight:600;"
-      >breaking patterns and realizing we can choose differently</a>.
+      <a href="/blog/breaking-patterns-personal-growth">
+        breaking patterns and realizing we can choose differently
+      </a>.
       We cannot rewrite where we came from, but we do get a say in what
       we carry forward.
     </p>
@@ -5655,16 +5961,13 @@ And I am not done dancing yet.
       was underneath all of it.
     </p>
 
-    <p>
-      And I see the woman writing this now.
-    </p>
+    <p>And I see the woman writing this now.</p>
 
     <p>
       I have written before about
-      <a
-        href="/blog/breaking-patterns-personal-growth"
-        style="color:#7c3aed;text-decoration:none;font-weight:600;"
-      >the moment you realize you can choose differently</a>.
+      <a href="/blog/breaking-patterns-personal-growth">
+        the moment you realize you can choose differently
+      </a>.
       I think that idea lives at the center of this album.
     </p>
 
@@ -5676,17 +5979,11 @@ And I am not done dancing yet.
       with us.
     </p>
 
-    <p>
-      That is <em>Inherited Weather</em> to me.
-    </p>
+    <p>That is <em>Inherited Weather</em> to me.</p>
 
-    <p>
-      I couldn't change the weather I inherited.
-    </p>
+    <p>I couldn't change the weather I inherited.</p>
 
-    <p>
-      But I survived every storm.
-    </p>
+    <p>But I survived every storm.</p>
 
     <p>
       And somewhere along the way, I realized that was a power of its
@@ -5699,8 +5996,30 @@ And I am not done dancing yet.
       story in my own way.
     </p>
 
-    <p>
-      This is only Part I.
+    <p><strong>This is only Part I.</strong></p>
+
+    <div style="margin:32px 0;">
+      <iframe
+        style="border-radius:12px;"
+        src="https://open.spotify.com/embed/album/3TiuLJZ6KD0UWWoyWypbgu"
+        width="100%"
+        height="352"
+        frameborder="0"
+        allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"
+      ></iframe>
+    </div>
+
+    <p style="text-align:center;margin:24px 0 32px;">
+      <a
+        href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="font-weight:700;font-size:1.1rem;"
+      >
+        🎧 Listen to Inherited Weather: Pt. 1 on Spotify
+      </a>
     </p>
 
     <p>— Jen</p>
