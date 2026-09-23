@@ -5057,7 +5057,7 @@ And I am not done dancing yet.
     <h2>The Ways We Cracked</h2>
 
     <img
-      src="/images/uploads/the-ways-we-cracked.jpg"
+      src="/images/uploads/the-ways-we-cracked.png"
       alt="Childhood photo with my brother for The Ways We Cracked"
     />
 
