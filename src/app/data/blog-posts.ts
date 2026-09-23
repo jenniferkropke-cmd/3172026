@@ -4900,7 +4900,7 @@ And I am not done dancing yet.
       rel="noopener noreferrer"
     >
       <img
-        src="/images/uploads/inherited-weather-blog-banner.png"
+        src="/images/uploads/inherited-weather-album.png"
         alt="Inherited Weather: The Stories Behind My First Album by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:12px;margin-bottom:24px;"
       />
