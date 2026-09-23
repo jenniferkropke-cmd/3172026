@@ -4885,7 +4885,7 @@ And I am not done dancing yet.
   date: "2026-09-23",
   excerpt:
     "My first album, Inherited Weather: Pt. 1, is finally here. These songs hold pieces of my childhood, my family, love, trauma, survival, dance, healing, and the person I became through all of it.",
-  featuredImage: "/images/uploads/inherited-weather-blog-banner.png",
+  featuredImage: "/images/uploads/inherited-weather-album.png",
   tags: [
     "Music",
     "Inherited Weather",
