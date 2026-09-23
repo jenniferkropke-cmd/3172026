@@ -4881,11 +4881,17 @@ And I am not done dancing yet.
 },
 {
   slug: "inherited-weather-the-stories-behind-my-first-album",
+
   title: "Inherited Weather: The Stories Behind My First Album",
-  date: "2026-09-23",
+
+  date: "2026-09-22",
+
   excerpt:
     "My first album, Inherited Weather: Pt. 1, is finally here. These songs hold pieces of my childhood, my family, love, trauma, survival, dance, healing, and the person I became through all of it.",
-  featuredImage: "/images/uploads/inherited-weather-album.png",
+
+  featuredImage:
+    "/images/uploads/inherited-weather-blog-banner.png",
+
   tags: [
     "Music",
     "Inherited Weather",
@@ -4893,21 +4899,57 @@ And I am not done dancing yet.
     "Healing",
     "Personal"
   ],
+
+  seo: {
+    title:
+      "Inherited Weather: Stories Behind My First Album | Jennifer Kropke",
+
+    description:
+      "Jennifer Kropke shares the stories behind her first album, Inherited Weather: Pt. 1, including the meaning behind each song and reflections on family, love, trauma, dance, survival, healing, and identity.",
+
+    keywords: [
+      "Jennifer Kropke",
+      "Inherited Weather",
+      "Inherited Weather Pt. 1",
+      "Jennifer Kropke music",
+      "Jennifer Kropke album",
+      "Jennifer Kropke singer songwriter",
+      "Inherited Weather album",
+      "Inherited Weather songs",
+      "stories behind the songs",
+      "meaning behind Inherited Weather",
+      "song meanings",
+      "independent musician",
+      "independent artist",
+      "Chicago singer songwriter",
+      "female singer songwriter",
+      "personal songwriting",
+      "healing through music",
+      "trauma and songwriting",
+      "Still Here Jennifer Kropke",
+      "In 8 Counts Jennifer Kropke",
+      "My Shame Jennifer Kropke",
+      "The Endless Powers of Me",
+      "Here I Am Untrue",
+      "Fire and Glitter",
+      "The Ways We Cracked",
+      "Bleed In Stereo"
+    ],
+
+    canonical:
+      "https://jenniferkropke.com/blog/inherited-weather-the-stories-behind-my-first-album",
+
+    ogTitle:
+      "Inherited Weather: The Stories Behind My First Album",
+
+    ogDescription:
+      "Go behind the songs of Jennifer Kropke's first album, Inherited Weather: Pt. 1 — a deeply personal collection about family, love, survival, identity, trauma, dance, and healing.",
+
+    ogImage:
+      "/images/uploads/inherited-weather-album.png"
+  },
+
   content: `
-    <a
-      href="https://open.spotify.com/album/3TiuLJZ6KD0UWWoyWypbgu"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="/images/uploads/inherited-weather-album.png"
-        alt="Inherited Weather: The Stories Behind My First Album by Jennifer Kropke"
-        style="width:100%;height:auto;border-radius:12px;margin-bottom:24px;"
-      />
-    </a>
-
-    <h1>Inherited Weather: The Stories Behind My First Album</h1>
-
     <p>
       On September 18, 2026, I released my first album,
       <strong><em>Inherited Weather: Pt. 1</em></strong>.
@@ -4990,7 +5032,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/here-i-am-untrue.jpg"
-        alt="Childhood family photo for Here I Am Untrue"
+        alt="Childhood family photo for Here I Am Untrue by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5070,7 +5112,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/fire-and-glitter.jpg"
-        alt="Childhood photo with my mom for Fire and Glitter"
+        alt="Childhood photo with my mom for Fire and Glitter by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5157,7 +5199,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/the-ways-we-cracked.png"
-        alt="Childhood photo with my brother for The Ways We Cracked"
+        alt="Childhood photo with my brother for The Ways We Cracked by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5215,9 +5257,7 @@ And I am not done dancing yet.
       Or did you just learn to forget?”
     </blockquote>
 
-    <p>
-      Same blood. Same past. Different ways we cracked.
-    </p>
+    <p>Same blood. Same past. Different ways we cracked.</p>
 
 
     <h2>
@@ -5238,7 +5278,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/in-8-counts.jpg"
-        alt="Dance performance photo for In 8 Counts"
+        alt="Dance performance photo for In 8 Counts by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5320,7 +5360,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/my-shame.jpg"
-        alt="Photo from the period of my life that inspired My Shame"
+        alt="Photo from the period of my life that inspired My Shame by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5412,7 +5452,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/lets-restart.jpg"
-        alt="Photo from the period of my life that inspired Let's Restart"
+        alt="Photo from the period of my life that inspired Let's Restart by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5495,7 +5535,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/i-am.jpg"
-        alt="Photo representing identity and self perception for I Am"
+        alt="Photo representing identity and self perception for I Am by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5589,7 +5629,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/bleed-in-stereo.jpg"
-        alt="Photo from the period of my life represented in Bleed In Stereo"
+        alt="Photo from the period of my life represented in Bleed In Stereo by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5675,7 +5715,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/ignorant.jpg"
-        alt="Photo representing the period of my life that inspired Ignorant"
+        alt="Photo representing the period of my life that inspired Ignorant by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5760,7 +5800,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/still-here.jpg"
-        alt="Photo representing the story behind Still Here"
+        alt="Photo representing the story behind Still Here by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
@@ -5855,7 +5895,7 @@ And I am not done dancing yet.
     >
       <img
         src="/images/uploads/the-endless-powers-of-me.jpg"
-        alt="Photo representing The Endless Powers of Me"
+        alt="Photo representing The Endless Powers of Me by Jennifer Kropke"
         style="width:100%;height:auto;border-radius:10px;"
       />
     </a>
