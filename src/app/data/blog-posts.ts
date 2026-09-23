@@ -4878,6 +4878,833 @@ And I am not done dancing yet.
     <p style="margin-top:3rem;">— Jen</p>
 
   `
+},
+  {
+  slug: "inherited-weather-the-stories-behind-my-first-album",
+  title: "Inherited Weather: The Stories Behind My First Album",
+  date: "2026-09-23",
+  excerpt:
+    "My first album, Inherited Weather: Part I, is finally here. These songs hold pieces of my childhood, my family, love, trauma, survival, dance, healing, and the person I became through all of it. Here is a little of the story behind each song.",
+  featuredImage: "/images/uploads/inherited-weather-album.png",
+  tags: [
+    "Music",
+    "Inherited Weather",
+    "Songwriting",
+    "Healing",
+    "Personal"
+  ],
+  content: `
+    <h1>Inherited Weather: The Stories Behind My First Album</h1>
+
+    <p>
+      On September 18, 2026, I released my first album,
+      <strong><em>Inherited Weather: Part I</em></strong>.
+    </p>
+
+    <p>
+      It still feels strange to type that.
+    </p>
+
+    <p>
+      My first album.
+    </p>
+
+    <p>
+      These songs were not written all at once. Some of them began with
+      words and feelings I carried when I was much younger. Others came
+      from looking backward with the perspective I have now. Together,
+      they became a story about family, love, relationships, trauma,
+      survival, identity, healing, and the things we inherit from the
+      people and experiences that shape us.
+    </p>
+
+    <p>
+      Earlier this year, when I wrote
+      <a
+        href="/blog/inherited-weather-introduction"
+        style="color:#7c3aed;text-decoration:none;font-weight:600;"
+      >Inherited Weather: Why I’m Finally Sharing My Story</a>,
+      this album was still something I was preparing to put into the
+      world. Now it is actually here.
+    </p>
+
+    <p>
+      I could probably write an entire blog about every song on this
+      album, and maybe someday I will. For now, I wanted to share a
+      little bit about what each one means to me.
+    </p>
+
+
+    <h2>Here I Am Untrue</h2>
+
+    <img
+      src="/images/uploads/here-i-am-untrue.jpg"
+      alt="Childhood family photo for Here I Am Untrue"
+    />
+
+    <p>
+      <em>Here I Am Untrue</em> looks back at the home I grew up in and
+      the complicated relationship my parents had during those years.
+      Alcohol played a significant role in our family, and there were
+      moments of fighting, instability, and chaos that I was too young
+      to fully understand.
+    </p>
+
+    <p>
+      But this song is not about blaming my parents or painting them as
+      villains. They aren't. They are two imperfect people who have
+      loved me, inspired me, and shaped an enormous part of who I am.
+      Growing up meant eventually realizing that our parents are human
+      too. They have their own struggles, histories, mistakes, and ways
+      of surviving.
+    </p>
+
+    <p>
+      That is one reason I chose this photograph. There is genuine
+      happiness in it. Those smiles are real. The difficult memories
+      are real too. One does not erase the other.
+    </p>
+
+    <blockquote>
+      “Tomorrow brings a phony smile<br/>
+      Mom plays pretend for just a while.”
+    </blockquote>
+
+    <p>
+      Another lyric became especially meaningful to me as I got older:
+    </p>
+
+    <blockquote>
+      “Apples don’t fall far from trees<br/>
+      It must be true from what I see.”
+    </blockquote>
+
+    <p>
+      <em>Inherited Weather</em> is partly about recognizing the things
+      we inherit from the people who raised us, both beautiful and
+      painful, and deciding what we want to do with them. I can
+      acknowledge the storms that existed in my childhood while still
+      loving, respecting, and being inspired by the people who helped
+      make me who I am.
+    </p>
+
+
+    <h2>Fire &amp; Glitter</h2>
+
+    <img
+      src="/images/uploads/fire-and-glitter.jpg"
+      alt="Childhood photo with my mom for Fire and Glitter"
+    />
+
+    <p>
+      My mom was my first hero.
+    </p>
+
+    <p>
+      <em>Fire &amp; Glitter</em> is about the complicated reality of
+      growing up and realizing that the person you idolized as a child
+      is also human. When I was little, my mom was larger than life to
+      me. She was funny, energetic, strong, and the person who made me
+      feel safe. Some of my happiest childhood memories are tied to her.
+    </p>
+
+    <blockquote>
+      “She was fire and glitter<br/>
+      Laughter cracking ceilings wide.”
+    </blockquote>
+
+    <p>
+      As I got older, our relationship became more complicated.
+      Alcohol, choices I did not understand, my own rebellion, and
+      eventually learning things I had been too young to recognize
+      changed the way I saw her.
+    </p>
+
+    <p>
+      Adulthood gave me something I did not have when I was younger:
+      perspective.
+    </p>
+
+    <p>
+      I can see her mistakes without allowing those mistakes to define
+      her. I can recognize the ways we hurt each other while also
+      recognizing everything she gave me. Loving someone does not
+      require pretending they never got anything wrong.
+    </p>
+
+    <blockquote>
+      “She is still fire and glitter<br/>
+      Still the first hands holding me<br/>
+      Still the woman who built my world<br/>
+      Even imperfectly.”
+    </blockquote>
+
+    <p>
+      And maybe the simplest lyric says the most:
+    </p>
+
+    <blockquote>
+      “She’s still my first<br/>
+      Home.”
+    </blockquote>
+
+    <p>
+      Before I understood any of the complicated parts, this was my
+      mom. And this was home.
+    </p>
+
+
+    <h2>The Ways We Cracked</h2>
+
+    <img
+      src="/images/uploads/the-ways-we-cracked.jpg"
+      alt="Childhood photo with my brother for The Ways We Cracked"
+    />
+
+    <p>
+      My brother and I grew up in the same house. We heard the same
+      arguments, lived through many of the same difficult moments, and
+      loved the same parents. But as we got older, it became clear that
+      those experiences did not shape us in the same way.
+    </p>
+
+    <p>
+      <em>The Ways We Cracked</em> is about that difference.
+    </p>
+
+    <p>
+      I became loud. I learned to fill rooms, chase connection, say
+      what I was feeling, sometimes say too much, and desperately want
+      to be seen. My brother responded differently. He became quieter
+      and more internal. We were two kids trying to make sense of
+      things we did not yet have the words to understand, each
+      developing our own way of coping.
+    </p>
+
+    <blockquote>
+      “We grew up in the same house, same scars<br/>
+      Same nights counting cracks in the dark<br/>
+      But it split us into different kinds of broken<br/>
+      Different ways of coping.”
+    </blockquote>
+
+    <p>
+      I love this childhood picture because neither of those children
+      could possibly understand any of that yet. We are just a brother
+      and sister with our arms around each other, smiling at the camera.
+    </p>
+
+    <p>
+      There is no blame in this song, toward him or toward our parents.
+      There is actually a lot of empathy in it. As an adult, I can look
+      at my brother and realize that just because he carried something
+      differently does not mean he did not carry it.
+    </p>
+
+    <blockquote>
+      “Did you hear it like I did<br/>
+      Or did you just learn to forget?”
+    </blockquote>
+
+    <p>
+      Same blood. Same past. Different ways we cracked.
+    </p>
+
+
+    <h2>In 8 Counts</h2>
+
+    <img
+      src="/images/uploads/in-8-counts.jpg"
+      alt="Dance performance photo for In 8 Counts"
+    />
+
+    <p>
+      Dance has never been just a hobby for me.
+    </p>
+
+    <p>
+      <em>In 8 Counts</em> is about the place movement has held in my
+      life, especially during the times when I did not know what else
+      to do with everything I was feeling.
+    </p>
+
+    <p>
+      When life felt loud, unpredictable, or painful, dance gave me
+      something I could control. There was always another count.
+      Another step. Another piece of choreography to learn.
+    </p>
+
+    <blockquote>
+      “But in my room the music<br/>
+      Was louder than the fight.”
+    </blockquote>
+
+    <p>
+      As I got older, I kept returning to movement through different
+      kinds of pain. Fear could become movement. Anger could become
+      movement. Heartbreak could become movement. Dance gave all of it
+      somewhere to go.
+    </p>
+
+    <blockquote>
+      “Every eight counts keeps me breathing<br/>
+      Every bruise proves I survived.”
+    </blockquote>
+
+    <p>
+      When I look at this photograph, I don't just see myself
+      performing. I see one of the places where I learned how powerful
+      my own body could be.
+    </p>
+
+    <blockquote>
+      “Every scar rewrites the lie<br/>
+      You can’t break a girl<br/>
+      Who learned to fly.”
+    </blockquote>
+
+    <p>
+      I wasn't only learning choreography. In a lot of ways, I was
+      learning how to survive.
+    </p>
+
+
+    <h2>My Shame</h2>
+
+    <img
+      src="/images/uploads/my-shame.jpg"
+      alt="Photo from the period of my life that inspired My Shame"
+    />
+
+    <p>
+      <em>My Shame</em> is one of the oldest pieces of myself on this
+      album. It comes from being young and caught in a relationship
+      where love, hurt, longing, rejection, and dependency became so
+      tangled together that I could no longer separate one from
+      another.
+    </p>
+
+    <p>
+      I knew things were unhealthy. I knew I was being hurt. But
+      knowing that did not magically make the attachment disappear.
+    </p>
+
+    <blockquote>
+      “Yet my heart still bleeds your name.”
+    </blockquote>
+
+    <p>
+      There is another lyric in this song that is deliberately
+      uncomfortable:
+    </p>
+
+    <blockquote>
+      “I miss the way you kiss me<br/>
+      And I miss the way you hit me.”
+    </blockquote>
+
+    <p>
+      That contradiction is really the heart of <em>My Shame</em>.
+      It captures how confusing an unhealthy relationship can become
+      when the person causing you pain is also the person you
+      desperately want comfort from.
+    </p>
+
+    <p>
+      I chose this picture because this is me during that chapter of my
+      life, before hindsight could make any of it clearer. I was young,
+      trying to understand relationships, wanting to be wanted, and
+      carrying far more complicated feelings about love than I
+      understood at the time.
+    </p>
+
+    <p>
+      Even the caption on the photograph feels like a little time
+      capsule of who I was then.
+    </p>
+
+    <p>
+      Shame makes us want to hide the parts of our stories that are
+      messy, contradictory, or difficult to explain. Releasing this
+      song all these years later does the opposite. I don't have to
+      hide that girl or judge her for what she thought love was
+      supposed to feel like.
+    </p>
+
+    <p>
+      She was trying to understand love with the tools she had at the
+      time.
+    </p>
+
+
+    <h2>Let’s Restart</h2>
+
+    <img
+      src="/images/uploads/lets-restart.jpg"
+      alt="Photo from the period of my life that inspired Let's Restart"
+    />
+
+    <p>
+      <em>Let’s Restart</em> is about knowing a relationship is hurting
+      you and still wishing you could somehow go back and make it work.
+    </p>
+
+    <p>
+      There is a strange place between heartbreak and acceptance where
+      you know better, but your emotions have not caught up yet. You
+      can be getting stronger, moving forward, even convincing yourself
+      that you are finally done, and then one look, one conversation,
+      or one memory brings everything rushing back.
+    </p>
+
+    <blockquote>
+      “I’ve started to get stronger,<br/>
+      But after just one look at you<br/>
+      Makes me fall apart and it all restarts.”
+    </blockquote>
+
+    <p>
+      This song has anger in it too. There is jealousy, resentment,
+      sadness, and that very young feeling of wanting someone back at
+      the exact same time you want to hate them for what they did to
+      you.
+    </p>
+
+    <blockquote>
+      “Your broken words struck my broken heart,<br/>
+      And now I’m stuck here falling apart<br/>
+      Baby, Let’s restart.”
+    </blockquote>
+
+    <p>
+      I chose this picture because I wanted the image beside the song
+      to show the girl who actually wrote and felt these things, not
+      the adult version of me explaining them years later.
+    </p>
+
+    <p>
+      I look at these old pictures now and know everything she does not
+      know yet. I know which relationships will end, which wounds will
+      eventually heal, and how dramatically her understanding of love
+      will change.
+    </p>
+
+    <p>
+      But she didn't know any of that yet.
+    </p>
+
+
+    <h2>I Am</h2>
+
+    <img
+      src="/images/uploads/i-am.jpg"
+      alt="Photo representing identity and self perception for I Am"
+    />
+
+    <p>
+      <em>I Am</em> is about trying to figure out who I am when so many
+      different versions of me seem to exist at the same time.
+    </p>
+
+    <p>
+      This song, along with <em>My Shame</em> and
+      <em>Let’s Restart</em>, came from the same relationship and the
+      person I was becoming while I was inside it.
+    </p>
+
+    <p>
+      For a long time, I think I felt like I needed to fit neatly into
+      one definition. Good or bad. Strong or damaged. Confident or
+      insecure. Sexual or innocent. Angry or loving. But human beings
+      don't really work that way, and neither do I.
+    </p>
+
+    <blockquote>
+      “I am pain<br/>
+      I am love<br/>
+      I am everything you fear<br/>
+      And everything you crave.”
+    </blockquote>
+
+    <p>
+      There are things that happened to me, choices I made,
+      expectations placed on me, and labels other people tried to give
+      me. None of those things, individually, get to define the whole
+      person.
+    </p>
+
+    <p>
+      That is why I love this particular photograph for the song. Even
+      the words across the top, “beauty is in the eyes of the
+      beholder,” feel connected to the person I was becoming.
+    </p>
+
+    <blockquote>
+      “I am not your expectation<br/>
+      Not your label, not your blame<br/>
+      I am not your quiet woman<br/>
+      I am not your tame.”
+    </blockquote>
+
+    <p>
+      Eventually, the song stops asking permission to contain all of
+      those contradictions.
+    </p>
+
+    <blockquote>
+      “I am everything unfinished<br/>
+      Everything becoming flame.”
+    </blockquote>
+
+    <p>
+      I am not one thing. I never was.
+    </p>
+
+
+    <h2>Bleed In Stereo</h2>
+
+    <img
+      src="/images/uploads/bleed-in-stereo.jpg"
+      alt="Photo from the period of my life represented in Bleed In Stereo"
+    />
+
+    <p>
+      <em>Bleed In Stereo</em> is about the kind of love that becomes
+      all consuming. The kind where another person stops being part of
+      your world and slowly starts becoming your entire world.
+    </p>
+
+    <p>
+      It is about giving someone so much of yourself that when the
+      relationship begins to fall apart, you don't just feel like
+      you're losing them. You feel like you're losing yourself too.
+    </p>
+
+    <blockquote>
+      “I gave you all my oxygen<br/>
+      You gave me just enough to drown.”
+    </blockquote>
+
+    <p>
+      There is desperation in this song because that is what this kind
+      of heartbreak felt like. I had built so much of my emotional
+      world around another person that I couldn't understand how
+      something that once felt so enormous could suddenly mean so
+      little to them.
+    </p>
+
+    <blockquote>
+      “I built my heart around your name<br/>
+      You tore it down without a sound.”
+    </blockquote>
+
+    <p>
+      But <em>Bleed In Stereo</em> is not only about being destroyed
+      by love. Buried underneath all of that heartbreak is the
+      beginning of something I did not recognize at the time:
+      rebuilding.
+    </p>
+
+    <blockquote>
+      “I’ll find my beauty in the breakdown.”
+    </blockquote>
+
+    <p>
+      I chose this picture because it captures me during an era when
+      so much of my identity and self worth was still tied to being
+      wanted, being loved, and being enough for someone else.
+    </p>
+
+    <p>
+      Looking at her now, I know something she hadn't figured out yet.
+      Losing someone else did not have to mean losing me.
+    </p>
+
+
+    <h2>Ignorant</h2>
+
+    <img
+      src="/images/uploads/ignorant.jpg"
+      alt="Photo representing the period of my life that inspired Ignorant"
+    />
+
+    <p>
+      <em>Ignorant</em> came after that relationship ended.
+    </p>
+
+    <p>
+      By then, I wasn't only angry at one person anymore. I was
+      carrying everything that relationship had left behind while also
+      having new experiences with men that gave that anger somewhere
+      else to land.
+    </p>
+
+    <p>
+      I was hurt, frustrated, defensive, and increasingly cynical
+      about men and relationships. Some of that anger was justified by
+      what I was experiencing. Some of it was me taking everything I
+      had been through and turning it into armor.
+    </p>
+
+    <p>
+      This song is what that armor sounded like.
+    </p>
+
+    <blockquote>
+      “You don’t lose women<br/>
+      Because we’re hard to love<br/>
+      You lose us<br/>
+      Because you never grow up.”
+    </blockquote>
+
+    <p>
+      I don't hear <em>Ignorant</em> today as a statement about every
+      man. I hear a younger version of myself who had been hurt enough
+      times that anger had become armor. I was learning to recognize
+      behavior I didn't want to accept anymore, even if I hadn't yet
+      figured out how to separate healthy boundaries from the walls I
+      was building around myself.
+    </p>
+
+    <p>
+      And underneath all of that anger was actually a very simple
+      request:
+    </p>
+
+    <blockquote>
+      “We were never asking for perfection<br/>
+      Just honesty.”
+    </blockquote>
+
+    <p>
+      Healing is not always graceful. Sometimes before you reach
+      understanding, you get angry.
+    </p>
+
+
+    <h2>Still Here</h2>
+
+    <img
+      src="/images/uploads/still-here.jpg"
+      alt="Photo representing the story behind Still Here"
+    />
+
+    <p>
+      <em>Still Here</em> is about surviving sexual assault.
+    </p>
+
+    <p>
+      For a long time, one of the hardest parts for me to understand
+      was my own response to what happened. We often imagine survival
+      as fighting, screaming, running, doing something. But sometimes
+      survival looks like becoming still. Sometimes your mind goes
+      somewhere else because your body cannot.
+    </p>
+
+    <blockquote>
+      “Stillness isn’t weakness<br/>
+      It’s survival wearing thin.”
+    </blockquote>
+
+    <p>
+      There were questions I carried afterward. Questions about what I
+      did or didn't do. Whether I fought enough. Whether freezing meant
+      something that it didn't. Whether what happened somehow became
+      mine to carry as shame.
+    </p>
+
+    <p>
+      Writing this song meant finally giving myself a different answer.
+    </p>
+
+    <blockquote>
+      “Now I know the body chooses<br/>
+      How to live through what it’s in.”
+    </blockquote>
+
+    <p>
+      I wrote more about why I chose metaphor to tell this story in
+      <a
+        href="/blog/writing-still-here-songwriting-trauma-metaphor"
+        style="color:#7c3aed;text-decoration:none;font-weight:600;"
+      >Writing Still Here: When Metaphor Says What Literal Words Cannot</a>.
+      This song needed to tell the truth without turning the most
+      painful experience into spectacle.
+    </p>
+
+    <p>
+      I chose this photograph because I wanted the person beside this
+      song to be me from that period of my life, not a symbolic image
+      of what happened. I look at her now knowing things she could not
+      possibly have understood then.
+    </p>
+
+    <p>
+      I don't see weakness when I look at her. I see someone who
+      survived.
+    </p>
+
+    <blockquote>
+      “I am not untouched<br/>
+      But I am not undone.”
+    </blockquote>
+
+    <p>
+      Not untouched. Not unchanged. But still here.
+    </p>
+
+
+    <h2>The Endless Powers of Me</h2>
+
+    <img
+      src="/images/uploads/the-endless-powers-of-me.jpg"
+      alt="Photo representing The Endless Powers of Me"
+    />
+
+    <p>
+      <em>The Endless Powers of Me</em> is the conclusion to this part
+      of the story.
+    </p>
+
+    <p>
+      For so much of my life, I think I imagined power as the ability
+      to escape. If I could disappear, fly away, erase the pain,
+      rewrite the past, or somehow become completely untouchable, then
+      maybe I would finally be powerful.
+    </p>
+
+    <blockquote>
+      “If I could I’d fly away<br/>
+      Soar my wings beyond this place.”
+    </blockquote>
+
+    <p>
+      As the song grows, those imagined powers get bigger. Fire,
+      oceans, wind, the ability to erase scars and accelerate healing.
+      I wanted the power to undo things that cannot actually be undone.
+    </p>
+
+    <p>
+      But eventually the song reaches the realization that became the
+      heart of the entire album.
+    </p>
+
+    <p>
+      Maybe I already had the power I kept wishing for.
+    </p>
+
+    <blockquote>
+      “Maybe flying isn’t leaving<br/>
+      Maybe it’s standing tall<br/>
+      Maybe endless power<br/>
+      Is surviving it all.”
+    </blockquote>
+
+    <p>
+      Power isn't having a life where nothing hurts you. It isn't being
+      able to erase the past or magically heal every scar. Sometimes
+      power is simply still being here after everything that was
+      supposed to knock you down and deciding that what happened before
+      does not get to write everything that happens next.
+    </p>
+
+    <p>
+      That realization is connected to something I have written about
+      throughout this year:
+      <a
+        href="/blog/breaking-patterns-personal-growth"
+        style="color:#7c3aed;text-decoration:none;font-weight:600;"
+      >breaking patterns and realizing we can choose differently</a>.
+      We cannot rewrite where we came from, but we do get a say in what
+      we carry forward.
+    </p>
+
+    <p>
+      I chose this picture because I see strength when I look at her.
+      Not the imaginary, invincible kind of strength I used to think I
+      needed. I see a woman who had already lived through so many of
+      the stories told across <em>Inherited Weather</em>, even if she
+      had not yet understood what all of them meant.
+    </p>
+
+
+    <h2>The Weather I Inherited</h2>
+
+    <p>
+      When I look at these eleven songs together, I don't see eleven
+      separate stories anymore.
+    </p>
+
+    <p>
+      I see a little girl watching her family and trying to understand
+      the adults around her. I see a daughter who idolized her mother
+      and eventually learned that loving someone and seeing their flaws
+      can exist at the same time. I see a sister realizing that two
+      children can survive the same house in completely different ways.
+    </p>
+
+    <p>
+      I see a dancer finding somewhere to put everything she couldn't
+      say.
+    </p>
+
+    <p>
+      I see a young woman confusing pain with love, losing pieces of
+      herself inside relationships, getting angry, surviving things she
+      never should have had to survive, and slowly figuring out who she
+      was underneath all of it.
+    </p>
+
+    <p>
+      And I see the woman writing this now.
+    </p>
+
+    <p>
+      I have written before about
+      <a
+        href="/blog/breaking-patterns-personal-growth"
+        style="color:#7c3aed;text-decoration:none;font-weight:600;"
+      >the moment you realize you can choose differently</a>.
+      I think that idea lives at the center of this album.
+    </p>
+
+    <p>
+      We inherit things from the people who came before us. Love.
+      Strength. Humor. Fear. Coping mechanisms. Traditions. Wounds.
+      Resilience. Sometimes we inherit things we want to keep forever.
+      Sometimes we inherit things we eventually realize need to end
+      with us.
+    </p>
+
+    <p>
+      That is <em>Inherited Weather</em> to me.
+    </p>
+
+    <p>
+      I couldn't change the weather I inherited.
+    </p>
+
+    <p>
+      But I survived every storm.
+    </p>
+
+    <p>
+      And somewhere along the way, I realized that was a power of its
+      own.
+    </p>
+
+    <p>
+      Thank you to everyone who has listened, shared a song, watched a
+      video, read one of these blogs, or simply allowed me to tell this
+      story in my own way.
+    </p>
+
+    <p>
+      This is only Part I.
+    </p>
+
+    <p>— Jen</p>
+  `
 }
   
 ];
